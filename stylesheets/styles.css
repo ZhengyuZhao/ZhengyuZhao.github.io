@@ -207,11 +207,15 @@ footer {
 }
 
 @media print, screen and (max-width: 960px) {
+	
+div{
+    	background-color: #a59f9d;
+
+  }
 
   div.wrapper {
     width:auto;
     margin:0;
-	background-color: #a59f9d;
 
   }
 
