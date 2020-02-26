@@ -116,7 +116,7 @@ img {
 }
 
 header {
-  width:180px;
+  width:280px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -223,7 +223,7 @@ footer {
   }
 
   header {
-    padding-right:120px;
+    padding-right:320px;
   }
 
   section {
