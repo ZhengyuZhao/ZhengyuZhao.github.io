@@ -208,7 +208,7 @@ footer {
 br {
             display: block; /* makes it have a width */
             content: ""; /* clears default height */
-            margin-top: 25; /* change this to whatever height you want it */
+            margin-top: 250; /* change this to whatever height you want it */
 }
 @media print, screen and (max-width: 960px) {
 	
