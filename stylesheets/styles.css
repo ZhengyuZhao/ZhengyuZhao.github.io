@@ -205,7 +205,11 @@ footer {
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
-
+br {
+            display: block; /* makes it have a width */
+            content: ""; /* clears default height */
+            margin-top: 5; /* change this to whatever height you want it */
+}
 @media print, screen and (max-width: 960px) {
 	
 
