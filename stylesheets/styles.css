@@ -24,7 +24,7 @@ p, ul, ol, table, pre, dl {
 }
 
 h1, h2, h3, h7 {
-  line-height:0.5;
+  line-height:1;
 }
 h1 {
   font-size:28px;
@@ -132,7 +132,7 @@ header ul {
 }
 
 header li {
-  line-height:0.5;
+  line-height:1;
   width:59px;
   float:left;
   border-right:1px solid #e0e0e0;
@@ -148,7 +148,7 @@ header li:last-child a {
 }
 
 header ul a {
-  line-height:0.5;
+  line-height:1;
   font-size:10px;
   color:#28c;
   display:block;
@@ -205,11 +205,7 @@ footer {
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
-br {
-            display: block; /* makes it have a width */
-            content: ""; /* clears default height */
-            margin-top: 250; /* change this to whatever height you want it */
-}
+
 @media print, screen and (max-width: 960px) {
 	
 
