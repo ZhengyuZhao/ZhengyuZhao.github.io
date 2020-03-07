@@ -132,7 +132,7 @@ header ul {
 }
 
 header li {
-  line-height:1;
+  line-height:0.5;
   width:59px;
   float:left;
   border-right:1px solid #e0e0e0;
