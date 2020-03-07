@@ -24,7 +24,7 @@ p, ul, ol, table, pre, dl {
 }
 
 h1, h2, h3, h7 {
-  line-height:0;
+  line-height:1;
 }
 h1 {
   font-size:28px;
@@ -130,11 +130,9 @@ header ul {
   border:1px solid #e0e0e0;
   width:180px;
 }
-div.a {
-  line-height: 0.5;
-}
+
 header li {
-  line-height:0;
+  line-height:1;
   leading:
   width:59px;
   float:left;
@@ -151,7 +149,7 @@ header li:last-child a {
 }
 
 header ul a {
-  line-height:0;
+  line-height:1;
   font-size:10px;
   color:#28c;
   display:block;
