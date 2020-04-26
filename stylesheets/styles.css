@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,400italic,700italic,700);
 
-/* body {
+body {
   background-color: #fff;
   padding:30px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -41,7 +41,7 @@ h2 {
 
 h3, h4, h5, h6 {
   color:#000;
-} */
+}
 
 /* a {
   color:#1C86EE;
@@ -64,7 +64,7 @@ a:hover small {
   color:#777;
 } */
 
-/* .wrapper {
+.wrapper {
   width:960px;
   margin:0 auto;
 }
@@ -88,7 +88,7 @@ pre {
   border-radius:5px;
   border:1px solid #e5e5e5;
   overflow-x: auto;
-} */
+}
 
 /* table {
   width:100%;
@@ -121,7 +121,7 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-/* header ul {
+header ul {
   list-style:none;
   height:40px;
   padding:0;
@@ -129,9 +129,9 @@ header {
   border-radius:5px;
   border:1px solid #e0e0e0;
   width:180px;
-} */
+}
 
-/* header li {
+header li {
   line-height:1;
   leading:
   width:59px;
@@ -146,7 +146,7 @@ header li:first-child a {
 
 header li:last-child a {
   border-radius:0 5px 5px 0;
-} */
+}
 
 /* header ul a {
   line-height:1;
@@ -168,14 +168,14 @@ header ul a:active {
  */
 /* strong {
   font-weight:700;
-}
+} */
 
 header ul li + li + li {
   border-right:none;
   width:59px;
 }
 
-header ul a strong {
+/* header ul a strong {
   font-size:12px;
   display:block;
   color:#222;
