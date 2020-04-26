@@ -49,7 +49,7 @@ h3, h4, h5, h6 {
 
 } */
 
-a:hover {
+/* a:hover {
   color:#069;
 }
 
@@ -62,7 +62,7 @@ a small {
 
 a:hover small {
   color:#777;
-}
+} */
 
 .wrapper {
   width:960px;
@@ -131,7 +131,7 @@ header ul {
   width:180px;
 }
 
-header li {
+/* header li {
   line-height:1;
   leading:
   width:59px;
@@ -146,9 +146,9 @@ header li:first-child a {
 
 header li:last-child a {
   border-radius:0 5px 5px 0;
-}
+} */
 
-header ul a {
+/* header ul a {
   line-height:1;
   font-size:10px;
   color:#28c;
@@ -165,8 +165,8 @@ header ul a:hover {
 header ul a:active {
   background-color:#f0f0f0;
 }
-
-strong {
+ */
+/* strong {
   font-weight:700;
 }
 
@@ -179,7 +179,7 @@ header ul a strong {
   font-size:12px;
   display:block;
   color:#222;
-}
+} */
 
 section {
   width:780px;
