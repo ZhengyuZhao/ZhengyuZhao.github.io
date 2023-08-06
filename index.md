@@ -3,14 +3,14 @@ layout: homepage
 ---
 
 ## About Me
-I am a postdoc at [CISPA Helmholtz Center for Information Security](https://cispa.de/en/about), Germany, hosted by [Prof. Michael Backes](https://cispa.de/en/about/director-page).
+I am an Associate Professor (tenure-track research faculty) at the School of Cyber Science and Engineering, [Xi'an Jiaotong University](http://en.xjtu.edu.cn/XJTU_Introduction/Introduction.htm) (XJTU, 西安交通大学), affiliated with Ministry of Education Key Lab for Intelligent Networks and Network Security (MOE KLINNS Lab, 智能网络与网络安全教育部重点实验室). Before that, I was a postdoc at [CISPA Helmholtz Center for Information Security](https://cispa.de/en/about), Germany, hosted by [Prof. Michael Backes](https://cispa.de/en/about/director-page).
 I received my PhD from [Radboud University](https://www.ru.nl/english/), The Netherlands, under the supervision of [Prof. Martha Larson](https://www.ru.nl/english/people/larson-m/).
 My general research interest is <strong>Machine Learning Security & Privacy</strong>; Most of my work has concentrated on analyzing the vulnerability of deep neural networks to various attacks, e.g., (test-time) adversarial examples and (training-time) data poisons.
 
-I will be joining [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/XJTU_Introduction/Introduction.htm), China, as a tenure-track research faculty (equivalent to associate professor), starting in the fall of 2023. 
-If you are interested in doing a PhD/Master in AI Security and Privacy, please reach out! A strong background in machine learning, cyber security, or a related field is a plus.
+<strong><span style="color:#ff0000;">If you are interested in doing a PhD/Master with me, please reach out! A strong background in machine learning, cyber security, or a related field is a plus. :-)</span></strong>
 
 ## News
+- **08/2023** I join [Xi'an Jiaotong University](http://en.xjtu.edu.cn/XJTU_Introduction/Introduction.htm) as an Associate Professor (tenure-track research faculty)!
 - **02/2023** I am an [Outstanding Reviewer](https://bmvc2022.org/people/reviewers/) of <strong>AISTATS 2023</strong>!
 - **11/2022** I am an [Outstanding Reviewer](https://bmvc2022.org/people/reviewers/) of <strong>BMVC 2022</strong>!
 - **07/2022** I am a Senior Program Committee (SPC) Member of <strong>AAAI 2023</strong>!
@@ -302,6 +302,7 @@ If you are interested in doing a PhD/Master in AI Security and Privacy, please r
 
 ## Invited Talks 
 <ul style="margin:0 0 5px;">
+<li>Adversarial Examples and Data Poisons, Saarland University (Guest Lecture), 2023-06-19. </li> 
 <li>Computer Vision in Adversarial Scenarios, LIS - Ecole Centrale Marseille, 2023-03-03. <a href="./assets/img/Talk_Marseille.pdf">[Slides]</a> </li> 
 <li>Computer Vision against Adversarial Perturbations, Hong Kong PolyU, 2022-12-16. <a href="./assets/img/PolyU_ZhengyuZhao.pdf">[Slides]</a> </li> 
 <li>Transferable and Stealthy Adversarial Images, Alibaba Turing Lab, 2022-03-03. <a href="./assets/img/AIibaba_ZhengyuZhao.pdf">[Slides]</a> </li> 
