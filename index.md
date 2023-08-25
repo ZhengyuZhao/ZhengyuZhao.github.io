@@ -308,11 +308,11 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 </ul>
 
 <ul style="margin:0 0 5px;">
-  <li>Senior Program Committee of AAAI 2023</li>
+  <li>Senior Program Committee of AAAI</li>
 </ul>
 
 <ul style="margin:0 0 5px;">
-  <li>Program Committee of ICLR 2023, NeurIPS 2023, CVPR 2022-2023, ICCV 2023, BMVC 2020-2023, AISTATS 2023, ECCV 2022, AAAI 2022, FAccT 2022</li>
+  <li>Program Committee of ICLR, NeurIPS, CVPR, ICCV, ECCV, BMVC, AISTATS, FAccT</li>
 </ul>
 
 <ul style="margin:0 0 20px;">
