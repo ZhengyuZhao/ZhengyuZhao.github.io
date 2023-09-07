@@ -71,7 +71,6 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
       <div class="author">Weijie Wang, <strong>Zhengyu Zhao</strong>, Nicu Sebe, Bruno Lepri</div>
       <div class="periodical"><em><strong>arXiv</strong>, 2023.</em>
       </div>
-    </div>
   </div>
 </div>
 </li>  
