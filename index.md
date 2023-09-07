@@ -59,6 +59,23 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 </div>
 </li>  
 <br>  
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/AdvHeat.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">arXiv</abbr>
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/abs/2309.01104">Turn Fake into Real: Adversarial Head Turn Attacks Against Deepfake Detection</a></div>
+      <div class="author">Weijie Wang, <strong>Zhengyu Zhao</strong>, Nicu Sebe, Bruno Lepri</div>
+      <div class="periodical"><em><strong>arXiv</strong>, 2023.</em>
+      </div>
+    </div>
+  </div>
+</div>
+</li>  
+<br>  
   
 <li>
 <div class="pub-row">
