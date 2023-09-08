@@ -10,7 +10,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <strong><span style="color:#ff0000;">If you are interested in doing a PhD/Master with me, please reach out! A strong background in machine learning, cyber security, or a related field is a plus. :-)</span></strong>
 
 ## News
-- **08/2023** I join [Xi'an Jiaotong University](http://en.xjtu.edu.cn/XJTU_Introduction/Introduction.htm) as a tenure-track Associate Professor!
+- **07/2023** I join [Xi'an Jiaotong University](http://en.xjtu.edu.cn/XJTU_Introduction/Introduction.htm) as a tenure-track Associate Professor!
 - **02/2023** I am an [Outstanding Reviewer](https://bmvc2022.org/people/reviewers/) of <strong>AISTATS 2023</strong>!
 - **11/2022** I am an [Outstanding Reviewer](https://bmvc2022.org/people/reviewers/) of <strong>BMVC 2022</strong>!
 - **07/2022** I am a Senior Program Committee (SPC) Member of <strong>AAAI 2023</strong>!
