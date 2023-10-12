@@ -26,7 +26,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <div class="publications">
 <ol class="bibliography">
 <li>
-<div class="pub-row" style="margin: 0px 0px -25px;width:900px">
+<div class="pub-row" style="margin: 0px 0px -25px;width:850px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/thesis_cover.jpg" class="teaser img-fluid z-depth-1">
             <abbr class="badge">PhD Thesis</abbr>
@@ -42,7 +42,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <br>
   
 <li>
-<div class="pub-row" style="margin: 0px 0px -25px;width:900px">
+<div class="pub-row" style="margin: 0px 0px -25px;width:850px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/transferEval.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">arXiv</abbr>
@@ -61,7 +61,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <br>  
 
 <li>
-<div class="pub-row" style="margin: 0px 0px -25px;width:900px">
+<div class="pub-row" style="margin: 0px 0px -25px;width:850px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/AdvHeat.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">arXiv</abbr>
@@ -77,7 +77,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <br>  
   
 <li>
-<div class="pub-row" style="margin: 0px 0px -25px;width:900px">
+<div class="pub-row" style="margin: 0px 0px -25px;width:850px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/GenWatermark.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">arXiv</abbr>
@@ -96,7 +96,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <br>  
 
 <li>
-<div class="pub-row" style="margin: 0px 0px -25px;width:900px">
+<div class="pub-row" style="margin: 0px 0px -25px;width:850px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/LLM.PNG" class="teaser img-fluid z-depth-1">
             <abbr class="badge">arXiv</abbr>
@@ -112,7 +112,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <br>  
   
  <li>
-<div class="pub-row" style="margin: 0px 0px -25px;width:900px">
+<div class="pub-row" style="margin: 0px 0px -25px;width:850px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/ISS.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ICML</abbr>
@@ -131,7 +131,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <br>  
   
 <li>
-<div class="pub-row" style="margin: 0px 0px -25px;width:900px">
+<div class="pub-row" style="margin: 0px 0px -25px;width:850px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/ICLR2023.PNG" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ICLR</abbr>
@@ -139,7 +139,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
       <div class="title"><a href="https://openreview.net/forum?id=zKvm1ETDOq">Is Adversarial Training Really a Silver Bullet for Mitigating Data Poisoning?</a></div>
       <div class="author">Rui Wen, <strong>Zhengyu Zhao</strong>, Zhuoran Liu, Michael Backes, Tianhao Wang, Yang Zhang</div>
-      <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2023.</em> <strong>(<span style="color:#ff0000;">Oral presentation / notable-top-25% paper</span>)</strong>
+      <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2023.</em> <br> <strong>(<span style="color:#ff0000;">Oral presentation / notable-top-25% paper</span>)</strong>
       </div>
     <div class="links">
       <a href="https://github.com/WenRuiUSTC/EntF" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -150,7 +150,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <br>
    
 <li>
-<div class="pub-row" style="margin: 0px 0px -25px;width:900px">
+<div class="pub-row" style="margin: 0px 0px -25px;width:850px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/illustration.PNG" class="teaser img-fluid z-depth-1">
             <abbr class="badge">TIFS</abbr>
@@ -171,7 +171,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <br> 
   
 <li>
-<div class="pub-row" style="margin: 0px 0px -25px;width:900px">
+<div class="pub-row" style="margin: 0px 0px -25px;width:850px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/loss_t.PNG" class="teaser img-fluid z-depth-1">
             <abbr class="badge">CCS</abbr>
@@ -191,7 +191,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <br> 
   
 <li>
-<div class="pub-row" style="margin: 0px 0px -25px;width:900px">
+<div class="pub-row" style="margin: 0px 0px -25px;width:850px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/google.PNG" class="teaser img-fluid z-depth-1">
             <abbr class="badge">NeurIPS</abbr>
@@ -213,7 +213,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <br>
   
 <li>
-<div class="pub-row" style="margin: 0px 0px -25px;width:900px">
+<div class="pub-row" style="margin: 0px 0px -25px;width:850px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/screengleaning.PNG" class="teaser img-fluid z-depth-1">
             <abbr class="badge">NDSS</abbr>
@@ -233,7 +233,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <br>
 
 <li>
-<div class="pub-row" style="margin: 0px 0px -25px;width:900px">
+<div class="pub-row" style="margin: 0px 0px -25px;width:850px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/perc.PNG" class="teaser img-fluid z-depth-1">
             <abbr class="badge">CVPR</abbr>
@@ -253,7 +253,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <br>
 
 <li>
-<div class="pub-row" style="margin: 0px 0px -25px;width:900px">
+<div class="pub-row" style="margin: 0px 0px -25px;width:850px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/PIRE_2.PNG" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ICMR</abbr>
@@ -272,7 +272,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <br>
   
 <li>
-<div class="pub-row" style="margin: 0px 0px -25px;width:900px">
+<div class="pub-row" style="margin: 0px 0px -25px;width:850px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/adired.PNG" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ACM MM</abbr>
@@ -315,7 +315,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <br>
 
 ## Services
-<ul style="margin:15px 0 0px;width:900px">
+<ul style="margin:15px 0 0px;width:850px">
   <li>Poster Session Co-Chair of ACM MM 2019</li>
   <li>Task Co-Organizer of <a href="https://multimediaeval.github.io/editions/2020/tasks/pixelprivacy/">Pixel Privacy</a> and <a href="http://www.multimediaeval.org/mediaeval2019/multimediasatellite/">Multimedia Satellite</a> at <a href="https://multimediaeval.github.io/">MediaEval</a> 2018-2020</li>
   <li>Senior Program Committee of AAAI</li>
@@ -324,7 +324,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 </ul>
 
 ## Invited Talks 
-<ul style="margin:15px 0 -25px;width:900px">
+<ul style="margin:15px 0 0px;width:850px">
 <li>Security and Privacy Risks of AI Large Models, ICIG2023 Workshop on <br> Opportunities and Security Challenges of Large Visual Model, 2023-09-23. </li> 
 <li>Adversarial Examples and Data Poisons, Saarland University (Guest Lecture), 2023-06-19. </li> 
 <li>Computer Vision in Adversarial Scenarios, LIS - Ecole Centrale Marseille, 2023-03-03. <a href="./assets/img/Talk_Marseille.pdf">[Slides]</a> </li> 
@@ -334,7 +334,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 </ul>
 
 ## Honors & Awards 
-<ul style="margin:15px 0 -25px;width:900px">
+<ul style="margin:15px 0 0px;width:850px">
 <li>Doctoral Consortium Award, CVPR 2021</li>
 <li>Top 1% teams in <a href="https://tianchi.aliyun.com/competition/entrance/531853/introduction">CVPR 2021 Unrestricted Adversarial Attacks on ImageNet Competition</a></li>
 <li>Outstanding Reviewer of BMVC 2020 (~6%), BMVC 2022 (~8%), AISTATS 2023 (~11%)</li>
@@ -342,12 +342,12 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 </ul>  
 
 ## Teaching
-<ul style="margin:15px 0 -25px;width:900px">
+<ul style="margin:15px 0 0px;width:850px">
 <li>Teaching Assistant, <a href="https://cms.cispa.saarland/amlm2023/">Advanced Lecture: Attacks Against Machine Learning Models</a> (2023 Summer), Saarland University</li>
 </ul>  
 
 ## Miscellaneous
-<ul style="margin:15px 0 -25px;width:900px">
+<ul style="margin:15px 0 0px;width:850px">
 <li>I like simple yet effective research ideas.</li>
 <li>I respect <a href="https://nicholas.carlini.com/">Dr. Nicholas Carlini</a> for his long-term dedication to evaluating adversarial robustness.</li>
 <li>I love music, particularly Chinese music.</li>
