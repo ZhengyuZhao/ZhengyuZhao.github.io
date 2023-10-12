@@ -26,7 +26,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <div class="publications">
 <ol class="bibliography">
 <li>
-<div class="pub-row" style="margin: 0px 0px -25px;padding-right: 50px;">
+<div class="pub-row" style="margin: 0px 0px -25px;width:100px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/thesis_cover.jpg" class="teaser img-fluid z-depth-1">
             <abbr class="badge">PhD Thesis</abbr>
