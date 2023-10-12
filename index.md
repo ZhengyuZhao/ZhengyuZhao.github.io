@@ -23,7 +23,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 
 <h2 id="publications" style="margin: 0px 0px -25px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=en&user=pC8KpPMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/58/10770-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
 
-<div class="publications" style="margin: -40px 0px 0px;">
+<div class="publications" style="position: relative;width: 100%;padding-right: 50px;padding-left: 0px;">
 <ol class="bibliography">
 <li>
 <div class="pub-row" style="margin: 0px 0px -25px;">
