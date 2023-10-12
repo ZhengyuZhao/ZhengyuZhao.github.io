@@ -21,12 +21,12 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 - **08/2020** I am an [Outstanding Reviewer](https://www.bmvc2020-conference.com/people/reviewers/) of <strong>BMVC 2020</strong>!
 - **07/2020** We are organizing the 3rd edition of [Pixel Privacy Task](https://multimediaeval.github.io/editions/2020/tasks/pixelprivacy/) at <strong>MediaEval Benchmark 2020</strong>!
 
-<h2 id="publications" style="margin: 0px 0px -40px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=en&user=pC8KpPMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/58/10770-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
+<h2 id="publications" style="margin: 0px 0px -50px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=en&user=pC8KpPMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/58/10770-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
 
 <div class="publications">
 <ol class="bibliography">
 <li>
-<div class="pub-row" style="margin: 0px 0px -40px;width:900px">
+<div class="pub-row" style="margin: 0px 0px -50px;width:900px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/thesis_cover.jpg" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">PhD Thesis</abbr> -->
@@ -39,10 +39,9 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
   </div>
 </div>
 </li>
-<br>
   
 <li>
-<div class="pub-row" style="margin: 0px 0px -40px;width:900px">
+<div class="pub-row" style="margin: 0px 0px -50px;width:900px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/transferEval.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">arXiv</abbr> -->
@@ -58,10 +57,9 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
   </div>
 </div>
 </li>  
-<br>  
 
 <li>
-<div class="pub-row" style="margin: 0px 0px -40px;width:900px">
+<div class="pub-row" style="margin: 0px 0px -50px;width:900px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/AdvHeat.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">arXiv</abbr> -->
@@ -74,10 +72,39 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
   </div>
 </div>
 </li>  
-<br>  
-  
+
 <li>
-<div class="pub-row" style="margin: 0px 0px -40px;width:900px">
+<div class="pub-row" style="margin: 0px 0px -50px;width:900px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/cba.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">arXiv</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2310.07676">Composite Backdoor Attacks Against Large Language Models</a></div>
+      <div class="author">Hai Huang, <strong>Zhengyu Zhao</strong>, Yun Shen, Michael Backes, Yang Zhang</div>
+      <div class="periodical"><em><strong>arXiv</strong>, 2023.</em>
+      </div>
+  </div>
+</div>
+</li>  
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -50px;width:900px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/bvp.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">arXiv</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2310.07632">Prompt Backdoors in Visual Prompt Learning</a></div>
+      <div class="author">Hai Huang, <strong>Zhengyu Zhao</strong>, Yun Shen, Michael Backes, Yang Zhang</div>
+      <div class="periodical"><em><strong>arXiv</strong>, 2023.</em>
+      </div>
+  </div>
+</div>
+</li>  
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -50px;width:900px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/GenWatermark.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">arXiv</abbr> -->
@@ -93,10 +120,9 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
   </div>
 </div>
 </li>  
-<br>  
 
 <li>
-<div class="pub-row" style="margin: 0px 0px -40px;width:900px">
+<div class="pub-row" style="margin: 0px 0px -50px;width:900px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/LLM.PNG" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">arXiv</abbr> -->
@@ -109,10 +135,9 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
   </div>
 </div>
 </li>  
-<br>  
   
  <li>
-<div class="pub-row" style="margin: 0px 0px -40px;width:900px">
+<div class="pub-row" style="margin: 0px 0px -50px;width:900px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/ISS.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">ICML</abbr> -->
@@ -128,10 +153,9 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
   </div>
 </div>
 </li>  
-<br>  
   
 <li>
-<div class="pub-row" style="margin: 0px 0px -40px;width:900px">
+<div class="pub-row" style="margin: 0px 0px -50px;width:900px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/ICLR2023.PNG" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">ICLR</abbr> -->
@@ -147,10 +171,9 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
   </div>
 </div>
 </li>  
-<br>
    
 <li>
-<div class="pub-row" style="margin: 0px 0px -40px;width:900px">
+<div class="pub-row" style="margin: 0px 0px -50px;width:900px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/illustration.PNG" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">TIFS</abbr> -->
@@ -168,10 +191,9 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
   </div>
 </div>
 </li> 
-<br> 
   
 <li>
-<div class="pub-row" style="margin: 0px 0px -40px;width:900px">
+<div class="pub-row" style="margin: 0px 0px -50px;width:900px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/loss_t.PNG" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">CCS</abbr> -->
@@ -188,10 +210,9 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
   </div>
 </div>
 </li>
-<br> 
   
 <li>
-<div class="pub-row" style="margin: 0px 0px -40px;width:900px">
+<div class="pub-row" style="margin: 0px 0px -50px;width:900px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/google.PNG" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">NeurIPS</abbr> -->
@@ -210,10 +231,9 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
   </div>
 </div>
 </li>
-<br>
   
 <li>
-<div class="pub-row" style="margin: 0px 0px -40px;width:900px">
+<div class="pub-row" style="margin: 0px 0px -50px;width:900px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/screengleaning.PNG" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">NDSS</abbr> -->
@@ -230,10 +250,9 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
   </div>
 </div>
 </li>
-<br>
 
 <li>
-<div class="pub-row" style="margin: 0px 0px -40px;width:900px">
+<div class="pub-row" style="margin: 0px 0px -50px;width:900px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/perc.PNG" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">CVPR</abbr> -->
@@ -250,10 +269,9 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
   </div>
 </div>
 </li>
-<br>
 
 <li>
-<div class="pub-row" style="margin: 0px 0px -40px;width:900px">
+<div class="pub-row" style="margin: 0px 0px -50px;width:900px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/PIRE_2.PNG" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">ICMR</abbr> -->
@@ -269,10 +287,9 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
   </div>
 </div>
 </li>  
-<br>
   
 <li>
-<div class="pub-row" style="margin: 0px 0px -40px;width:900px">
+<div class="pub-row" style="margin: 0px 0px -50px;width:900px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/adired.PNG" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">ACM MM</abbr> -->
