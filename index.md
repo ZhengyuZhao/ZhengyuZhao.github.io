@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am an Associate Professor (tenure-track research faculty) at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/XJTU_Introduction/Introduction.htm) (XJTU, 西安交通大学), China. I was a postdoc at [CISPA Helmholtz Center for Information Security](https://cispa.de/en/about), Germany, hosted by [Prof. Michael Backes](https://cispa.de/en/about/director-page).
+I am a tenure-track Associate Professor (特聘研究员) at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/XJTU_Introduction/Introduction.htm) (XJTU, 西安交通大学), China. I was a postdoc at [CISPA Helmholtz Center for Information Security](https://cispa.de/en/about), Germany, hosted by [Prof. Michael Backes](https://cispa.de/en/about/director-page).
 I received my PhD from [Radboud University](https://www.ru.nl/english/), The Netherlands, under the supervision of [Prof. Martha Larson](https://www.ru.nl/english/people/larson-m/).
 My general research interest is <strong>Machine Learning Security & Privacy</strong>; Most of my work has concentrated on analyzing the vulnerability of deep neural networks to various attacks, e.g., (test-time) adversarial examples and (training-time) data poisons.
 
@@ -23,10 +23,10 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 
 <h2 id="publications" style="margin: 0px 0px -25px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=en&user=pC8KpPMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/58/10770-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
 
-<div class="publications" style="position: relative;width: 100%;padding-right: 50px;padding-left: 0px;">
+<div class="publications">
 <ol class="bibliography">
 <li>
-<div class="pub-row" style="margin: 0px 0px -25px;">
+<div class="pub-row" style="margin: 0px 0px -25px;padding-right: 50px;">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/thesis_cover.jpg" class="teaser img-fluid z-depth-1">
             <abbr class="badge">PhD Thesis</abbr>
