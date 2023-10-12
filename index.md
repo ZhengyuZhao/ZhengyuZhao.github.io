@@ -27,11 +27,11 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <ol class="bibliography">
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 0px;padding-left: 0px;">
     <img src="./assets/img/thesis_cover.jpg" class="teaser img-fluid z-depth-1">
             <abbr class="badge">PhD Thesis</abbr>
   </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
       <div class="title"><a href="https://repository.ubn.ru.nl/handle/2066/245409">Rethinking Realism: Towards More Transferable and Less Suspicious Adversarial Images</a></div>
       <div class="author"><strong>Zhengyu Zhao</strong></div>
       <div class="periodical"><em>Radboud University, 2022.</em>
