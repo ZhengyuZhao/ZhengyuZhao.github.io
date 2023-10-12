@@ -21,9 +21,9 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 - **08/2020** I am an [Outstanding Reviewer](https://www.bmvc2020-conference.com/people/reviewers/) of <strong>BMVC 2020</strong>!
 - **07/2020** We are organizing the 3rd edition of [Pixel Privacy Task](https://multimediaeval.github.io/editions/2020/tasks/pixelprivacy/) at <strong>MediaEval Benchmark 2020</strong>!
 
-<h2 id="publications" style="margin: 0px -30px -25px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=en&user=pC8KpPMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/58/10770-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
+<h2 id="publications" style="margin: 0px 0px -25px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=en&user=pC8KpPMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/58/10770-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
 
-<div class="publications">
+<div class="publications" style="margin: -40px 0px 0px;">
 <ol class="bibliography">
 <li>
 <div class="pub-row" style="margin: 0px 0px -25px;">
