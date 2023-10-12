@@ -289,7 +289,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 </li>  
   
 <li>
-<div class="pub-row" style="margin: 0px 0px -50px;width:900px">
+<div class="pub-row" style="margin: 0px 0px 0px;width:900px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/adired.PNG" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">ACM MM</abbr> -->
@@ -331,7 +331,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 </div>
 
 ## Services
-<ul style="margin:25px 0 -5px;width:900px">
+<ul style="margin:-5px 0 25px;width:900px">
   <li>Poster Session Co-Chair of ACM MM 2019</li>
   <li>Task Co-Organizer of <a href="https://multimediaeval.github.io/editions/2020/tasks/pixelprivacy/">Pixel Privacy</a> and <a href="http://www.multimediaeval.org/mediaeval2019/multimediasatellite/">Multimedia Satellite</a> at <a href="https://multimediaeval.github.io/">MediaEval</a> 2018-2020</li>
   <li>Senior Program Committee of AAAI</li>
@@ -340,7 +340,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 </ul>
 
 ## Invited Talks 
-<ul style="margin:25px 0 -5px;width:900px">
+<ul style="margin:-5px 0 25px;width:900px">
 <li>Security and Privacy Risks of AI Large Models, ICIG2023 Workshop on <br> Opportunities and Security Challenges of Large Visual Model, 2023-09-23. </li> 
 <li>Adversarial Examples and Data Poisons, Saarland University (Guest Lecture), 2023-06-19. </li> 
 <li>Computer Vision in Adversarial Scenarios, LIS - Ecole Centrale Marseille, 2023-03-03. <a href="./assets/img/Talk_Marseille.pdf">[Slides]</a> </li> 
@@ -350,7 +350,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 </ul>
 
 ## Honors & Awards 
-<ul style="margin:25px 0 -5px;width:900px">
+<ul style="margin:-5px 0 25px;width:900px">
 <li>Doctoral Consortium Award, CVPR 2021</li>
 <li>Top 1% teams in <a href="https://tianchi.aliyun.com/competition/entrance/531853/introduction">CVPR 2021 Unrestricted Adversarial Attacks on ImageNet Competition</a></li>
 <li>Outstanding Reviewer of BMVC 2020 (~6%), BMVC 2022 (~8%), AISTATS 2023 (~11%)</li>
@@ -358,12 +358,12 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 </ul>  
 
 ## Teaching
-<ul style="margin:25px 0 -5px;width:900px">
+<ul style="margin:-5px 0 25px;width:900px">
 <li>Teaching Assistant, <a href="https://cms.cispa.saarland/amlm2023/">Advanced Lecture: Attacks Against Machine Learning Models</a> (2023 Summer), Saarland University</li>
 </ul>  
 
 ## Miscellaneous
-<ul style="margin:25px 0 -5px;width:900px">
+<ul style="margin:-5px 0 25px;width:900px">
 <li>I like simple yet effective research ideas.</li>
 <li>I respect <a href="https://nicholas.carlini.com/">Dr. Nicholas Carlini</a> for his long-term dedication to evaluating adversarial robustness.</li>
 <li>I love music, particularly Chinese music.</li>
