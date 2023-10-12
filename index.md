@@ -21,7 +21,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 - **08/2020** I am an [Outstanding Reviewer](https://www.bmvc2020-conference.com/people/reviewers/) of <strong>BMVC 2020</strong>!
 - **07/2020** We are organizing the 3rd edition of [Pixel Privacy Task](https://multimediaeval.github.io/editions/2020/tasks/pixelprivacy/) at <strong>MediaEval Benchmark 2020</strong>!
 
-<h2 id="publications" style="margin: 2px 0px 0px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=en&user=pC8KpPMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/58/10770-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
+<h2 id="publications" style="margin: 2px 0px -25px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=en&user=pC8KpPMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/58/10770-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -315,25 +315,25 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 
 ## Services
 
-<ul style="margin:0 0 5px;">
+<ul style="margin:0 0 0px;">
   <li>Poster Session Co-Chair of ACM MM 2019</li>
   <li>Task Co-Organizer of <a href="https://multimediaeval.github.io/editions/2020/tasks/pixelprivacy/">Pixel Privacy</a> and <a href="http://www.multimediaeval.org/mediaeval2019/multimediasatellite/">Multimedia Satellite</a> at <a href="https://multimediaeval.github.io/">MediaEval</a> 2018-2020</li>
 </ul>
 
-<ul style="margin:0 0 5px;">
+<ul style="margin:0 0 0px;">
   <li>Senior Program Committee of AAAI</li>
 </ul>
 
-<ul style="margin:0 0 5px;">
+<ul style="margin:0 0 0px;">
   <li>Program Committee of ICLR, NeurIPS, CVPR, ICCV, ECCV, BMVC, AISTATS, FAccT</li>
 </ul>
 
-<ul style="margin:0 0 20px;">
+<ul style="margin:0 0 0px;">
   <li>Reviewer of IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Information Forensics and Security (TIFS), Pattern Recognition, International Journal of Intelligent Systems</li>
 </ul>
 
 ## Invited Talks 
-<ul style="margin:0 0 5px;">
+<ul style="margin:0 0 0px;">
 <li>Adversarial Examples and Data Poisons, Saarland University (Guest Lecture), 2023-06-19. </li> 
 <li>Computer Vision in Adversarial Scenarios, LIS - Ecole Centrale Marseille, 2023-03-03. <a href="./assets/img/Talk_Marseille.pdf">[Slides]</a> </li> 
 <li>Computer Vision against Adversarial Perturbations, Hong Kong PolyU, 2022-12-16. <a href="./assets/img/PolyU_ZhengyuZhao.pdf">[Slides]</a> </li> 
@@ -342,7 +342,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 </ul>
 
 ## Honors & Awards 
-<ul style="margin:0 0 5px;">
+<ul style="margin:0 0 0px;">
 <li>Doctoral Consortium Award, CVPR 2021</li>
 <li>Top 1% teams in <a href="https://tianchi.aliyun.com/competition/entrance/531853/introduction">CVPR 2021 Unrestricted Adversarial Attacks on ImageNet Competition</a></li>
 <li>Outstanding Reviewer of BMVC 2020 (~6%), BMVC 2022 (~8%), AISTATS 2023 (~11%)</li>
@@ -350,18 +350,18 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 </ul>  
 
 ## Teaching
-<ul style="margin:0 0 5px;">
+<ul style="margin:0 0 0px;">
 <li>Teaching Assistant, <a href="https://cms.cispa.saarland/amlm2023/">Advanced Lecture: Attacks Against Machine Learning Models</a> (2023 Summer), Saarland University</li>
 </ul>  
 
 
 ## Miscellaneous
-<ul style="margin:0 0 5px;">
+<ul style="margin:0 0 0px;">
 <li>I like simple yet effective research ideas.</li>
 <li>I respect <a href="https://nicholas.carlini.com/">Dr. Nicholas Carlini</a> for his long-term dedication to evaluating adversarial robustness.</li>
 <li>I love music, particularly Chinese music.</li>
   
 <!--
 ## Contact
-**Address:** [CISPA Helmholtz Center for Information Security, Stuhlsatzenhaus 5, 66123 Saarbrücken, Germany](https://cispa.de/en)
+**Address:** [Xi'an Jiaotong University](http://en.xjtu.edu.cn/)
 -->
