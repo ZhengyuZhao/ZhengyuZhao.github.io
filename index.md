@@ -34,7 +34,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
       <div class="title"><a href="https://repository.ubn.ru.nl/handle/2066/245409">Rethinking Realism: Towards More Transferable and Less Suspicious Adversarial Images</a></div>
       <div class="author"><strong>Zhengyu Zhao</strong></div>
-      <div class="periodical"><em>Radboud University, 2022.</em>
+      <div class="periodical"><em><strong>PhD thesis</strong>, Radboud University, 2022.</em>
       </div>
   </div>
 </div>
@@ -52,7 +52,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
       <div class="periodical"><em><strong>arXiv</strong>, 2023.</em>
       </div>
     <div class="links">
-      <a href="https://github.com/ZhengyuZhao/TransferAttackEval" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/ZhengyuZhao/TransferAttackEval" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code and a categorized list of transferable attack papers!</a>
     </div>
   </div>
 </div>
