@@ -235,7 +235,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 </ol>
 </div>
 
-<h2 id="publications" style="margin: 0px 0px -30px;">Preprints <temp style="font-size:15px;"></h2>
+<h2 id="publications" style="margin: 0px 0px -30px;">Preprints </h2>
 
 <div class="publications">
 <ol class="bibliography">
