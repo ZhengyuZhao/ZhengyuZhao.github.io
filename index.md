@@ -14,7 +14,6 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 - **07/2023** I join [Xi'an Jiaotong University](http://en.xjtu.edu.cn/XJTU_Introduction/Introduction.htm) as an Associate Professor!
 - **02/2023** I am an [Outstanding Reviewer](https://bmvc2022.org/people/reviewers/) of <strong>AISTATS 2023 (~11%)</strong>!
 - **11/2022** I am an [Outstanding Reviewer](https://bmvc2022.org/people/reviewers/) of <strong>BMVC 2022 (~8%)</strong>!
-- **07/2022** I am a Senior Program Committee (SPC) Member of <strong>AAAI 2023</strong>!
 - **02/2022** I become Dr.Zhao!
 - **12/2021** I join [CISPA Helmholtz Center for Information Security](https://cispa.de/en) as a postdoc!
 - **10/2021** Check out [a curated list of events on AI Security & Privacy](https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events)!
