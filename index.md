@@ -363,6 +363,14 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
   <li>Reviewer of IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Information Forensics and Security (TIFS), Pattern Recognition, International Journal of Intelligent Systems</li>
 </ul>
 
+## Honors & Awards 
+<ul style="margin:-5px 0 25px;width:950px">
+<li>Doctoral Consortium Award, CVPR 2021</li>
+<li>Outstanding Reviewer of NeurIPS 2023 (~10%), BMVC 2020 (~6%), BMVC 2022 (~8%), AISTATS 2023 (~11%)</li>
+<li>Top 1% teams in <a href="https://tianchi.aliyun.com/competition/entrance/531853/introduction">CVPR 2021 Unrestricted Adversarial Attacks on ImageNet Competition</a></li>
+<li>Student Travel Grant, ACM MM 2018 & 2019</li>  
+</ul>  
+
 ## Invited Talks 
 <ul style="margin:-5px 0 25px;width:950px">
 <li>Security and Privacy Risks of AI Large Models, ICIG2023 Workshop on <br> Opportunities and Security Challenges of Large Visual Model, 2023-09-23. </li> 
@@ -372,14 +380,6 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <li>Transferable and Stealthy Adversarial Images, Alibaba Turing Lab, 2022-03-03. <a href="./assets/img/AIibaba_ZhengyuZhao.pdf">[Slides]</a> </li> 
 <li>Transferability of Targeted Attacks, AI TIME, 2022-02-17. <a href="https://www.bilibili.com/video/BV1X44y1H7S4?spm_id_from=333.999.0.0">[Video (in Chinese)]</a> <a href="./assets/img/AITIME_ZhengyuZhao.pdf">[Slides]</a> </li>
 </ul>
-
-## Honors & Awards 
-<ul style="margin:-5px 0 25px;width:950px">
-<li>Doctoral Consortium Award, CVPR 2021</li>
-<li>Top 1% teams in <a href="https://tianchi.aliyun.com/competition/entrance/531853/introduction">CVPR 2021 Unrestricted Adversarial Attacks on ImageNet Competition</a></li>
-<li>Outstanding Reviewer of NeurIPS 2023 (~10%), BMVC 2020 (~6%), BMVC 2022 (~8%), AISTATS 2023 (~11%)</li>
-<li>Student Travel Grant, ACM MM 2018 & 2019</li>  
-</ul>  
 
 ## Teaching
 <ul style="margin:-5px 0 25px;width:950px">
