@@ -276,36 +276,6 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/cba.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">arXiv</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2310.07676">Composite Backdoor Attacks Against Large Language Models</a></div>
-      <div class="author">Hai Huang, <strong>Zhengyu Zhao</strong>, Yun Shen, Michael Backes, Yang Zhang</div>
-      <div class="periodical"><em><strong>arXiv</strong>, 2023.</em>
-      </div>
-  </div>
-</div>
-</li>  
-
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/bvp.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">arXiv</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2310.07632">Prompt Backdoors in Visual Prompt Learning</a></div>
-      <div class="author">Hai Huang, <strong>Zhengyu Zhao</strong>, Yun Shen, Michael Backes, Yang Zhang</div>
-      <div class="periodical"><em><strong>arXiv</strong>, 2023.</em>
-      </div>
-  </div>
-</div>
-</li>  
-
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/GenWatermark.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">arXiv</abbr> -->
   </div>
@@ -330,6 +300,51 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
       <div class="title"><a href="https://arxiv.org/abs/2308.07847">Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models</a></div>
       <div class="author">Yugeng Liu*, Tianshuo Cong*, <strong>Zhengyu Zhao</strong>, Michael Backes, Yun Shen, Yang Zhang</div>
+      <div class="periodical"><em><strong>arXiv</strong>, 2023.</em>
+      </div>
+  </div>
+</div>
+</li>  
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/COLO-TRIDE.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">arXiv</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2312.07364">Collapse-Oriented Adversarial Training with Triplet Decoupling for Robust Image Retrieval</a></div>
+      <div class="author">Qiwei Tian, Chenhao Lin, Qian Li, <strong>Zhengyu Zhao</strong>, Chao Shen</div>
+      <div class="periodical"><em><strong>arXiv</strong>, 2023.</em>
+      </div>
+  </div>
+</div>
+</li> 
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/cba.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">arXiv</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2310.07676">Composite Backdoor Attacks Against Large Language Models</a></div>
+      <div class="author">Hai Huang, <strong>Zhengyu Zhao</strong>, Yun Shen, Michael Backes, Yang Zhang</div>
+      <div class="periodical"><em><strong>arXiv</strong>, 2023.</em>
+      </div>
+  </div>
+</div>
+</li>  
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/bvp.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">arXiv</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2310.07632">Prompt Backdoors in Visual Prompt Learning</a></div>
+      <div class="author">Hai Huang, <strong>Zhengyu Zhao</strong>, Yun Shen, Michael Backes, Yang Zhang</div>
       <div class="periodical"><em><strong>arXiv</strong>, 2023.</em>
       </div>
   </div>
