@@ -373,7 +373,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 
 ## Invited Talks 
 <ul style="margin:-5px 0 25px;width:950px">
-<li>Security and Privacy Risks of AI Large Models, ICIG2023 Workshop on <br> Opportunities and Security Challenges of Large Visual Model, 2023-09-23. </li> 
+<li>Security and Privacy Risks of AI Large Models, ICIG2023, 2023-09-23. </li> 
 <li>Adversarial Examples and Data Poisons, Saarland University (Guest Lecture), 2023-06-19. </li> 
 <li>Computer Vision in Adversarial Scenarios, LIS - Ecole Centrale Marseille, 2023-03-03. <a href="./assets/img/Talk_Marseille.pdf">[Slides]</a> </li> 
 <li>Computer Vision against Adversarial Perturbations, Hong Kong PolyU, 2022-12-16. <a href="./assets/img/PolyU_ZhengyuZhao.pdf">[Slides]</a> </li> 
