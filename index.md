@@ -361,7 +361,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
   <li>Task Co-Organizer of <a href="https://multimediaeval.github.io/editions/2020/tasks/pixelprivacy/">Pixel Privacy</a> and <a href="http://www.multimediaeval.org/mediaeval2019/multimediasatellite/">Multimedia Satellite</a> at <a href="https://multimediaeval.github.io/">MediaEval</a> 2018-2020</li>
   <li>Senior Program Committee of AAAI</li>
   <li>Program Committee of ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, ACL, IJCAI, AISTATS, BMVC, FAccT</li>
-  <li>Reviewer of IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Information Forensics and Security (TIFS), Pattern Recognition, International Journal of Intelligent Systems</li>
+  <li>Reviewer of IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Information Forensics and Security (TIFS), International Journal of Computer Vision (IJCV), Pattern Recognition (PR), International Journal of Intelligent Systems (IJIS)</li>
 </ul>
 
 ## Honors & Awards 
