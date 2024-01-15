@@ -10,7 +10,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <!-- <strong><span style="color:#ff0000;">If you are interested in doing a PhD/Master with me, please reach out! A strong background in machine learning, cyber security, or a related field is a plus. :-)</span></strong> -->
 
 ## News
-- **01/2024** Check out [a curated reading list on safety, security, and privacy of large models](https://github.com/ThuCCSLab/lm-ssp)!
+- **01/2024** Check out [a curated reading list for large model safety, security, and privacy](https://github.com/ThuCCSLab/lm-ssp)!
 - **11/2023** I am an [Outstanding Reviewer](https://neurips.cc/Conferences/2023/ProgramCommittee) of <strong>NeurIPS 2023 (~10%)</strong>!
 - **07/2023** I join [Xi'an Jiaotong University](http://en.xjtu.edu.cn/XJTU_Introduction/Introduction.htm) as an Associate Professor!
 - **02/2023** I am an [Outstanding Reviewer](https://bmvc2022.org/people/reviewers/) of <strong>AISTATS 2023 (~11%)</strong>!
