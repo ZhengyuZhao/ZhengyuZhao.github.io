@@ -17,7 +17,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 - **11/2022** I am an [Outstanding Reviewer](https://bmvc2022.org/people/reviewers/) of <strong>BMVC 2022 (~8%)</strong>!
 - **02/2022** I become Dr.Zhao!
 - **12/2021** I join [CISPA Helmholtz Center for Information Security](https://cispa.de/en) as a postdoc!
-- **10/2021** Check out [a curated list of events on AI Security & Privacy](https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events) <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/TransferAttackEval">!
+- **10/2021** Check out [a curated list of events on AI Security & Privacy](https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events) <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/AI-Security-and-Privacy-Events">!
 - **05/2021** I participate in the [Doctoral Consortium](https://cvpr2021.thecvf.com/node/46) of <strong>CVPR 2021</strong>!
 - **08/2020** I am an [Outstanding Reviewer](https://www.bmvc2020-conference.com/people/reviewers/) of <strong>BMVC 2020 (~6%)</strong>!
 - **07/2020** We are organizing the 3rd edition of [Pixel Privacy Task](https://multimediaeval.github.io/editions/2020/tasks/pixelprivacy/) at <strong>MediaEval Benchmark 2020</strong>!
