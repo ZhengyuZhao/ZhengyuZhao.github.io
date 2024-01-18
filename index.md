@@ -90,7 +90,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
       <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2023.</em>
       </div>
     <div class="links">
-      <a href="https://github.com/ZhengyuZhao/ACE/tree/master/Journal_version" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/ACE">
+      <a href="https://github.com/ZhengyuZhao/ACE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/ACE">
       <a href="https://www.bmvc2020-conference.com/conference/papers/paper_0099.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
       <a href="https://www.bmvc2020-conference.com/assets/papers/0099.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BMVC 2020 version</a>
     </div>
