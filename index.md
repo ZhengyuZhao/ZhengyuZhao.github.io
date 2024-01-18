@@ -10,14 +10,14 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 <!-- <strong><span style="color:#ff0000;">If you are interested in doing a PhD/Master with me, please reach out! A strong background in machine learning, cyber security, or a related field is a plus. :-)</span></strong> -->
 
 ## News
-- **01/2024** Check out [a curated reading list for large model safety, security, and privacy](https://github.com/ThuCCSLab/lm-ssp)!
+- **01/2024** Check out [a curated reading list for large model safety, security, and privacy](https://github.com/ThuCCSLab/lm-ssp) <img alt="Stars" src="https://img.shields.io/github/stars/ThuCCSLab/lm-ssp">!
 - **11/2023** I am an [Outstanding Reviewer](https://neurips.cc/Conferences/2023/ProgramCommittee) of <strong>NeurIPS 2023 (~10%)</strong>!
 - **07/2023** I join [Xi'an Jiaotong University](http://en.xjtu.edu.cn/XJTU_Introduction/Introduction.htm) as an Associate Professor!
 - **02/2023** I am an [Outstanding Reviewer](https://bmvc2022.org/people/reviewers/) of <strong>AISTATS 2023 (~11%)</strong>!
 - **11/2022** I am an [Outstanding Reviewer](https://bmvc2022.org/people/reviewers/) of <strong>BMVC 2022 (~8%)</strong>!
 - **02/2022** I become Dr.Zhao!
 - **12/2021** I join [CISPA Helmholtz Center for Information Security](https://cispa.de/en) as a postdoc!
-- **10/2021** Check out [a curated list of events on AI Security & Privacy](https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events)!
+- **10/2021** Check out [a curated list of events on AI Security & Privacy](https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events) <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/TransferAttackEval">!
 - **05/2021** I participate in the [Doctoral Consortium](https://cvpr2021.thecvf.com/node/46) of <strong>CVPR 2021</strong>!
 - **08/2020** I am an [Outstanding Reviewer](https://www.bmvc2020-conference.com/people/reviewers/) of <strong>BMVC 2020 (~6%)</strong>!
 - **07/2020** We are organizing the 3rd edition of [Pixel Privacy Task](https://multimediaeval.github.io/editions/2020/tasks/pixelprivacy/) at <strong>MediaEval Benchmark 2020</strong>!
@@ -54,7 +54,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
       <div class="periodical"><em>International Conference on Machine Learning <strong>(ICML)</strong>, 2023.</em>
       </div>
     <div class="links">
-      <a href="https://github.com/liuzrcc/ImageShortcutSqueezing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/liuzrcc/ImageShortcutSqueezing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> <img alt="Stars" src="https://img.shields.io/github/stars/liuzrcc/ImageShortcutSqueezing">
     </div>
   </div>
 </div>
@@ -72,7 +72,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
       <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2023.</em> <br> <strong>(<span style="color:#ff0000;">Oral presentation / notable-top-25% paper</span>)</strong>
       </div>
     <div class="links">
-      <a href="https://github.com/WenRuiUSTC/EntF" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/WenRuiUSTC/EntF" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> <img alt="Stars" src="https://img.shields.io/github/stars/WenRuiUSTC/EntF">
     </div>
   </div>
 </div>
@@ -90,7 +90,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
       <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2023.</em>
       </div>
     <div class="links">
-      <a href="https://github.com/ZhengyuZhao/ACE/tree/master/Journal_version" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/ZhengyuZhao/ACE/tree/master/Journal_version" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/ACE">
       <a href="https://www.bmvc2020-conference.com/conference/papers/paper_0099.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
       <a href="https://www.bmvc2020-conference.com/assets/papers/0099.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BMVC 2020 version</a>
     </div>
@@ -110,7 +110,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
       <div class="periodical"><em>ACM Conference on Computer and Communications Security <strong>(CCS)</strong>, 2022.</em>
       </div>
     <div class="links">
-      <a href="https://github.com/DennisLiu2022/Membership-Inference-Attacks-by-Exploiting-Loss-Trajectory" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/DennisLiu2022/Membership-Inference-Attacks-by-Exploiting-Loss-Trajectory" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> <img alt="Stars" src="https://img.shields.io/github/stars/DennisLiu2022/Membership-Inference-Attacks-by-Exploiting-Loss-Trajectory">
       <a href="https://zhengyuzhao.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
     </div>
   </div>
@@ -129,7 +129,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
       <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2021.</em>
       </div>
     <div class="links">
-      <a href="https://github.com/ZhengyuZhao/Targeted-Tansfer" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/ZhengyuZhao/Targeted-Tansfer" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/Targeted-Tansfer">
       <a href="https://nips.cc/virtual/2021/poster/26087" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
       <a href="https://zhuanlan.zhihu.com/p/512550358" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">中文解读</a>
       <a href="https://ml.cs.tsinghua.edu.cn/ares-bench/#/leaderboard" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Rank Top-1 on ARES Leaderboard</a>
@@ -150,7 +150,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
       <div class="periodical"><em>Network and Distributed System Security Symposium <strong>(NDSS)</strong>, 2021.</em>
       </div>
     <div class="links">
-      <a href="https://github.com/cescalab/screen_gleaning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/cescalab/screen_gleaning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> <img alt="Stars" src="https://img.shields.io/github/stars/cescalab/screen_gleaning">
       <a href="https://www.youtube.com/watch?v=qEXwe58IVFc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
     </div>
   </div>
@@ -169,7 +169,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
       <div class="periodical"><em>IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.</em>
       </div>
     <div class="links">
-      <a href="https://github.com/ZhengyuZhao/PerC-Adversarial" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/ZhengyuZhao/PerC-Adversarial" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/PerC-Adversarial">
       <a href="https://www.youtube.com/watch?v=2j74B_9VaJ8" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
     </div>
   </div>
@@ -188,7 +188,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
       <div class="periodical"><em>ACM International Conference on Multimedia Retrieval <strong>(ICMR)</strong>, 2019.</em>
       </div>
     <div class="links">
-      <a href="https://github.com/liuzrcc/PIRE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/liuzrcc/PIRE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> <img alt="Stars" src="https://img.shields.io/github/stars/liuzrcc/PIRE">
     </div>
   </div>
 </div>
@@ -206,7 +206,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
       <div class="periodical"><em>ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2018.</em>
       </div>
     <div class="links">
-      <a href="https://github.com/ZhengyuZhao/Adi-Red-Scene" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/ZhengyuZhao/Adi-Red-Scene" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/Adi-Red-Scene">
       <a href="https://dl.acm.org/citation.cfm?id=3351169" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Reproducibility companion paper at <strong>ACM MM</strong> 2019</a>
     </div>
   </div>
@@ -253,7 +253,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
       <div class="periodical"><em><strong>arXiv</strong>, 2023.</em>
       </div>
     <div class="links">
-      <a href="https://github.com/ZhengyuZhao/TransferAttackEval" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code and a categorized list of transferable attack papers!</a>
+      <a href="https://github.com/ZhengyuZhao/TransferAttackEval" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code and a categorized list of transferable attack papers!</a> <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/TransferAttackEval">
     </div>
   </div>
 </div>
