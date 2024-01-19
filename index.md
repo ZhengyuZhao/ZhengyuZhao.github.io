@@ -54,7 +54,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
       <div class="periodical"><em><strong>arXiv</strong>, 2023.</em>
       </div>
     <div class="links">
-      <a href="https://github.com/ZhengyuZhao/TransferAttackEval" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code and a categorized list of transferable attack papers!</a> <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/TransferAttackEval">
+      <a href="https://github.com/ZhengyuZhao/TransferAttackEval" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code and a categorized reading list for transferable attacks!</a> <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/TransferAttackEval">
     </div>
   </div>
 </div>
