@@ -14,6 +14,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 - **11/2023** I am an [Outstanding Reviewer](https://neurips.cc/Conferences/2023/ProgramCommittee) of <strong>NeurIPS 2023 (~10%)</strong>!
 - **07/2023** I join [Xi'an Jiaotong University](http://en.xjtu.edu.cn/XJTU_Introduction/Introduction.htm) as an Associate Professor!
 - **02/2023** I am an [Outstanding Reviewer](https://bmvc2022.org/people/reviewers/) of <strong>AISTATS 2023 (~11%)</strong>!
+- **12/2022** Check out [a curated reading list for transferable adversarial examples](https://img.shields.io/github/stars/ZhengyuZhao/TransferAttackEval) <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/TransferAttackEval">!
 - **11/2022** I am an [Outstanding Reviewer](https://bmvc2022.org/people/reviewers/) of <strong>BMVC 2022 (~8%)</strong>!
 - **02/2022** I become Dr.Zhao!
 - **12/2021** I join [CISPA Helmholtz Center for Information Security](https://cispa.de/en) as a postdoc!
@@ -54,7 +55,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
       <div class="periodical"><em><strong>arXiv</strong>, 2023.</em>
       </div>
     <div class="links">
-      <a href="https://github.com/ZhengyuZhao/TransferAttackEval" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code and a categorized reading list for transferable attacks!</a> <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/TransferAttackEval">
+      <a href="https://github.com/ZhengyuZhao/TransferAttackEval" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code and a curated reading list for transferable adversarial examples!</a> <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/TransferAttackEval">
     </div>
   </div>
 </div>
