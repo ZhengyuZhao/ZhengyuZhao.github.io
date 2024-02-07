@@ -60,7 +60,7 @@ My general research interest is <strong>Machine Learning Security (MLSec)</stron
       <div class="periodical"><em><strong>arXiv</strong>, 2023.</em>
       </div>
     <div class="links">
-      <a href="https://github.com/ZhengyuZhao/TransferAttackEval" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code and a curated reading list for transferable adversarial examples!</a> <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/TransferAttackEval">
+      <a href="https://github.com/ZhengyuZhao/TransferAttackEval" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
@@ -78,7 +78,7 @@ My general research interest is <strong>Machine Learning Security (MLSec)</stron
       <div class="periodical"><em>International Conference on Machine Learning <strong>(ICML)</strong>, 2023.</em>
       </div>
     <div class="links">
-      <a href="https://github.com/liuzrcc/ImageShortcutSqueezing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> <img alt="Stars" src="https://img.shields.io/github/stars/liuzrcc/ImageShortcutSqueezing">
+      <a href="https://github.com/liuzrcc/ImageShortcutSqueezing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
@@ -96,7 +96,7 @@ My general research interest is <strong>Machine Learning Security (MLSec)</stron
       <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2023.</em> <br> <strong>(<span style="color:#ff0000;">Oral presentation / notable-top-25% paper</span>)</strong>
       </div>
     <div class="links">
-      <a href="https://github.com/WenRuiUSTC/EntF" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> <img alt="Stars" src="https://img.shields.io/github/stars/WenRuiUSTC/EntF">
+      <a href="https://github.com/WenRuiUSTC/EntF" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
@@ -114,7 +114,7 @@ My general research interest is <strong>Machine Learning Security (MLSec)</stron
       <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2023.</em>
       </div>
     <div class="links">
-      <a href="https://github.com/ZhengyuZhao/ACE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/ACE">
+      <a href="https://github.com/ZhengyuZhao/ACE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://www.bmvc2020-conference.com/conference/papers/paper_0099.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
       <a href="https://www.bmvc2020-conference.com/assets/papers/0099.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BMVC 2020 version</a>
     </div>
@@ -134,7 +134,7 @@ My general research interest is <strong>Machine Learning Security (MLSec)</stron
       <div class="periodical"><em>ACM Conference on Computer and Communications Security <strong>(CCS)</strong>, 2022.</em>
       </div>
     <div class="links">
-      <a href="https://github.com/DennisLiu2022/Membership-Inference-Attacks-by-Exploiting-Loss-Trajectory" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> <img alt="Stars" src="https://img.shields.io/github/stars/DennisLiu2022/Membership-Inference-Attacks-by-Exploiting-Loss-Trajectory">
+      <a href="https://github.com/DennisLiu2022/Membership-Inference-Attacks-by-Exploiting-Loss-Trajectory" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://zhengyuzhao.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
     </div>
   </div>
@@ -153,7 +153,7 @@ My general research interest is <strong>Machine Learning Security (MLSec)</stron
       <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2021.</em>
       </div>
     <div class="links">
-      <a href="https://github.com/ZhengyuZhao/Targeted-Tansfer" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/Targeted-Tansfer">
+      <a href="https://github.com/ZhengyuZhao/Targeted-Tansfer" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://nips.cc/virtual/2021/poster/26087" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
       <a href="https://zhuanlan.zhihu.com/p/512550358" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">中文解读</a>
       <a href="https://ml.cs.tsinghua.edu.cn/ares-bench/#/leaderboard" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Rank Top-1 on ARES Leaderboard</a>
@@ -174,7 +174,7 @@ My general research interest is <strong>Machine Learning Security (MLSec)</stron
       <div class="periodical"><em>Network and Distributed System Security Symposium <strong>(NDSS)</strong>, 2021.</em>
       </div>
     <div class="links">
-      <a href="https://github.com/cescalab/screen_gleaning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> <img alt="Stars" src="https://img.shields.io/github/stars/cescalab/screen_gleaning">
+      <a href="https://github.com/cescalab/screen_gleaning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://www.youtube.com/watch?v=qEXwe58IVFc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
     </div>
   </div>
@@ -193,7 +193,7 @@ My general research interest is <strong>Machine Learning Security (MLSec)</stron
       <div class="periodical"><em>IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.</em>
       </div>
     <div class="links">
-      <a href="https://github.com/ZhengyuZhao/PerC-Adversarial" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/PerC-Adversarial">
+      <a href="https://github.com/ZhengyuZhao/PerC-Adversarial" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://www.youtube.com/watch?v=2j74B_9VaJ8" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
     </div>
   </div>
@@ -212,7 +212,7 @@ My general research interest is <strong>Machine Learning Security (MLSec)</stron
       <div class="periodical"><em>ACM International Conference on Multimedia Retrieval <strong>(ICMR)</strong>, 2019.</em>
       </div>
     <div class="links">
-      <a href="https://github.com/liuzrcc/PIRE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> <img alt="Stars" src="https://img.shields.io/github/stars/liuzrcc/PIRE">
+      <a href="https://github.com/liuzrcc/PIRE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
@@ -230,7 +230,7 @@ My general research interest is <strong>Machine Learning Security (MLSec)</stron
       <div class="periodical"><em>ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2018.</em>
       </div>
     <div class="links">
-      <a href="https://github.com/ZhengyuZhao/Adi-Red-Scene" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/Adi-Red-Scene">
+      <a href="https://github.com/ZhengyuZhao/Adi-Red-Scene" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://dl.acm.org/citation.cfm?id=3351169" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Reproducibility companion paper at <strong>ACM MM</strong> 2019</a>
     </div>
   </div>
@@ -255,15 +255,6 @@ My general research interest is <strong>Machine Learning Security (MLSec)</stron
   </div>
 </div>
 </li>
-<br> -->
-
-</ol>
-</div>
-
-<h2 id="publications" style="margin: -10px 0px -30px;">Preprints </h2>
-
-<div class="publications">
-<ol class="bibliography"> 
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
