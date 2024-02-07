@@ -3,8 +3,8 @@ layout: homepage
 ---
 
 ## About Me
-I am an Associate Professor (特聘研究员) at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/XJTU_Introduction/Introduction.htm) (XJTU), China. I was a postdoc at [CISPA Helmholtz Center for Information Security](https://cispa.de/en/about), Germany, hosted by [Prof. Michael Backes](https://cispa.de/en/about/director-page).
-I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherlands, supervised by [Prof. Martha Larson](https://www.ru.nl/english/people/larson-m/).
+Since 2023.09, I am an Associate Professor (特聘研究员) at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/XJTU_Introduction/Introduction.htm) (XJTU), China. Before, I was a postdoc at [CISPA Helmholtz Center for Information Security](https://cispa.de/en/about), Germany, hosted by [Prof. Michael Backes](https://cispa.de/en/about/director-page).
+I received my PhD in 2022.02 from [Radboud University](https://www.ru.nl/english/), Netherlands, supervised by [Prof. Martha Larson](https://www.ru.nl/english/people/larson-m/).
 My general research interest is <strong>Machine Learning Security & Privacy</strong>; Most of my work has concentrated on analyzing the vulnerability of deep neural networks to various attacks, e.g., adversarial examples and data poisons.
 
 <!-- <strong><span style="color:#ff0000;">If you are interested in doing a PhD/Master with me, please reach out! A strong background in machine learning, cyber security, or a related field is a plus. :-)</span></strong> -->
@@ -24,9 +24,9 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 - **07/2020** We are organizing the 3rd edition of [Pixel Privacy Task](https://multimediaeval.github.io/editions/2020/tasks/pixelprivacy/) at <strong>MediaEval Benchmark 2020</strong>!-->
 
 ## Resources 
-- [**A curated reading list for large model safety, security, and privacy**](https://github.com/ThuCCSLab/lm-ssp) <img alt="Stars" src="https://img.shields.io/github/stars/ThuCCSLab/lm-ssp">
-- [**A curated list of events (e.g., workshops, tutorials, seminars**) on AI security & privacy](https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events) <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/AI-Security-and-Privacy-Events">
-- [**A curated reading list for transferable adversarial examples**](https://github.com/ZhengyuZhao/TransferAttackEval) <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/TransferAttackEval">
+- **[A curated reading list for large model safety, security, and privacy]**(https://github.com/ThuCCSLab/lm-ssp) <img alt="Stars" src="https://img.shields.io/github/stars/ThuCCSLab/lm-ssp">
+- **[A curated list of events (e.g., workshops, tutorials, seminars) on AI security & privacy]**(https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events) <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/AI-Security-and-Privacy-Events">
+- **[A curated reading list for transferable adversarial examples]**(https://github.com/ZhengyuZhao/TransferAttackEval) <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/TransferAttackEval">
 
 <h2 id="publications" style="margin: 0px 0px -30px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=en&user=pC8KpPMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/58/10770-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
 
