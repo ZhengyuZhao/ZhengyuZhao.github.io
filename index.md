@@ -9,7 +9,7 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 
 <!-- <strong><span style="color:#ff0000;">If you are interested in doing a PhD/Master with me, please reach out! A strong background in machine learning, cyber security, or a related field is a plus. :-)</span></strong> -->
 
-## News
+<!-- ## News
 - **01/2024** Check out [a curated reading list for large model safety, security, and privacy](https://github.com/ThuCCSLab/lm-ssp) <img alt="Stars" src="https://img.shields.io/github/stars/ThuCCSLab/lm-ssp">!
 - **11/2023** I am an [Outstanding Reviewer](https://neurips.cc/Conferences/2023/ProgramCommittee) of <strong>NeurIPS 2023 (~10%)</strong>!
 - **07/2023** I join [Xi'an Jiaotong University](http://en.xjtu.edu.cn/XJTU_Introduction/Introduction.htm) as an Associate Professor!
@@ -21,7 +21,12 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 - **10/2021** Check out [a curated list of events on AI Security & Privacy](https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events) <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/AI-Security-and-Privacy-Events">!
 - **05/2021** I participate in the [Doctoral Consortium](https://cvpr2021.thecvf.com/node/46) of <strong>CVPR 2021</strong>!
 - **08/2020** I am an [Outstanding Reviewer](https://www.bmvc2020-conference.com/people/reviewers/) of <strong>BMVC 2020 (~6%)</strong>!
-- **07/2020** We are organizing the 3rd edition of [Pixel Privacy Task](https://multimediaeval.github.io/editions/2020/tasks/pixelprivacy/) at <strong>MediaEval Benchmark 2020</strong>!
+- **07/2020** We are organizing the 3rd edition of [Pixel Privacy Task](https://multimediaeval.github.io/editions/2020/tasks/pixelprivacy/) at <strong>MediaEval Benchmark 2020</strong>!-->
+
+## Resources 
+- [A curated reading list for large model safety, security, and privacy](https://github.com/ThuCCSLab/lm-ssp) <img alt="Stars" src="https://img.shields.io/github/stars/ThuCCSLab/lm-ssp">
+- [A curated list of events on AI Security & Privacy](https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events) <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/AI-Security-and-Privacy-Events">
+- [A curated reading list for transferable adversarial examples](https://github.com/ZhengyuZhao/TransferAttackEval) <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/TransferAttackEval">
 
 <h2 id="publications" style="margin: 0px 0px -30px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=en&user=pC8KpPMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/58/10770-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
 
