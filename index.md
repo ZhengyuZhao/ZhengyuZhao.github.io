@@ -24,12 +24,9 @@ My general research interest is <strong>Machine Learning Security & Privacy</str
 - **07/2020** We are organizing the 3rd edition of [Pixel Privacy Task](https://multimediaeval.github.io/editions/2020/tasks/pixelprivacy/) at <strong>MediaEval Benchmark 2020</strong>!-->
 
 ## Resources 
-- <div class="title"><a href="https://github.com/ThuCCSLab/lm-ssp">A curated reading list for large model safety, security, and privacy</a></div> <img alt="Stars" src="https://img.shields.io/github/stars/ThuCCSLab/lm-ssp">
-- <div class="title"><a href="https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events">A curated list of events on AI Security & Privacy</a></div> <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/AI-Security-and-Privacy-Events">
-- <div class="title"><a href="https://github.com/ZhengyuZhao/TransferAttackEval">A curated reading list for transferable adversarial examples</a></div> <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/TransferAttackEval">
-<!-- - [A curated reading list for large model safety, security, and privacy](https://github.com/ThuCCSLab/lm-ssp) <img alt="Stars" src="https://img.shields.io/github/stars/ThuCCSLab/lm-ssp">
-- [A curated list of events (e.g., workshops, tutorials, seminars) on AI security & privacy](https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events) <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/AI-Security-and-Privacy-Events">
-- [A curated reading list for transferable adversarial examples](https://github.com/ZhengyuZhao/TransferAttackEval) <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/TransferAttackEval"> -->
+- [**A curated reading list for large model safety, security, and privacy**](https://github.com/ThuCCSLab/lm-ssp) <img alt="Stars" src="https://img.shields.io/github/stars/ThuCCSLab/lm-ssp">
+- [**A curated list of events (e.g., workshops, tutorials, seminars**) on AI security & privacy](https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events) <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/AI-Security-and-Privacy-Events">
+- [**A curated reading list for transferable adversarial examples**](https://github.com/ZhengyuZhao/TransferAttackEval) <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/TransferAttackEval">
 
 <h2 id="publications" style="margin: 0px 0px -30px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=en&user=pC8KpPMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/58/10770-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
 
