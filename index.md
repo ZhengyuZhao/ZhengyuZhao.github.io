@@ -28,7 +28,7 @@ My general research interest is <strong>Machine Learning Security (MLSec)</stron
 - **[A curated list of events (e.g., workshops, tutorials, seminars) for AI security & privacy](https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events)** <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/AI-Security-and-Privacy-Events">
 - **[A curated reading list for transferable adversarial examples](https://github.com/ZhengyuZhao/TransferAttackEval)** <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/TransferAttackEval">
 
-<h2 id="publications" style="margin: 0px 0px -30px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=en&user=pC8KpPMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/58/10770-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
+<h2 id="publications" style="margin: 0px 0px -30px;">Selected Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=en&user=pC8KpPMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/58/10770-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -57,7 +57,7 @@ My general research interest is <strong>Machine Learning Security (MLSec)</stron
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
       <div class="title"><a href="https://arxiv.org/abs/2310.11850">Revisiting Transferable Adversarial Image Examples: Attack Categorization, Evaluation Guidelines, and New Insights</a></div>
       <div class="author"><strong>Zhengyu Zhao*</strong>, Hanwei Zhang*, Renjue Li*, Ronan Sicre, Laurent Amsaleg, Michael Backes, Qi Li, Chao Shen</div>
-      <div class="periodical"><em><strong>arXiv</strong>, 2023.</em>
+      <div class="periodical"><em><strong>arXiv</strong></em>
       </div>
     <div class="links">
       <a href="https://github.com/ZhengyuZhao/TransferAttackEval" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -65,6 +65,24 @@ My general research interest is <strong>Machine Learning Security (MLSec)</stron
   </div>
 </div>
 </li> 
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/QAA.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">arXiv</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2305.05875">Quantization Aware Attack: Enhancing Transferable Adversarial Attacks by Model Quantization</a></div>
+      <div class="author">Yulong Yang, Chenhao Lin, Qian Li, <strong>Zhengyu Zhao</strong>, Haoran Fan, Dawei Zhou, Nannan Wang, Tongliang Liu, Chao Shen</div>
+      <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2024.</em>
+      </div>
+    <div class="links">
+      <a href="https://github.com/yyl-github-1896/QAA/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
   
  <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
@@ -93,7 +111,7 @@ My general research interest is <strong>Machine Learning Security (MLSec)</stron
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
       <div class="title"><a href="https://openreview.net/forum?id=zKvm1ETDOq">Is Adversarial Training Really a Silver Bullet for Mitigating Data Poisoning?</a></div>
       <div class="author">Rui Wen, <strong>Zhengyu Zhao</strong>, Zhuoran Liu, Michael Backes, Tianhao Wang, Yang Zhang</div>
-      <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2023.</em> <br> <strong>(<span style="color:#ff0000;">Oral presentation / notable-top-25% paper</span>)</strong>
+      <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2023. <strong>(<span style="color:#ff0000;">Spotlight</span>)</strong></em>
       </div>
     <div class="links">
       <a href="https://github.com/WenRuiUSTC/EntF" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -219,7 +237,7 @@ My general research interest is <strong>Machine Learning Security (MLSec)</stron
 </li>  
   
 <li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+<div class="pub-row" style="margin: 0px 0px -5px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/adired.PNG" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">ACM MM</abbr> -->
@@ -236,130 +254,17 @@ My general research interest is <strong>Machine Learning Security (MLSec)</stron
   </div>
 </div>
 </li>
-<!-- <br> -->
-
-<!-- <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/umap.PNG" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">UMAP</abbr>
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://dl.acm.org/doi/10.1145/3450613.3456832">Pivoting Image-based Profiles Toward Privacy: Inhibiting Malicious Profiling with Adversarial Additions</a></div>
-      <div class="author">Zhuoran Liu, <strong>Zhengyu Zhao</strong>, Martha Larson</div>
-      <div class="periodical"><em>ACM Conference on User Modeling, Adaptation and Personalization <strong>(UMAP)</strong>, 2021.</em>
-      </div>
-    <div class="links">
-      <a href="https://github.com/liuzrcc/Image-Set-Profile-Pivot" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-</li> -->
-
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/AdvHeat.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">arXiv</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left:0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2309.01104">Turn Fake into Real: Adversarial Head Turn Attacks Against Deepfake Detection</a></div>
-      <div class="author">Weijie Wang, <strong>Zhengyu Zhao</strong>, Nicu Sebe, Bruno Lepri</div>
-      <div class="periodical"><em><strong>arXiv</strong>, 2023.</em>
-      </div>
-  </div>
-</div>
-</li>  
-
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/GenWatermark.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">arXiv</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2306.07754">Generative Watermarking Against Unauthorized Subject-Driven Image Synthesis</a></div>
-      <div class="author">Yihan Ma, <strong>Zhengyu Zhao</strong>, Xinlei He, Zheng Li, Michael Backes, Yang Zhang</div>
-      <div class="periodical"><em><strong>arXiv</strong>, 2023.</em>
-      </div>
-    <div class="links">
-      <a href="https://blog.metaphysic.ai/personalized-protection-against-stable-diffusion-deepfaking/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Metaphysic.ai Blog, by Martin Anderson</a>
-    </div>
-  </div>
-</div>
-</li>  
-
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/LLM.PNG" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">arXiv</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2308.07847">Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models</a></div>
-      <div class="author">Yugeng Liu*, Tianshuo Cong*, <strong>Zhengyu Zhao</strong>, Michael Backes, Yun Shen, Yang Zhang</div>
-      <div class="periodical"><em><strong>arXiv</strong>, 2023.</em>
-      </div>
-  </div>
-</div>
-</li>  
-
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/CA-TRIDE.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">arXiv</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2312.07364">Collapse-Aware Triplet Decoupling for Adversarially Robust
-Image Retrieval</a></div>
-      <div class="author">Qiwei Tian, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Qian Li, Chao Shen</div>
-      <div class="periodical"><em><strong>arXiv</strong>, 2023.</em>
-      </div>
-  </div>
-</div>
-</li> 
-
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/cba.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">arXiv</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2310.07676">Composite Backdoor Attacks Against Large Language Models</a></div>
-      <div class="author">Hai Huang, <strong>Zhengyu Zhao</strong>, Yun Shen, Michael Backes, Yang Zhang</div>
-      <div class="periodical"><em><strong>arXiv</strong>, 2023.</em>
-      </div>
-  </div>
-</div>
-</li>  
-
-<li>
-<div class="pub-row" style="margin: 0px 0px -5px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/bvp.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">arXiv</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2310.07632">Prompt Backdoors in Visual Prompt Learning</a></div>
-      <div class="author">Hai Huang, <strong>Zhengyu Zhao</strong>, Yun Shen, Michael Backes, Yang Zhang</div>
-      <div class="periodical"><em><strong>arXiv</strong>, 2023.</em>
-      </div>
-  </div>
-</div>
-</li>  
 
 </ol>
 </div>
 
 ## Services
 <ul style="margin:-5px 0 25px;width:950px">
+  <li>Senior Program Committee of AAAI</li>
+  <li>Conference Reviewer of ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, ACL, IJCAI, AISTATS, BMVC, FAccT</li>
+  <li>Journal Reviewer of TPAMI, TIFS, IJCV, PR</li>
   <li>Poster Session Co-Chair of ACM MM 2019</li>
   <li>Task Co-Organizer of <a href="https://multimediaeval.github.io/editions/2020/tasks/pixelprivacy/">Pixel Privacy</a> and <a href="http://www.multimediaeval.org/mediaeval2019/multimediasatellite/">Multimedia Satellite</a> at <a href="https://multimediaeval.github.io/">MediaEval</a> 2018-2020</li>
-  <li>Senior Program Committee of AAAI</li>
-  <li>Program Committee of ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, ACL, IJCAI, AISTATS, BMVC, FAccT</li>
-  <li>Reviewer of TPAMI, TIFS, IJCV, PR</li>
 </ul>
 
 ## Honors & Awards 
