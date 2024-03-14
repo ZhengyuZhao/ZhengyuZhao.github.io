@@ -69,6 +69,21 @@ My general research interest is <strong>Machine Learning Security (MLSec)</stron
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/cba.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">NAACL</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2310.07676">Composite Backdoor Attacks Against Large Language Models</a></div>
+      <div class="author">Hai Huang, <strong>Zhengyu Zhao</strong>, Yun Shen, Michael Backes, Yang Zhang</div>
+      <div class="periodical"><em><strong>North American Chapter of the Association for Computational Linguistics (NAACL) Findings</strong>, 2024.</em>
+      </div>
+  </div>
+</div>
+</li> 
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/3d.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">CVPR</abbr> -->
   </div>
