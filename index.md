@@ -294,11 +294,11 @@ My general research interest is <strong>Machine Learning Security (MLSec)</stron
 
 ## Services
 <ul style="margin:-5px 0 25px;width:950px">
-  <li>Area Chair/Senior Program Committee of NeurIPS, AAAI</li>
-  <li>Program Committee of ICLR, ICML, CVPR, ICCV, ECCV, ACL, IJCAI, AISTATS, BMVC, FAccT</li>
-  <li>Journal Reviewer of TPAMI, TIFS, TDSC, IJCV, PR</li>
-  <li>Poster Session Co-Chair of ACM MM 2019</li>
-  <li>Task Co-Organizer of <a href="https://multimediaeval.github.io/editions/2020/tasks/pixelprivacy/">Pixel Privacy</a> and <a href="http://www.multimediaeval.org/mediaeval2019/multimediasatellite/">Multimedia Satellite</a> at <a href="https://multimediaeval.github.io/">MediaEval</a> 2018-2020</li>
+  <li><strong>Area Chair/Senior Program Committee</strong> of NeurIPS, AAAI</li>
+  <li><strong>Program Committee</strong> of ICLR, ICML, CVPR, ICCV, ECCV, ACL, IJCAI, AISTATS, BMVC, FAccT</li>
+  <li><strong>Journal Reviewer</strong> of TPAMI, TIFS, TDSC, IJCV, PR</li>
+  <li><strong>Poster Session Co-Chair</strong> of ACM MM 2019</li>
+  <li><strong>Task Co-Organizer</strong> of <a href="https://multimediaeval.github.io/editions/2020/tasks/pixelprivacy/">Pixel Privacy</a> and <a href="http://www.multimediaeval.org/mediaeval2019/multimediasatellite/">Multimedia Satellite</a> at <a href="https://multimediaeval.github.io/">MediaEval</a> 2018-2020</li>
 </ul>
 
 ## Honors & Awards 
