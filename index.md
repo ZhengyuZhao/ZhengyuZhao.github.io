@@ -24,9 +24,9 @@ My general research interest is <strong>Machine Learning Security (MLSec)</stron
 - **07/2020** We are organizing the 3rd edition of [Pixel Privacy Task](https://multimediaeval.github.io/editions/2020/tasks/pixelprivacy/) at <strong>MediaEval Benchmark 2020</strong>!-->
 
 ## Resources 
-- **[A curated reading list for large model safety, security, and privacy](https://github.com/ThuCCSLab/lm-ssp)** <img alt="Stars" src="https://img.shields.io/github/stars/ThuCCSLab/lm-ssp">
-- **[A curated list of events (e.g., workshops, tutorials, seminars) for AI security & privacy](https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events)** <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/AI-Security-and-Privacy-Events">
-- **[A curated reading list for transferable adversarial examples](https://github.com/ZhengyuZhao/TransferAttackEval)** <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/TransferAttackEval">
+- **[A curated list for large model safety, security, and privacy (LM-SSP) materials (papers, leaderboards...) ](https://github.com/ThuCCSLab/lm-ssp)** <img alt="Stars" src="https://img.shields.io/github/stars/ThuCCSLab/lm-ssp">
+- **[A curated list for AI security & privacy events (workshops, tutorials, seminars...) ](https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events)** <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/AI-Security-and-Privacy-Events">
+- **[A curated list for transferable adversarial example papers](https://github.com/ZhengyuZhao/TransferAttackEval)** <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/TransferAttackEval">
 
 <h2 id="publications" style="margin: 0px 0px -30px;">Selected Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=en&user=pC8KpPMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/58/10770-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
 
