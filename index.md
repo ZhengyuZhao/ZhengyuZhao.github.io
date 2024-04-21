@@ -24,7 +24,7 @@ My general research interest is <strong>Machine Learning Security (MLSec)</stron
 - **07/2020** We are organizing the 3rd edition of [Pixel Privacy Task](https://multimediaeval.github.io/editions/2020/tasks/pixelprivacy/) at <strong>MediaEval Benchmark 2020</strong>!-->
 
 ## Resources 
-- **[A curated list for large model safety, security, and privacy (LM-SSP) materials (papers, leaderboards...) ](https://github.com/ThuCCSLab/lm-ssp)** <img alt="Stars" src="https://img.shields.io/github/stars/ThuCCSLab/lm-ssp">
+- **[A curated list for large model safety, security, and privacy materials (papers, leaderboards...) ](https://github.com/ThuCCSLab/lm-ssp)** <img alt="Stars" src="https://img.shields.io/github/stars/ThuCCSLab/lm-ssp">
 - **[A curated list for AI security & privacy events (workshops, tutorials, seminars...) ](https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events)** <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/AI-Security-and-Privacy-Events">
 - **[A curated list for transferable adversarial example papers](https://github.com/ZhengyuZhao/TransferAttackEval)** <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/TransferAttackEval">
 
