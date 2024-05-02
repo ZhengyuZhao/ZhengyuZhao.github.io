@@ -69,6 +69,24 @@ My general research interest is <strong>Security of Machine Learning</strong>; M
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/tride.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">ICML</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2312.07364">Collapse-Aware Triplet Decoupling for Adversarially Robust Image Retrieval</a></div>
+      <div class="author">Qiwei Tian, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Qian Li, Chao Shen</div>
+      <div class="periodical"><em>International Conference on Machine Learning <strong>(ICML)</strong>, 2024.</em>
+      </div>
+    <div class="links">
+       <a href="https://arxiv.org/abs/2312.07364" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/cba.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">NAACL</abbr> -->
   </div>
