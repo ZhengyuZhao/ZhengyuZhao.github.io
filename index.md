@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 I am an Associate Professor at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/XJTU_Introduction/Introduction.htm) (XJTU), China. I was a postdoc at [CISPA Helmholtz Center for Information Security](https://cispa.de/en/about), Germany, hosted by [Prof. Michael Backes](https://cispa.de/en/about/director-page).
-I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherlands, supervised by [Prof. Martha Larson](https://www.ru.nl/english/people/larson-m/).
+I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherlands, supervised by [Prof. Martha Larson](https://www.ru.nl/english/people/larson-m/), with the thesis titled <a href="https://repository.ubn.ru.nl/handle/2066/245409">Rethinking Realism: Towards More Transferable and Less Suspicious Adversarial Images</a>.
 My general research interest is <strong>Security of Machine Learning</strong>; Most of my work has concentrated on analyzing the vulnerability of deep neural networks to various attacks, e.g., adversarial examples and data poisons.
 
 <!-- <strong><span style="color:#ff0000;">If you are interested in doing a PhD/Master with me, please reach out! A strong background in machine learning, cyber security, or a related field is a plus. :-)</span></strong> -->
@@ -30,25 +30,10 @@ My general research interest is <strong>Security of Machine Learning</strong>; M
 
 <!-- <h2 id="publications" style="margin: 0px 0px -30px;">Conference Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=en&user=pC8KpPMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/58/10770-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2> -->
 
-<h2 id="publications" style="margin: 0px 0px -30px;">Conference Publications</h2>
+<h2 id="publications" style="margin: 0px 0px -30px;">Pre-prints</h2>
 
 <div class="publications">
 <ol class="bibliography">
-  
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/thesis_cover.jpg" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">PhD Thesis</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://repository.ubn.ru.nl/handle/2066/245409">Rethinking Realism: Towards More Transferable and Less Suspicious Adversarial Images</a></div>
-      <div class="author"><strong>Zhengyu Zhao</strong></div>
-      <div class="periodical"><em><strong>PhD thesis</strong>, Radboud University, 2022.</em>
-      </div>
-  </div>
-</div>
-</li>
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
@@ -67,6 +52,31 @@ My general research interest is <strong>Security of Machine Learning</strong>; M
   </div>
 </div>
 </li> 
+
+
+</ol>
+</div>
+
+
+<h2 id="publications" style="margin: 0px 0px -30px;">Conference Publications</h2>
+
+<div class="publications">
+<ol class="bibliography">
+  
+<!-- <li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/thesis_cover.jpg" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">PhD Thesis</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://repository.ubn.ru.nl/handle/2066/245409">Rethinking Realism: Towards More Transferable and Less Suspicious Adversarial Images</a></div>
+      <div class="author"><strong>Zhengyu Zhao</strong></div>
+      <div class="periodical"><em><strong>PhD thesis</strong>, Radboud University, 2022.</em>
+      </div>
+  </div>
+</div>
+</li> -->
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
@@ -313,7 +323,7 @@ My general research interest is <strong>Security of Machine Learning</strong>; M
 </div>
 
 
-<h2 id="publications" style="margin: 0px 0px -30px;">Conference Publications</h2>
+<h2 id="publications" style="margin: 0px 0px -30px;">Journal Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -375,7 +385,6 @@ My general research interest is <strong>Security of Machine Learning</strong>; M
 </div>
 </li> 
   
-
 </ol>
 </div>
 
