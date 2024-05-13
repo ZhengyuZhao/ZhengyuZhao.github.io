@@ -416,7 +416,7 @@ My general research interest is <strong>Security of Machine Learning</strong>; M
 
 ## Services
 <ul style="margin:-5px 0 25px;width:950px">
-  <li><strong>Area Chair/Senior Program Committee</strong> of NeurIPS, AAAI</li>
+  <li><strong>Area Chair</strong> of NeurIPS, <strong>Senior Program Committee</strong> of AAAI</li>
   <li><strong>Program Committee</strong> of ICLR, ICML, CVPR, ICCV, ECCV, ACL, IJCAI, AISTATS, BMVC, FAccT</li>
   <li><strong>Journal Reviewer</strong> of TPAMI, TIFS, TDSC, IJCV, PR</li>
   <li><strong>Poster Session Co-Chair</strong> of ACM MM 2019</li>
