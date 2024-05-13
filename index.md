@@ -62,21 +62,6 @@ My general research interest is <strong>Security of Machine Learning</strong>; M
 
 <div class="publications">
 <ol class="bibliography">
-  
-<!-- <li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/thesis_cover.jpg" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">PhD Thesis</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://repository.ubn.ru.nl/handle/2066/245409">Rethinking Realism: Towards More Transferable and Less Suspicious Adversarial Images</a></div>
-      <div class="author"><strong>Zhengyu Zhao</strong></div>
-      <div class="periodical"><em><strong>PhD thesis</strong>, Radboud University, 2022.</em>
-      </div>
-  </div>
-</div>
-</li> -->
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
