@@ -193,23 +193,6 @@ My general research interest is <strong>Security of Machine Learning</strong>; M
 </li>
 
 
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/QAA.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">arXiv</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2305.05875">Quantization Aware Attack: Enhancing Transferable Adversarial Attacks by Model Quantization</a></div>
-      <div class="author">Yulong Yang, Chenhao Lin, Qian Li, <strong>Zhengyu Zhao</strong>, Haoran Fan, Dawei Zhou, Nannan Wang, Tongliang Liu, Chao Shen</div>
-      <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2024.</em>
-      </div>
-    <div class="links">
-      <a href="https://github.com/yyl-github-1896/QAA/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-</li>
   
  <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
@@ -246,26 +229,6 @@ My general research interest is <strong>Security of Machine Learning</strong>; M
   </div>
 </div>
 </li>  
-   
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/illustration.PNG" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">TIFS</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2011.06690">Adversarial Image Color Transformations in Explicit Color Filter Space</a></div>
-      <div class="author"><strong>Zhengyu Zhao</strong>, Zhuoran Liu, Martha Larson</div>
-      <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2023.</em>
-      </div>
-    <div class="links">
-      <a href="https://github.com/ZhengyuZhao/ACE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://www.bmvc2020-conference.com/conference/papers/paper_0099.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
-      <a href="https://www.bmvc2020-conference.com/assets/papers/0099.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BMVC 2020 version</a>
-    </div>
-  </div>
-</div>
-</li> 
   
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
