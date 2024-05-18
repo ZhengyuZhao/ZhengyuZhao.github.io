@@ -255,7 +255,7 @@ My general research interest is <strong>Security of Machine Learning</strong>; M
 <!--             <abbr class="badge">arXiv</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://ieeexplore.ieee.org/document/10531252">Adversarial Vulnerability Exposure of Transfer Learning of Source Code</a></div>
+      <div class="title"><a href="https://ieeexplore.ieee.org/document/10531252">Exploiting the Adversarial Example Vulnerability of Transfer Learning of Source Code</a></div>
       <div class="author">Yulong Yang, Haoran Fan, Chenhao Lin, Qian Li, <strong>Zhengyu Zhao</strong>, Chao Shen</div>
       <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2024.</em>
       </div>
