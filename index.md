@@ -44,8 +44,8 @@ My general research interest is <strong>Security of Machine Learning</strong>; M
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
       <div class="title"><a href="https://arxiv.org/abs/2310.11850">Revisiting Transferable Adversarial Image Examples: Attack Categorization, Evaluation Guidelines, and New Insights</a></div>
       <div class="author"><strong>Zhengyu Zhao*</strong>, Hanwei Zhang*, Renjue Li*, Ronan Sicre, Laurent Amsaleg, Michael Backes, Qi Li, Chao Shen</div>
-      <div class="periodical"><em><strong>arXiv</strong>.</em>
-      </div>
+<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
+      </div> -->
     <div class="links">
       <a href="https://github.com/ZhengyuZhao/TransferAttackEval" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
@@ -62,8 +62,8 @@ My general research interest is <strong>Security of Machine Learning</strong>; M
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left:0px;">
       <div class="title"><a href="https://arxiv.org/abs/2402.18370">Adversarial Example Soups: Improving Transferability and Stealthiness for Free</a></div>
       <div class="author">Bo Yang, Hengwei Zhang, Jindong Wang, Yulong Yang, Chenhao Lin, Chao Shen, <strong>Zhengyu Zhao</strong></div>
-      <div class="periodical"><em><strong>arXiv</strong>.</em>
-      </div>
+<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
+      </div> -->
   </div>
 </div>
 </li>  
@@ -77,8 +77,8 @@ My general research interest is <strong>Security of Machine Learning</strong>; M
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left:0px;">
       <div class="title"><a href="https://arxiv.org/abs/2309.01104">Evading Deepfake Detectors via Black-box 3D Adversarial Head Turn</a></div>
       <div class="author">Weijie Wang, <strong>Zhengyu Zhao</strong>, Bo Li, Nicu Sebe, Bruno Lepri</div>
-      <div class="periodical"><em><strong>arXiv</strong>.</em>
-      </div>
+<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
+      </div> -->
   </div>
 </div>
 </li>  
@@ -92,8 +92,8 @@ My general research interest is <strong>Security of Machine Learning</strong>; M
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
       <div class="title"><a href="https://arxiv.org/abs/2406.05800">SlowPerception: Physical-World Latency Attack against Visual Perception in Autonomous Driving</a></div>
       <div class="author">Chen Ma*, Ningfei Wang*, <strong>Zhengyu Zhao</strong>, Qi Alfred Chen, Chao Shen</div>
-      <div class="periodical"><em><strong>arXiv</strong>.</em>
-      </div>
+<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
+      </div> -->
   </div>
 </div>
 </li> 
@@ -107,8 +107,8 @@ My general research interest is <strong>Security of Machine Learning</strong>; M
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
       <div class="title"><a href="https://arxiv.org/abs/2406.05810">ControlLoc: Physical-World Hijacking Attack on Visual Perception in Autonomous Driving</a></div>
       <div class="author">Chen Ma*, Ningfei Wang*, <strong>Zhengyu Zhao</strong>, Qian Wang, Qi Alfred Chen, Chao Shen</div>
-      <div class="periodical"><em><strong>arXiv</strong>.</em>
-      </div>
+<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
+      </div> -->
   </div>
 </div>
 </li> 
@@ -122,8 +122,8 @@ My general research interest is <strong>Security of Machine Learning</strong>; M
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
       <div class="title"><a href="https://arxiv.org/abs/2306.07754">Generative Watermarking Against Unauthorized Subject-Driven Image Synthesis</a></div>
       <div class="author">Yihan Ma, <strong>Zhengyu Zhao</strong>, Xinlei He, Zheng Li, Michael Backes, Yang Zhang</div>
-      <div class="periodical"><em><strong>arXiv</strong>.</em>
-      </div>
+<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
+      </div> -->
     <div class="links">
       <a href="https://blog.metaphysic.ai/personalized-protection-against-stable-diffusion-deepfaking/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Metaphysic.ai Blog, by Martin Anderson</a>
     </div>
@@ -140,8 +140,8 @@ My general research interest is <strong>Security of Machine Learning</strong>; M
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
       <div class="title"><a href="https://arxiv.org/abs/2308.07847">Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models</a></div>
       <div class="author">Yugeng Liu*, Tianshuo Cong*, <strong>Zhengyu Zhao</strong>, Michael Backes, Yun Shen, Yang Zhang</div>
-      <div class="periodical"><em><strong>arXiv</strong>.</em>
-      </div>
+<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
+      </div> -->
   </div>
 </div>
 </li> 
@@ -155,8 +155,8 @@ My general research interest is <strong>Security of Machine Learning</strong>; M
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
       <div class="title"><a href="https://arxiv.org/abs/2310.07632">Prompt Backdoors in Visual Prompt Learning</a></div>
       <div class="author">Hai Huang, <strong>Zhengyu Zhao</strong>, Yun Shen, Michael Backes, Yang Zhang</div>
-      <div class="periodical"><em><strong>arXiv</strong>.</em>
-      </div>
+<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
+      </div> -->
   </div>
 </div>
 </li>  
