@@ -116,6 +116,21 @@ My general research interest is <strong>Security of Machine Learning</strong>; M
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/matrix.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">arXiv</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2407.09295">Security Matrix for Multimodal Agents on Mobile Devices: A Systematic and Proof of Concept Study</a></div>
+      <div class="author">Yulong Yang, Xinshan Yang, Shuaidong Li, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Chao Shen, Tianwei Zhang</div>
+<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
+      </div> -->
+  </div>
+</div>
+</li> 
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/GenWatermark.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">arXiv</abbr> -->
   </div>
