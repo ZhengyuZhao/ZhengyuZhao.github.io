@@ -463,10 +463,10 @@ I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherl
 
 ## Services
 <ul style="margin:-5px 0 25px;width:950px">
+  <li><strong>Poster Session Co-Chair</strong> of ACM MM 2019</li>
   <li><strong>Area Chair</strong> of NeurIPS, <strong>Senior Program Committee</strong> of AAAI</li>
   <li><strong>Program Committee</strong> of ICLR, ICML, CVPR, ICCV, ECCV, ACL, IJCAI, AISTATS, BMVC, FAccT</li>
   <li><strong>Journal Reviewer</strong> of TPAMI, TIFS, TKDE, TDSC, TCSS, IJCV, PR</li>
-  <li><strong>Poster Session Co-Chair</strong> of ACM MM 2019</li>
   <li><strong>Task Co-Organizer</strong> of <a href="https://multimediaeval.github.io/editions/2020/tasks/pixelprivacy/">Pixel Privacy</a> and <a href="http://www.multimediaeval.org/mediaeval2019/multimediasatellite/">Multimedia Satellite</a> at <a href="https://multimediaeval.github.io/">MediaEval</a> 2018-2020</li>
 </ul>
 
