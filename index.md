@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 I am an Associate Professor at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/XJTU_Introduction/Introduction.htm) (XJTU), China. I was a postdoc at [CISPA Helmholtz Center for Information Security](https://cispa.de/en/about), Germany, hosted by [Prof. Michael Backes](https://michaelbackes.eu/aboutme.html).
-I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherlands, supervised by [Prof. Martha Larson](https://www.ru.nl/english/people/larson-m/). My general research interest is <strong>Adversarial Machine Learning</strong>; Most of my work has concentrated on analyzing the vulnerability of deep neural networks (e.g., computer vision and large vision-language models) to various attacks (e.g., adversarial examples and data poisons).
+I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherlands, supervised by [Prof. Martha Larson](https://www.ru.nl/english/people/larson-m/). My general research interest is <strong>Adversarial Machine Learning</strong>; Most of my work has concentrated on analyzing the vulnerability of deep neural networks (e.g., computer vision and large vision-language models) to various attacks (e.g., adversarial examples and data poisons). I sometimes contribute to projects on media forensics, including AI-generated media detection.
 
 <!-- <strong><span style="color:#ff0000;">If you are interested in doing a PhD with me, please reach out! A strong background in adversarial machine learning or a related field is a plus. :-)</span></strong> -->
 
@@ -55,21 +55,6 @@ I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherl
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/soup.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">arXiv</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left:0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2402.18370">Adversarial Example Soups: Improving Transferability and Stealthiness for Free</a></div>
-      <div class="author">Bo Yang, Hengwei Zhang, Jindong Wang, Yulong Yang, Chenhao Lin, Chao Shen, <strong>Zhengyu Zhao</strong></div>
-<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
-      </div> -->
-  </div>
-</div>
-</li>  
-
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/AdvHeat.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">arXiv</abbr> -->
   </div>
@@ -100,6 +85,21 @@ I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherl
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/LLM.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">arXiv</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2308.07847">Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models</a></div>
+      <div class="author">Yugeng Liu*, Tianshuo Cong*, <strong>Zhengyu Zhao</strong>, Michael Backes, Yun Shen, Yang Zhang</div>
+<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
+      </div> -->
+  </div>
+</div>
+</li> 
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/matrix.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">arXiv</abbr> -->
   </div>
@@ -111,6 +111,22 @@ I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherl
   </div>
 </div>
 </li> 
+
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/def.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">arXiv</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left:0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2407.10575">A Survey of Defenses against AI-generated Visual Media: Detection, Disruption, and Authentication</a></div>
+      <div class="author">Jingyi Deng, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Shuai Liu, Qian Wang, Chao Shen</div>
+<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
+      </div> -->
+  </div>
+</div>
+</li>  
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
@@ -129,21 +145,6 @@ I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherl
   </div>
 </div>
 </li>  
-
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/LLM.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">arXiv</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2308.07847">Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models</a></div>
-      <div class="author">Yugeng Liu*, Tianshuo Cong*, <strong>Zhengyu Zhao</strong>, Michael Backes, Yun Shen, Yang Zhang</div>
-<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
-      </div> -->
-  </div>
-</div>
-</li> 
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -5px;width:950px">
