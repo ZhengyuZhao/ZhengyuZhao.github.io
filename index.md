@@ -3,9 +3,9 @@ layout: homepage
 ---
 
 ## About Me
-I am an Associate Professor at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/XJTU_Introduction/Introduction.htm) (XJTU), China. I was a postdoc at [CISPA Helmholtz Center for Information Security](https://cispa.de/en/about), Germany, hosted by [Prof. Michael Backes](https://cispa.de/en/about/director-page).
+I am an Associate Professor at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/XJTU_Introduction/Introduction.htm) (XJTU), China. I was a postdoc at [CISPA Helmholtz Center for Information Security](https://cispa.de/en/about), Germany, hosted by [Prof. Michael Backes](https://michaelbackes.eu/aboutme.html).
 I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherlands, supervised by [Prof. Martha Larson](https://www.ru.nl/english/people/larson-m/), with the thesis titled <a href="https://repository.ubn.ru.nl/handle/2066/245409">Rethinking Realism: Towards More Transferable and Less Suspicious Adversarial Images</a>.
-My general research interest is <strong>Security of Machine Learning</strong>; Most of my work has concentrated on analyzing the vulnerability of deep neural networks to various attacks, e.g., adversarial examples and data poisons.
+My general research interest is <strong>Security of Machine Learning</strong>; Most of my work has concentrated on analyzing the vulnerability of deep neural networks, e.g., computer vision and (large) multimodal models to various attacks, e.g., adversarial examples and data poisons.
 
 <!-- <strong><span style="color:#ff0000;">If you are interested in doing a PhD/Master with me, please reach out! A strong background in machine learning, cyber security, or a related field is a plus. :-)</span></strong> -->
 
