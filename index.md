@@ -29,7 +29,7 @@ I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherl
 
 <!-- <h2 id="publications" style="margin: 0px 0px -30px;">Conference Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=en&user=pC8KpPMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/58/10770-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2> -->
 
-<h2 id="publications" style="margin: 0px 0px -30px;">Pre-prints</h2>
+<h2 id="publications" style="margin: 0px 0px -30px;">Publications: Foundations of Adversarial Machine learning</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -68,137 +68,6 @@ I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherl
 </div>
 </li> 
 
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/AdvHeat.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">arXiv</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left:0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2309.01104">Evading Deepfake Detectors via Black-box 3D Adversarial Head Turn</a></div>
-      <div class="author">Weijie Wang, <strong>Zhengyu Zhao</strong>, Bo Li, Nicu Sebe, Bruno Lepri</div>
-<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
-      </div> -->
-  </div>
-</div>
-</li>  
-
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/ControlLoc.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">arXiv</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2406.05810">ControlLoc: Physical-World Hijacking Attack on Visual Perception in Autonomous Driving</a></div>
-      <div class="author">Chen Ma*, Ningfei Wang*, <strong>Zhengyu Zhao</strong>, Qian Wang, Qi Alfred Chen, Chao Shen</div>
-<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
-      </div> -->
-  </div>
-</div>
-</li> 
-
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/matrix.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">arXiv</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2407.09295">Security Matrix for Multimodal Agents on Mobile Devices: A Systematic and Proof of Concept Study</a></div>
-      <div class="author">Yulong Yang, Xinshan Yang, Shuaidong Li, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Chao Shen, Tianwei Zhang</div>
-<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
-      </div> -->
-  </div>
-</div>
-</li> 
-
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/jailbreak.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">arXiv</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2408.11313">Unlocking Adversarial Suffix Optimization Without Affirmative Phrases: Efficient Black-box Jailbreaking via LLM as Optimizer</a></div>
-      <div class="author">Weipeng Jiang, Zhenting Wang, Juan Zhai, Shiqing Ma, <strong>Zhengyu Zhao</strong>, Chao Shen</div>
-<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
-      </div> -->
-  </div>
-</div>
-</li> 
-
-
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/def.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">arXiv</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left:0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2407.10575">A Survey of Defenses against AI-generated Visual Media: Detection, Disruption, and Authentication</a></div>
-      <div class="author">Jingyi Deng, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Shuai Liu, Qian Wang, Chao Shen</div>
-<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
-      </div> -->
-  </div>
-</div>
-</li>  
-
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/LLM.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">arXiv</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2308.07847">Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models</a></div>
-      <div class="author">Yugeng Liu*, Tianshuo Cong*, <strong>Zhengyu Zhao</strong>, Michael Backes, Yun Shen, Yang Zhang</div>
-<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
-      </div> -->
-  </div>
-</div>
-</li> 
-
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/GenWatermark.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">arXiv</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2306.07754">Generative Watermarking Against Unauthorized Subject-Driven Image Synthesis</a></div>
-      <div class="author">Yihan Ma, <strong>Zhengyu Zhao</strong>, Xinlei He, Zheng Li, Michael Backes, Yang Zhang</div>
-<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
-      </div> -->
-    <div class="links">
-      <a href="https://blog.metaphysic.ai/personalized-protection-against-stable-diffusion-deepfaking/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Metaphysic.ai Blog, by Martin Anderson</a>
-    </div>
-  </div>
-</div>
-</li>  
-
-<li>
-<div class="pub-row" style="margin: 0px 0px -5px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/bvp.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">arXiv</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2310.07632">Prompt Backdoors in Visual Prompt Learning</a></div>
-      <div class="author">Hai Huang, <strong>Zhengyu Zhao</strong>, Yun Shen, Michael Backes, Yang Zhang</div>
-<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
-      </div> -->
-  </div>
-</div>
-</li>  
-
-</ol>
-</div>
-
-<h2 id="publications" style="margin: 0px 0px -30px;">Conference Publications</h2>
-
-<div class="publications">
-<ol class="bibliography">
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
@@ -221,40 +90,22 @@ I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherl
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/3d.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">CVPR</abbr> -->
+    <img src="./assets/img/QAA.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">arXiv</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org//abs/2403.17301">Physical 3D Adversarial Attacks against Monocular Depth Estimation in Autonomous Driving</a></div>
-      <div class="author">Junhao Zheng, Chenhao Lin, Jiahao Sun, <strong>Zhengyu Zhao</strong>, Qian Li, Chao Shen</div>
-      <div class="periodical"><em>IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em>
+      <div class="title"><a href="https://arxiv.org/abs/2305.05875">Quantization Aware Attack: Enhancing Transferable Adversarial Attacks by Model Quantization</a></div>
+      <div class="author">Yulong Yang, Chenhao Lin, Qian Li, <strong>Zhengyu Zhao</strong>, Haoran Fan, Dawei Zhou, Nannan Wang, Tongliang Liu, Chao Shen</div>
+      <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2024.</em>
       </div>
     <div class="links">
-       <a href="https://github.com/Gandolfczjh/3D2Fool" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/yyl-github-1896/QAA/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
 </li>
 
 <li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/cba.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">NAACL</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2310.07676">Composite Backdoor Attacks Against Large Language Models</a></div>
-      <div class="author">Hai Huang, <strong>Zhengyu Zhao</strong>, Yun Shen, Michael Backes, Yang Zhang</div>
-      <div class="periodical"><em>North American Chapter of the Association for Computational Linguistics <strong>(NAACL) Findings</strong>, 2024.</em>
-      </div>
-        <div class="links">
-       <a href="https://github.com/MiracleHH/CBA" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-</li> 
-  
- <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/ISS.png" class="teaser img-fluid z-depth-1">
@@ -289,6 +140,27 @@ I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherl
   </div>
 </div>
 </li>  
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/illustration.PNG" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">TIFS</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2011.06690">Adversarial Image Color Transformations in Explicit Color Filter Space</a></div>
+      <div class="author"><strong>Zhengyu Zhao</strong>, Zhuoran Liu, Martha Larson</div>
+      <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2023.</em>
+      </div>
+    <div class="links">
+      <a href="https://github.com/ZhengyuZhao/ACE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://www.bmvc2020-conference.com/conference/papers/paper_0099.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
+      <a href="https://www.bmvc2020-conference.com/assets/papers/0099.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BMVC 2020 version</a>
+    </div>
+  </div>
+</div>
+</li> 
+  
   
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
@@ -329,25 +201,7 @@ I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherl
   </div>
 </div>
 </li>
-  
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/screengleaning.PNG" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">NDSS</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2011.09877">Screen Gleaning: A Screen Reading TEMPEST Attack on Mobile Devices Exploiting an Electromagnetic Side Channel</a></div>
-      <div class="author">Zhuoran Liu, Niels Samwel, Léo Weissbart, <strong>Zhengyu Zhao</strong>, Dirk Lauret, Lejla Batina, Martha Larson</div>
-      <div class="periodical"><em>Network and Distributed System Security Symposium <strong>(NDSS)</strong>, 2021.</em>
-      </div>
-    <div class="links">
-      <a href="https://github.com/cescalab/screen_gleaning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://www.youtube.com/watch?v=qEXwe58IVFc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
-    </div>
-  </div>
-</div>
-</li>
+
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
@@ -369,7 +223,7 @@ I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherl
 </li>
 
 <li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+<div class="pub-row" style="margin: 0px 0px -5px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/PIRE_2.PNG" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">ICMR</abbr> -->
@@ -385,67 +239,123 @@ I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherl
   </div>
 </div>
 </li>  
-  
-<li>
-<div class="pub-row" style="margin: 0px 0px -5px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/adired.PNG" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">ACM MM</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/1807.08624">From Volcano to Toyshop: Adaptive Discriminative Region Discovery for Scene Recognition</a></div>
-      <div class="author"><strong>Zhengyu Zhao</strong>, Martha Larson</div>
-      <div class="periodical"><em>ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2018.</em>
-      </div>
-    <div class="links">
-      <a href="https://github.com/ZhengyuZhao/Adi-Red-Scene" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://dl.acm.org/citation.cfm?id=3351169" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Reproducibility companion paper at <strong>ACM MM</strong> 2019</a>
-    </div>
-  </div>
-</div>
-</li>
 
 </ol>
 </div>
 
-
-<h2 id="publications" style="margin: 0px 0px -30px;">Journal Publications</h2>
+<h2 id="publications" style="margin: 0px 0px -30px;">Publications: Applications of Adversarial Machine learning</h2>
 
 <div class="publications">
 <ol class="bibliography">
-  
+
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/transteal.png" class="teaser img-fluid z-depth-1">
+    <img src="./assets/img/matrix.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">arXiv</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://ieeexplore.ieee.org/document/10531252">Towards Transferable and Stealthy Attacks against Object Detection in Autonomous Driving Systems</a> (in Chinese)</div>
-      <div class="author">Junhao Zheng, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Ziyi Jia, Libing Wu, Chao Shen</div>
-      <div class="periodical"><em>Journal of Computer Research and Development <strong>(CRaD)</strong>, 2024.</em>
-      </div>
+      <div class="title"><a href="https://arxiv.org/abs/2407.09295">Security Matrix for Multimodal Agents on Mobile Devices: A Systematic and Proof of Concept Study</a></div>
+      <div class="author">Yulong Yang, Xinshan Yang, Shuaidong Li, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Chao Shen, Tianwei Zhang</div>
+<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
+      </div> -->
+  </div>
+</div>
+</li> 
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/jailbreak.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">arXiv</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2408.11313">Unlocking Adversarial Suffix Optimization Without Affirmative Phrases: Efficient Black-box Jailbreaking via LLM as Optimizer</a></div>
+      <div class="author">Weipeng Jiang, Zhenting Wang, Juan Zhai, Shiqing Ma, <strong>Zhengyu Zhao</strong>, Chao Shen</div>
+<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
+      </div> -->
+  </div>
+</div>
+</li> 
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/ControlLoc.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">arXiv</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2406.05810">ControlLoc: Physical-World Hijacking Attack on Visual Perception in Autonomous Driving</a></div>
+      <div class="author">Chen Ma*, Ningfei Wang*, <strong>Zhengyu Zhao</strong>, Qian Wang, Qi Alfred Chen, Chao Shen</div>
+<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
+      </div> -->
+  </div>
+</div>
+</li> 
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/LLM.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">arXiv</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2308.07847">Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models</a></div>
+      <div class="author">Yugeng Liu*, Tianshuo Cong*, <strong>Zhengyu Zhao</strong>, Michael Backes, Yun Shen, Yang Zhang</div>
+<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
+      </div> -->
+  </div>
+</div>
+</li> 
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/GenWatermark.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">arXiv</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2306.07754">Generative Watermarking Against Unauthorized Subject-Driven Image Synthesis</a></div>
+      <div class="author">Yihan Ma, <strong>Zhengyu Zhao</strong>, Xinlei He, Zheng Li, Michael Backes, Yang Zhang</div>
+<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
+      </div> -->
     <div class="links">
-      <a href="https://github.com/yyl-github-1896/CodeTAE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://blog.metaphysic.ai/personalized-protection-against-stable-diffusion-deepfaking/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Metaphysic.ai Blog, by Martin Anderson</a>
     </div>
   </div>
 </div>
-</li>
+</li>  
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/QAA.png" class="teaser img-fluid z-depth-1">
+    <img src="./assets/img/bvp.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">arXiv</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2305.05875">Quantization Aware Attack: Enhancing Transferable Adversarial Attacks by Model Quantization</a></div>
-      <div class="author">Yulong Yang, Chenhao Lin, Qian Li, <strong>Zhengyu Zhao</strong>, Haoran Fan, Dawei Zhou, Nannan Wang, Tongliang Liu, Chao Shen</div>
-      <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2024.</em>
+      <div class="title"><a href="https://arxiv.org/abs/2310.07632">Prompt Backdoors in Visual Prompt Learning</a></div>
+      <div class="author">Hai Huang, <strong>Zhengyu Zhao</strong>, Yun Shen, Michael Backes, Yang Zhang</div>
+<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
+      </div> -->
+  </div>
+</div>
+</li>  
+
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/3d.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">CVPR</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org//abs/2403.17301">Physical 3D Adversarial Attacks against Monocular Depth Estimation in Autonomous Driving</a></div>
+      <div class="author">Junhao Zheng, Chenhao Lin, Jiahao Sun, <strong>Zhengyu Zhao</strong>, Qian Li, Chao Shen</div>
+      <div class="periodical"><em>IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em>
       </div>
     <div class="links">
-      <a href="https://github.com/yyl-github-1896/QAA/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+       <a href="https://github.com/Gandolfczjh/3D2Fool" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
@@ -472,6 +382,121 @@ I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherl
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/transteal.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">arXiv</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://ieeexplore.ieee.org/document/10531252">Towards Transferable and Stealthy Attacks against Object Detection in Autonomous Driving Systems</a> (in Chinese)</div>
+      <div class="author">Junhao Zheng, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Ziyi Jia, Libing Wu, Chao Shen</div>
+      <div class="periodical"><em>Journal of Computer Research and Development <strong>(CRaD)</strong>, 2024.</em>
+      </div>
+    <div class="links">
+      <a href="https://github.com/yyl-github-1896/CodeTAE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/cba.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">NAACL</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2310.07676">Composite Backdoor Attacks Against Large Language Models</a></div>
+      <div class="author">Hai Huang, <strong>Zhengyu Zhao</strong>, Yun Shen, Michael Backes, Yang Zhang</div>
+      <div class="periodical"><em>North American Chapter of the Association for Computational Linguistics <strong>(NAACL) Findings</strong>, 2024.</em>
+      </div>
+        <div class="links">
+       <a href="https://github.com/MiracleHH/CBA" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li> 
+  
+  
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/screengleaning.PNG" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">NDSS</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2011.09877">Screen Gleaning: A Screen Reading TEMPEST Attack on Mobile Devices Exploiting an Electromagnetic Side Channel</a></div>
+      <div class="author">Zhuoran Liu, Niels Samwel, Léo Weissbart, <strong>Zhengyu Zhao</strong>, Dirk Lauret, Lejla Batina, Martha Larson</div>
+      <div class="periodical"><em>Network and Distributed System Security Symposium <strong>(NDSS)</strong>, 2021.</em>
+      </div>
+    <div class="links">
+      <a href="https://github.com/cescalab/screen_gleaning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://www.youtube.com/watch?v=qEXwe58IVFc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
+    </div>
+  </div>
+</div>
+</li>
+  
+<li>
+<div class="pub-row" style="margin: 0px 0px -5px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/adired.PNG" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">ACM MM</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/1807.08624">From Volcano to Toyshop: Adaptive Discriminative Region Discovery for Scene Recognition</a></div>
+      <div class="author"><strong>Zhengyu Zhao</strong>, Martha Larson</div>
+      <div class="periodical"><em>ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2018.</em>
+      </div>
+    <div class="links">
+      <a href="https://github.com/ZhengyuZhao/Adi-Red-Scene" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://dl.acm.org/citation.cfm?id=3351169" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Reproducibility companion paper at <strong>ACM MM</strong> 2019</a>
+    </div>
+  </div>
+</div>
+</li>
+
+</ol>
+</div>
+
+
+<h2 id="publications" style="margin: 0px 0px -30px;">Publications: Detection of AI-generated Multimedia</h2>
+
+<div class="publications">
+<ol class="bibliography">
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/AdvHeat.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">arXiv</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left:0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2309.01104">Evading Deepfake Detectors via Black-box 3D Adversarial Head Turn</a></div>
+      <div class="author">Weijie Wang, <strong>Zhengyu Zhao</strong>, Bo Li, Nicu Sebe, Bruno Lepri</div>
+<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
+      </div> -->
+  </div>
+</div>
+</li>  
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/def.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">arXiv</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left:0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2407.10575">A Survey of Defenses against AI-generated Visual Media: Detection, Disruption, and Authentication</a></div>
+      <div class="author">Jingyi Deng, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Shuai Liu, Qian Wang, Chao Shen</div>
+<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
+      </div> -->
+  </div>
+</div>
+</li>  
+
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -5px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/mf.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">arXiv</abbr> -->
   </div>
@@ -487,26 +512,6 @@ I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherl
 </div>
 </li>
    
-<li>
-<div class="pub-row" style="margin: 0px 0px -5px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/illustration.PNG" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">TIFS</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2011.06690">Adversarial Image Color Transformations in Explicit Color Filter Space</a></div>
-      <div class="author"><strong>Zhengyu Zhao</strong>, Zhuoran Liu, Martha Larson</div>
-      <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2023.</em>
-      </div>
-    <div class="links">
-      <a href="https://github.com/ZhengyuZhao/ACE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://www.bmvc2020-conference.com/conference/papers/paper_0099.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
-      <a href="https://www.bmvc2020-conference.com/assets/papers/0099.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BMVC 2020 version</a>
-    </div>
-  </div>
-</div>
-</li> 
-  
 </ol>
 </div>
 
