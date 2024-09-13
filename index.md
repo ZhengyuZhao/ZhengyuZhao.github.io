@@ -29,7 +29,7 @@ I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherl
 
 <!-- <h2 id="publications" style="margin: 0px 0px -30px;">Conference Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=en&user=pC8KpPMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/58/10770-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2> -->
 
-<h2 id="publications" style="margin: 0px 0px -30px;">Publications: Foundations of Adversarial Machine learning</h2>
+<h2 id="publications" style="margin: 0px 0px -30px;">Publications: Foundations of Adversarial Machine Learning</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -243,7 +243,7 @@ I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherl
 </ol>
 </div>
 
-<h2 id="publications" style="margin: 0px 0px -30px;">Publications: Applications of Adversarial Machine learning</h2>
+<h2 id="publications" style="margin: 0px 0px -30px;">Publications: Applications of Adversarial Machine Learning</h2>
 
 <div class="publications">
 <ol class="bibliography">
