@@ -458,7 +458,7 @@ I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherl
 </div>
 
 
-<h2 id="publications" style="margin: 0px 0px -30px;">Publications: Detection of AI-generated Multimedia</h2>
+<h2 id="publications" style="margin: 0px 0px -30px;">Publications: Detection of AI-generated Media</h2>
 
 <div class="publications">
 <ol class="bibliography">
