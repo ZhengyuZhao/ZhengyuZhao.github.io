@@ -493,6 +493,21 @@ I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherl
 </div>
 </li>  
 
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/patch.PNG" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">NeurIPS</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://openreview.net/forum?id=NtNTfRTjE8">Breaking Semantic Artifacts for Generalized AI-generated Image Detection</a></div>
+      <div class="author">Chende Zheng, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Hang Wang, Xu Guo, Shuai Liu, Chao Shen</div>
+      <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.</em>
+      </div>
+  </div>
+</div>
+</li>
+
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -5px;width:950px">
