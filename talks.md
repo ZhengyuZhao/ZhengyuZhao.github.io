@@ -1,5 +1,5 @@
 ---
-layout: Homepage
+layout: default
 title: Talks
 permalink: /talks/
 ---
