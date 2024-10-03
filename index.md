@@ -7,6 +7,22 @@ I am an Associate Professor at [Xi'an Jiaotong University](http://en.xjtu.edu.cn
 I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherlands, supervised by [Prof. Martha Larson](https://www.ru.nl/english/people/larson-m/). My general research interest is <strong>Adversarial Machine Learning</strong>; Most of my work has concentrated on analyzing the vulnerability of deep neural networks (e.g., computer vision and large vision-language models) to various attacks (e.g., adversarial examples and data poisons). I sometimes contribute to projects on media forensics, including AI-generated media detection.
 
 ## Resources 
+
+
+
+## Resources 
+- **[A curated list for large model safety, security, and privacy papers, leaderboards...](https://github.com/ThuCCSLab/lm-ssp)** <img alt="Stars" src="https://img.shields.io/github/stars/ThuCCSLab/lm-ssp">
+- **[A curated list for AI security & privacy workshops, tutorials, seminars...](https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events)** <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/AI-Security-and-Privacy-Events">
+- **[A curated list for transferable adversarial example papers](https://github.com/ZhengyuZhao/TransferAttackEval)** <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/TransferAttackEval">
+
+## Resources 
+<ul style="margin:-5px 0 25px;width:950px">
+  <li><a href="https://github.com/ThuCCSLab/lm-ssp">A curated list for large model safety, security, and privacy papers, leaderboards...</a> <img alt="Stars" src="https://img.shields.io/github/stars/ThuCCSLab/lm-ssp"</li>
+  <li><a href="https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events">A curated list for AI security & privacy workshops, tutorials, seminars...</a> <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/AI-Security-and-Privacy-Events"</li>
+  <li><a href="https://github.com/ZhengyuZhao/TransferAttackEval">A curated list for transferable adversarial example papers</a> <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/TransferAttackEval"</li>
+</ul>
+
+## Resources 
 - **[A curated list for large model safety, security, and privacy papers, leaderboards...](https://github.com/ThuCCSLab/lm-ssp)** <img alt="Stars" src="https://img.shields.io/github/stars/ThuCCSLab/lm-ssp">
 - **[A curated list for AI security & privacy workshops, tutorials, seminars...](https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events)** <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/AI-Security-and-Privacy-Events">
 - **[A curated list for transferable adversarial example papers](https://github.com/ZhengyuZhao/TransferAttackEval)** <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/TransferAttackEval">
