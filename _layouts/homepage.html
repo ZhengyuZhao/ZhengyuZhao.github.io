@@ -52,6 +52,48 @@
     </div>
     </lightonly>
 
+
+   <script>
+      function myFunction() {
+      var x = document.getElementById("myLinks");
+      if (x.style.display === "inline") {
+        x.style.display = "none";
+      } else {
+        x.style.display = "inline";
+        
+      }
+      }
+
+      function reverseLinks() {
+    var container = document.getElementById("myLinks");
+    var links = Array.from(container.getElementsByTagName('a'));
+    container.innerHTML = '';
+    for (var i = links.length - 1; i >= 0; i--) {
+      container.appendChild(links[i]);
+    }
+  }
+   </script>
+   
+   
+
+  </head>
+  <body>
+    
+    <div class="topnav">
+
+      <a href="{{ site.affiliation_link }}"><img width="120" src="{{ site.affiliation_logo }}"></a>
+
+      <div id="myLinks">
+      {% include navigation.md %}
+      </div>
+
+      <a href="javascript:void(0);" class="icon" onclick="myFunction();reverseLinks()">
+        <i class="fa fa-bars"></i>
+      </a>
+      
+    </div>
+
+    
     <script src="./assets/js/vanilla-back-to-top.min.js"></script>
     <script>addBackToTop({
         backgroundColor: '#fff',
