@@ -477,7 +477,7 @@ permalink: /publications/
 <!--             <abbr class="badge">NeurIPS</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://openreview.net/forum?id=NtNTfRTjE8">Breaking Semantic Artifacts for Generalized AI-generated Image Detection</a></div>
+      <div class="title"><a href="https://zhengyuzhao.github.io/publications/">Breaking Semantic Artifacts for Generalized AI-generated Image Detection</a></div>
       <div class="author">Chende Zheng, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Hang Wang, Xu Guo, Shuai Liu, Chao Shen</div>
       <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.</em>
       </div>
@@ -493,7 +493,7 @@ permalink: /publications/
 <!--             <abbr class="badge">arXiv</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2305.05875">Exploiting Facial Relationships and Feature Aggregation for Multi-Face Forgery Detection</a></div>
+      <div class="title"><a href="https://ieeexplore.ieee.org/document/10689267">Exploiting Facial Relationships and Feature Aggregation for Multi-Face Forgery Detection</a></div>
       <div class="author">Chenhao Lin, Fangbin Yi, Hang Wang, Jingyi Deng, <strong>Zhengyu Zhao</strong>, Qian Li, Chao Shen</div>
       <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2024.</em>
       </div>
