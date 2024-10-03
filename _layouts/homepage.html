@@ -21,17 +21,17 @@
     <meta name="twitter:image" content="{{ site.avatar }}">
 
     <link rel="canonical" href="{{site.canonical}}/"/>
-    <link rel="icon" media="(prefers-color-scheme:dark)" href="../{{ site.favicon_dark }}" />
-    <link rel="icon" media="(prefers-color-scheme:light)" href="../{{ site.favicon }}" />
+    <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" />
+    <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" />
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="stylesheet" href="../assets/css/style.css">
-    <link rel="stylesheet" href="../assets/css/pub.css">
-    <link rel="stylesheet" href="../assets/css/nav.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./assets/css/pub.css">
+    <link rel="stylesheet" href="./assets/css/nav.css">
     
-    <script src="../assets/js/github-stars.js"></script>
-    <script type="text/javascript" src="../assets/js/jquery.js"></script>
-    <script src="../assets/js/favicon-switcher.js" type="application/javascript"></script>
+    <script src="./assets/js/github-stars.js"></script>
+    <script type="text/javascript" src="./assets/js/jquery.js"></script>
+    <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
     
     <script type="text/javascript">
       function toggle_vis(id) {
@@ -71,10 +71,10 @@
     
     <div class="topnav">
 
-      <a href="{{ site.affiliation_link }}"><img width="120" src="../{{ site.affiliation_logo }}"></a>
+      <a href="{{ site.affiliation_link }}"><img width="120" src="{{ site.affiliation_logo }}"></a>
 
       <div id="myLinks">
-      {% include_relative navigation.md %}
+      {% include navigation.md %}
       </div>
 
       <a href="javascript:void(0);" class="icon" onclick="myFunction();reverseLinks()">
@@ -117,7 +117,7 @@
         <br>
         {% endif %}
         {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>Xi'an Jiaotong University</autocolor></a>
+        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>University of Illinois<br>Urbana-Champaign</autocolor></a>
         <br>
         {% endif %}
         {% if site.email %}
@@ -192,7 +192,19 @@
       </small> 
       {% endif %}
 
+      {% if site.footnote %}
+      <div style="font: 12px/1.2 Crimson Pro, serif">
+        <br>
+        <a href="{{ site.footnote_link }}" rel="noopener">{{ site.footnote }}</a>
+      </div>
+      {% endif %}
+
       <br>
+      {% if site.clustrmaps_id %}
+      <div style="width:100px; pointer-events: none;">
+      <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=043361&w=153&t=n&d={{ site.clustrmaps_id }}&co=ffffff&cmo=3eb7f0&ct=043361'></script>
+      </div>
+      {% endif %}
       
       </section>
       <footer>
