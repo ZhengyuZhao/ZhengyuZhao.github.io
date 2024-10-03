@@ -41,7 +41,7 @@
   
   /* Add a color to the active/current link */
   .topnav a.right {
-    margin-right:30%;
+    margin-right:40%;
   }
 
   @media print, screen and (max-width: 1000px) { 
