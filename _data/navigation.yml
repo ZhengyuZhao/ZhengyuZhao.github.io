@@ -12,6 +12,7 @@ main:
 
   - title: "Publications"
     url: /publications/
-
+    right: true
+  
   - title: "Home"
     url: /
