@@ -6,7 +6,7 @@ permalink: /publications/
 
 <h1 id="publications"></h1>
 
-<h2 id="publications" style="margin: 0px 0px -30px;">Security of Machine Learning: Foundations</h2>
+<h2 id="publications" style="margin: 60px 0px -30px;">Security of Machine Learning: Foundations</h2>
 
 <div class="publications">
 <ol class="bibliography">
