@@ -6,7 +6,7 @@ permalink: /publications/
 
 <h1 id="publications"></h1>
 
-<h2 id="publications" style="margin: 0px 0px -30px;">Foundations of Adversarial Machine Learning</h2>
+<h2 id="publications" style="margin: 0px 0px -30px;">Security of Machine Learning: Foundations</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -220,7 +220,7 @@ permalink: /publications/
 </ol>
 </div>
 
-<h2 id="publications" style="margin: 0px 0px -30px;">Applications of Adversarial Machine Learning</h2>
+<h2 id="publications" style="margin: 0px 0px -30px;">Security of Machine Learning: Applications</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -359,6 +359,24 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://zhengyuzhao.github.io/assets/img/cba.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">NAACL</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2310.07676">Composite Backdoor Attacks Against Large Language Models</a></div>
+      <div class="author">Hai Huang, <strong>Zhengyu Zhao</strong>, Yun Shen, Michael Backes, Yang Zhang</div>
+      <div class="periodical"><em>North American Chapter of the Association for Computational Linguistics <strong>(NAACL) Findings</strong>, 2024.</em>
+      </div>
+        <div class="links">
+       <a href="https://github.com/MiracleHH/CBA" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li> 
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -5px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://zhengyuzhao.github.io/assets/img/transteal.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">arXiv</abbr> -->
   </div>
@@ -374,68 +392,11 @@ permalink: /publications/
 </div>
 </li>
 
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/cba.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">NAACL</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2310.07676">Composite Backdoor Attacks Against Large Language Models</a></div>
-      <div class="author">Hai Huang, <strong>Zhengyu Zhao</strong>, Yun Shen, Michael Backes, Yang Zhang</div>
-      <div class="periodical"><em>North American Chapter of the Association for Computational Linguistics <strong>(NAACL) Findings</strong>, 2024.</em>
-      </div>
-        <div class="links">
-       <a href="https://github.com/MiracleHH/CBA" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-</li> 
-  
-  
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/screengleaning.PNG" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">NDSS</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2011.09877">Screen Gleaning: A Screen Reading TEMPEST Attack on Mobile Devices Exploiting an Electromagnetic Side Channel</a></div>
-      <div class="author">Zhuoran Liu, Niels Samwel, Léo Weissbart, <strong>Zhengyu Zhao</strong>, Dirk Lauret, Lejla Batina, Martha Larson</div>
-      <div class="periodical"><em>Network and Distributed System Security Symposium <strong>(NDSS)</strong>, 2021.</em>
-      </div>
-    <div class="links">
-      <a href="https://github.com/cescalab/screen_gleaning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://www.youtube.com/watch?v=qEXwe58IVFc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
-    </div>
-  </div>
-</div>
-</li>
-  
-<li>
-<div class="pub-row" style="margin: 0px 0px -5px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/adired.PNG" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">ACM MM</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/1807.08624">From Volcano to Toyshop: Adaptive Discriminative Region Discovery for Scene Recognition</a></div>
-      <div class="author"><strong>Zhengyu Zhao</strong>, Martha Larson</div>
-      <div class="periodical"><em>ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2018.</em>
-      </div>
-    <div class="links">
-      <a href="https://github.com/ZhengyuZhao/Adi-Red-Scene" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://dl.acm.org/citation.cfm?id=3351169" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Reproducibility companion paper at <strong>ACM MM</strong> 2019</a>
-    </div>
-  </div>
-</div>
-</li>
-
 </ol>
 </div>
 
 
-<h2 id="publications" style="margin: 0px 0px -30px;">Detection of AI-generated Media</h2>
+<h2 id="publications" style="margin: 0px 0px -30px;">Machine Learning for Security </h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -487,7 +448,7 @@ permalink: /publications/
 
 
 <li>
-<div class="pub-row" style="margin: 0px 0px -5px;width:950px">
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://zhengyuzhao.github.io/assets/img/mf.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">arXiv</abbr> -->
@@ -499,6 +460,44 @@ permalink: /publications/
       </div>
     <div class="links">
       <a href="https://github.com/yyl-github-1896/QAA/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://zhengyuzhao.github.io/assets/img/screengleaning.PNG" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">NDSS</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2011.09877">Screen Gleaning: A Screen Reading TEMPEST Attack on Mobile Devices Exploiting an Electromagnetic Side Channel</a></div>
+      <div class="author">Zhuoran Liu, Niels Samwel, Léo Weissbart, <strong>Zhengyu Zhao</strong>, Dirk Lauret, Lejla Batina, Martha Larson</div>
+      <div class="periodical"><em>Network and Distributed System Security Symposium <strong>(NDSS)</strong>, 2021.</em>
+      </div>
+    <div class="links">
+      <a href="https://github.com/cescalab/screen_gleaning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://www.youtube.com/watch?v=qEXwe58IVFc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
+    </div>
+  </div>
+</div>
+</li>
+  
+<li>
+<div class="pub-row" style="margin: 0px 0px -5px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://zhengyuzhao.github.io/assets/img/adired.PNG" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">ACM MM</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/1807.08624">From Volcano to Toyshop: Adaptive Discriminative Region Discovery for Scene Recognition</a></div>
+      <div class="author"><strong>Zhengyu Zhao</strong>, Martha Larson</div>
+      <div class="periodical"><em>ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2018.</em>
+      </div>
+    <div class="links">
+      <a href="https://github.com/ZhengyuZhao/Adi-Red-Scene" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://dl.acm.org/citation.cfm?id=3351169" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Reproducibility companion paper at <strong>ACM MM</strong> 2019</a>
     </div>
   </div>
 </div>
