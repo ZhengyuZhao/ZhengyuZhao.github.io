@@ -16,9 +16,9 @@ I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherl
 
 ## Resources 
 <ul style="margin:-5px 0 25px;width:950px">
-  <li><a href="https://github.com/ThuCCSLab/lm-ssp">A curated list for large model safety, security, and privacy papers, leaderboards...</a> <img alt="Stars" src="https://img.shields.io/github/stars/ThuCCSLab/lm-ssp"</li>
-  <li><a href="https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events">A curated list for AI security & privacy workshops, tutorials, seminars...</a> <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/AI-Security-and-Privacy-Events"</li>
-  <li><a href="https://github.com/ZhengyuZhao/TransferAttackEval">A curated list for transferable adversarial example papers</a> <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/TransferAttackEval"</li>
+  <li><a href="https://github.com/ThuCCSLab/lm-ssp">A curated list for large model safety, security, and privacy papers, leaderboards...</a><img alt="Stars" src="https://img.shields.io/github/stars/ThuCCSLab/lm-ssp"></li>
+  <li><a href="https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events">A curated list for AI security & privacy workshops, tutorials, seminars...</a><img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/AI-Security-and-Privacy-Events"></li>
+  <li><a href="https://github.com/ZhengyuZhao/TransferAttackEval">A curated list for transferable adversarial example papers</a><img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/TransferAttackEval"></li>
 </ul>
 
 
