@@ -27,7 +27,7 @@ I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherl
 
 ## Services
 <ul style="margin:-5px 0 25px;width:950px">
-  <li><strong>Poster Session Co-Chair</strong> of ACM MM 2019</li>
+  <li><strong>Poster Session Co-Chair</strong> of MM 2019</li>
   <li><strong>Area Chair</strong> of NeurIPS, <strong>Senior Program Committee</strong> of AAAI</li>
   <li><strong>Program Committee</strong> of ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, ACL, AAAI, IJCAI, AISTATS, BMVC, FAccT</li>
   <li><strong>Journal Reviewer</strong> of TPAMI, TIFS, TKDE, TDSC, TCSS, IJCV, PR</li>
@@ -41,7 +41,7 @@ I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherl
 <li>2nd place in <a href="https://icml-tifa.github.io/challenges/track1/">ICML 2024 Competition on Black-box Adversarial Attacks against Multimodal Large Language Models</a></li>
 <li>3rd place in <a href="https://cvpr24-advml.github.io/">CVPR 2024 Competition on Black-box Adversarial Attacks against Vision-Language Models</a></li>
 <li>Top 1% in <a href="https://aisecure-workshop.github.io/amlcvpr2021/">CVPR 2021 Competition on Black-box Adversarial Attacks against ImageNet Classifiers</a></li>
-<li>Student Travel Grant, ACM MM 2018 & 2019</li>  
+<li>Student Travel Grant, MM 2018 & 2019</li>  
 </ul>  
 
 ## Invited Talks 
