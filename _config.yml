@@ -2,7 +2,7 @@ title: Zhengyu Zhao<br><font style="font-family:隶书" size="5">(赵正宇)</fo
 position: Associate Professor
 affiliation: Xi'an Jiaotong University
 affiliation_link: http://en.xjtu.edu.cn/about.html
-affiliation_logo: ./assets/img/xjtu.png
+affiliation_logo: https://ZhengyuZhao.github.io/assets/img/xjtu.png
 email: zhengyu.zhao (at) xjtu.edu.cn
 keywords: zhengyu zhao, zhao zhengyu, zhengyuzhao, zhaozhengyu
 google_scholar: https://scholar.google.com/citations?user=pC8KpPMAAAAJ&hl=en
@@ -11,12 +11,6 @@ linkedin: https://www.linkedin.com/in/zhengyu-zhao-61361a8a/
 twitter: https://twitter.com/JeremyZhaozy
 avatar: https://ZhengyuZhao.github.io/assets/img/ZhengyuZhao_03.jpg
 google_analytics: UA-111540567-4
-# favicon: ./assets/img/favicon.png
-# favicon_dark: ./assets/img/favicon-dark.png
-# description: Zhengyu Zhao is a Postdoctoral researcher at CISPA Helmholtz Center for Information Security. His research lies in AI Security and Privacy, Adversarial Machine Learning, Adversarial Examples, and Computer Vision.
-# canonical: ZhengyuZhao.github.io
-# imprint: https://imprint.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/yaliu
-# data_protection: https://data-protection.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/yaliu?lang=en
 
 exclude:
   - Gemfile
