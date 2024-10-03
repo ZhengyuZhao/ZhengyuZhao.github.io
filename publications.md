@@ -6,7 +6,6 @@ permalink: /publications/
 
 <h1 id="publications"></h1>
 
-
 <h2 id="publications" style="margin: 0px 0px -30px;">Foundations of Adversarial Machine Learning</h2>
 
 <div class="publications">
@@ -15,7 +14,7 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/transfer_pipeline.png" class="teaser img-fluid z-depth-1">
+    <img src="https://zhengyuzhao.github.io/assets/img/transfer_pipeline.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">arXiv</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
@@ -33,7 +32,7 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/soup.png" class="teaser img-fluid z-depth-1">
+    <img src="https://zhengyuzhao.github.io/assets/img/soup.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">arXiv</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
@@ -50,7 +49,7 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/tride.png" class="teaser img-fluid z-depth-1">
+    <img src="https://zhengyuzhao.github.io/assets/img/tride.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">ICML</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
@@ -68,7 +67,7 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/QAA.png" class="teaser img-fluid z-depth-1">
+    <img src="https://zhengyuzhao.github.io/assets/img/QAA.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">arXiv</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
@@ -86,7 +85,7 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/ISS.png" class="teaser img-fluid z-depth-1">
+    <img src="https://zhengyuzhao.github.io/assets/img/ISS.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">ICML</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
@@ -104,7 +103,7 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/ICLR2023.PNG" class="teaser img-fluid z-depth-1">
+    <img src="https://zhengyuzhao.github.io/assets/img/ICLR2023.PNG" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">ICLR</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
@@ -122,7 +121,7 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/illustration.PNG" class="teaser img-fluid z-depth-1">
+    <img src="https://zhengyuzhao.github.io/assets/img/illustration.PNG" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">TIFS</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
@@ -143,7 +142,7 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/loss_t.PNG" class="teaser img-fluid z-depth-1">
+    <img src="https://zhengyuzhao.github.io/assets/img/loss_t.PNG" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">CCS</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
@@ -162,7 +161,7 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/google.PNG" class="teaser img-fluid z-depth-1">
+    <img src="https://zhengyuzhao.github.io/assets/img/google.PNG" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">NeurIPS</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
@@ -184,7 +183,7 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/perc.PNG" class="teaser img-fluid z-depth-1">
+    <img src="https://zhengyuzhao.github.io/assets/img/perc.PNG" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">CVPR</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
@@ -203,7 +202,7 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -5px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/PIRE_2.PNG" class="teaser img-fluid z-depth-1">
+    <img src="https://zhengyuzhao.github.io/assets/img/PIRE_2.PNG" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">ICMR</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
@@ -230,7 +229,7 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/matrix.png" class="teaser img-fluid z-depth-1">
+    <img src="https://zhengyuzhao.github.io/assets/img/matrix.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">arXiv</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
@@ -245,7 +244,7 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/jailbreak.png" class="teaser img-fluid z-depth-1">
+    <img src="https://zhengyuzhao.github.io/assets/img/jailbreak.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">arXiv</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
@@ -260,7 +259,7 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/ControlLoc.png" class="teaser img-fluid z-depth-1">
+    <img src="https://zhengyuzhao.github.io/assets/img/ControlLoc.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">arXiv</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
@@ -275,7 +274,7 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/LLM.png" class="teaser img-fluid z-depth-1">
+    <img src="https://zhengyuzhao.github.io/assets/img/LLM.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">arXiv</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
@@ -290,7 +289,7 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/GenWatermark.png" class="teaser img-fluid z-depth-1">
+    <img src="https://zhengyuzhao.github.io/assets/img/GenWatermark.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">arXiv</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
@@ -308,7 +307,7 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/bvp.png" class="teaser img-fluid z-depth-1">
+    <img src="https://zhengyuzhao.github.io/assets/img/bvp.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">arXiv</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
@@ -324,7 +323,7 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/3d.png" class="teaser img-fluid z-depth-1">
+    <img src="https://zhengyuzhao.github.io/assets/img/3d.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">CVPR</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
@@ -342,7 +341,7 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/code.png" class="teaser img-fluid z-depth-1">
+    <img src="https://zhengyuzhao.github.io/assets/img/code.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">arXiv</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
@@ -360,7 +359,7 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/transteal.png" class="teaser img-fluid z-depth-1">
+    <img src="https://zhengyuzhao.github.io/assets/img/transteal.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">arXiv</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
@@ -378,7 +377,7 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/cba.png" class="teaser img-fluid z-depth-1">
+    <img src="https://zhengyuzhao.github.io/assets/img/cba.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">NAACL</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
@@ -397,7 +396,7 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/screengleaning.PNG" class="teaser img-fluid z-depth-1">
+    <img src="https://zhengyuzhao.github.io/assets/img/screengleaning.PNG" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">NDSS</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
@@ -416,7 +415,7 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -5px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/adired.PNG" class="teaser img-fluid z-depth-1">
+    <img src="https://zhengyuzhao.github.io/assets/img/adired.PNG" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">ACM MM</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
@@ -444,7 +443,7 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/AdvHeat.png" class="teaser img-fluid z-depth-1">
+    <img src="https://zhengyuzhao.github.io/assets/img/AdvHeat.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">arXiv</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left:0px;">
@@ -459,7 +458,7 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/def.png" class="teaser img-fluid z-depth-1">
+    <img src="https://zhengyuzhao.github.io/assets/img/def.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">arXiv</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left:0px;">
@@ -474,7 +473,7 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/patch.png" class="teaser img-fluid z-depth-1">
+    <img src="https://zhengyuzhao.github.io/assets/img/patch.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">NeurIPS</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
@@ -490,7 +489,7 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -5px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/mf.png" class="teaser img-fluid z-depth-1">
+    <img src="https://zhengyuzhao.github.io/assets/img/mf.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">arXiv</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
