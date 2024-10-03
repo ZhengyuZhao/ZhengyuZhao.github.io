@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: Homepage
 title: Publications
 permalink: /publications/
 ---
