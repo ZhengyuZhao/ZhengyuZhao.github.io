@@ -7,14 +7,18 @@ layout: homepage
 <h2 style="margin: 80px 0px 10px;"></h2>
 
 I am an Associate Professor at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/XJTU_Introduction/Introduction.htm) (XJTU), China. I was a postdoc at [CISPA Helmholtz Center for Information Security](https://cispa.de/en/about), Germany, hosted by [Prof. Michael Backes](https://michaelbackes.eu/aboutme.html).
-I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherlands, supervised by [Prof. Martha Larson](https://www.ru.nl/english/people/larson-m/). My general research interest is <strong>Adversarial Machine Learning</strong>; Most of my work has concentrated on analyzing the vulnerability of deep neural networks (e.g., computer vision and large vision-language models) to various attacks (e.g., adversarial examples and data poisons). I sometimes contribute to projects on media forensics, including AI-generated media detection.
+I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherlands, supervised by [Prof. Martha Larson](https://www.ru.nl/english/people/larson-m/), with my PhD thesis entitled "<a href="https://repository.ubn.ru.nl/handle/2066/245409">Rethinking Realism: Towards More Transferable and Less Suspicious Adversarial Images</a>".
 
-## Research Directions
+## Research Interests
 <ul style="margin:-5px 0 25px;width:950px">
-  <li>Security of Machine Learning: Foundations (<a href="https://arxiv.org/abs/2312.07364">ICML'24</a>&<a href="https://arxiv.org/abs/2301.13838">23</a>, <a href="https://arxiv.org/abs/2305.05875">TIFS'24</a>&<a href="https://arxiv.org/abs/2011.06690">23</a>, <a href="https://openreview.net/forum?id=zKvm1ETDOq">ICLR'23</a>, <a href="https://arxiv.org/abs/2208.14933">CCS'22</a>, <a href="https://arxiv.org/abs/2012.11207">NeurIPS'21</a>, <a href="https://arxiv.org/abs/1911.02466">CVPR'20</a>, <a href="https://arxiv.org/abs/1901.10332">ICMR'19</a>)</li>
-  <li>Security of Machine Learning: Applications (<a href="https://arxiv.org/abs/2312.07364">CVPR'24</a>, <a href="https://arxiv.org/abs/2305.05875">TIFS'24</a>, <a href="https://arxiv.org/abs/2301.13838">NAACL Findings'24</a>, <a href="https://zhengyuzhao.github.io/publications/">CRaD'24</a>)</li>
-  <li>Machine Learning for Security (<a href="https://zhengyuzhao.github.io/publications/">NeurIPS'24</a>, <a href="https://ieeexplore.ieee.org/document/10689267">TIFS'24</a>, <a href="https://arxiv.org/abs/2408.16025">SECAI'24</a>, <a href="https://arxiv.org/abs/2011.09877">NDSS'21</a>, <a href="https://arxiv.org/abs/1807.08624">MM'18</a>)</li>
+  <li>Security of Machine Learning: Foundations of attacks/defenses in basic settings.<br>
+    (<a href="https://arxiv.org/abs/2312.07364">ICML'24</a>, <a href="https://arxiv.org/abs/2305.05875">TIFS'24</a>, <a href="https://arxiv.org/abs/2301.13838">ICML'23</a>, <a href="https://openreview.net/forum?id=zKvm1ETDOq">ICLR'23</a>, <a href="https://arxiv.org/abs/2011.06690">TIFS'23</a>, <a href="https://arxiv.org/abs/2208.14933">CCS'22</a>, <a href="https://arxiv.org/abs/2012.11207">NeurIPS'21</a>, <a href="https://arxiv.org/abs/1911.02466">CVPR'20</a>, <a href="https://arxiv.org/abs/1901.10332">ICMR'19</a>)</li>
+  <li>Security of Machine Learning: Applications of attacks/defenses in large (multimodal) generative models, autonomous driving...<br>
+    (<a href="https://arxiv.org/abs/2312.07364">CVPR'24</a>, <a href="https://arxiv.org/abs/2305.05875">TIFS'24</a>, <a href="https://arxiv.org/abs/2301.13838">NAACL Findings'24</a>, <a href="https://zhengyuzhao.github.io/publications/">CRaD'24</a>)</li>
+  <li>Machine Learning for Security: Detection of AI-generated media detection, inference of sensitive information...<br>
+    (<a href="https://zhengyuzhao.github.io/publications/">NeurIPS'24</a>, <a href="https://ieeexplore.ieee.org/document/10689267">TIFS'24</a>, <a href="https://arxiv.org/abs/2408.16025">SECAI'24</a>, <a href="https://arxiv.org/abs/2011.09877">NDSS'21</a>, <a href="https://arxiv.org/abs/1807.08624">MM'18</a>)</li>
 </ul>
+
 
 
 ## Resources 
