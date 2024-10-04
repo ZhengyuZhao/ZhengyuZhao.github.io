@@ -12,11 +12,11 @@ I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherl
 ## Research Interests
 <ul style="margin:-5px 0 25px;width:950px">
   <li>Security of Machine Learning: Foundations of attacks/defenses in basic settings.<br>
-    (<a href="https://arxiv.org/abs/2312.07364">ICML'24</a>, <a href="https://arxiv.org/abs/2305.05875">TIFS'24</a>, <a href="https://arxiv.org/abs/2301.13838">ICML'23</a>, <a href="https://openreview.net/forum?id=zKvm1ETDOq">ICLR'23</a>, <a href="https://arxiv.org/abs/2011.06690">TIFS'23</a>, <a href="https://arxiv.org/abs/2208.14933">CCS'22</a>, <a href="https://arxiv.org/abs/2012.11207">NeurIPS'21</a>, <a href="https://arxiv.org/abs/1911.02466">CVPR'20</a>, <a href="https://arxiv.org/abs/1901.10332">ICMR'19</a>)</li>
+    (<a href="https://arxiv.org/abs/2312.07364">ICML'24</a>, <a href="https://arxiv.org/abs/2305.05875">TIFS'24</a>, <a href="https://arxiv.org/abs/2301.13838">ICML'23</a>, <a href="https://openreview.net/forum?id=zKvm1ETDOq">ICLR'23</a>, <a href="https://arxiv.org/abs/2011.06690">TIFS'23</a>, <a href="https://arxiv.org/abs/2208.14933">CCS'22</a>, <a href="https://arxiv.org/abs/2012.11207">NeurIPS'21</a>, <a href="https://arxiv.org/abs/1911.02466">CVPR'20</a>, <a href="https://arxiv.org/abs/2002.01008">BMVC'20</a>, <a href="https://arxiv.org/abs/1901.10332">ICMR'19</a>)</li>
   <li>Security of Machine Learning: Applications of attacks/defenses in large (multimodal) generative models, autonomous driving...<br>
-    (<a href="https://arxiv.org/abs/2312.07364">CVPR'24</a>, <a href="https://arxiv.org/abs/2305.05875">TIFS'24</a>, <a href="https://arxiv.org/abs/2301.13838">NAACL Findings'24</a>, <a href="https://zhengyuzhao.github.io/publications/">CRaD'24</a>)</li>
+    (<a href="https://arxiv.org/abs/2312.07364">CVPR'24</a>, <a href="https://arxiv.org/abs/2305.05875">TIFS'24</a>, <a href="https://arxiv.org/abs/2301.13838">NAACL Findings'24</a>, <a href="https://zhengyuzhao.github.io/publications/">CRaD'24</a>, <a href="https://arxiv.org/abs/2206.01467">MMM'23</a>, <a href="https://arxiv.org/abs/2211.01086">ECCV-RCV'22</a>, <a href="https://dl.acm.org/doi/abs/10.1145/3450613.3456832">UMAP'21</a>)</li>
   <li>Machine Learning for Security: Detection of AI-generated media detection, inference of sensitive information...<br>
-    (<a href="https://zhengyuzhao.github.io/publications/">NeurIPS'24</a>, <a href="https://ieeexplore.ieee.org/document/10689267">TIFS'24</a>, <a href="https://arxiv.org/abs/2408.16025">SECAI'24</a>, <a href="https://arxiv.org/abs/2011.09877">NDSS'21</a>, <a href="https://arxiv.org/abs/1807.08624">MM'18</a>)</li>
+    (<a href="https://zhengyuzhao.github.io/publications/">NeurIPS'24</a>, <a href="https://ieeexplore.ieee.org/document/10689267">TIFS'24</a>, <a href="https://arxiv.org/abs/2408.16025">ESORICS-SECAI'24</a>, <a href="https://arxiv.org/abs/2011.09877">NDSS'21</a>, <a href="https://arxiv.org/abs/1807.08624">MM'18</a>)</li>
 </ul>
 
 
