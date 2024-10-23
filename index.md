@@ -40,8 +40,9 @@ I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherl
 
 ## Honors & Awards 
 <ul style="margin:-5px 0 25px;width:950px">
-<li>Doctoral Consortium Award, CVPR 2021</li>
-<li>Outstanding Reviewer of NeurIPS 2023 (~10%), AISTATS 2023 (~11%), BMVC 2022 (~8%), BMVC 2020 (~6%)</li>
+<li>Doctoral Consortium Award of CVPR 2021</li>
+<li>Notable Area Chair Award of NeurIPS 2024</li>
+<li>Outstanding Reviewer Award of NeurIPS 2023, AISTATS 2023, BMVC 2022, BMVC 2020</li>
 <li>2nd place in <a href="https://icml-tifa.github.io/challenges/track1/">ICML 2024 Competition on Black-box Adversarial Attacks against Multimodal Large Language Models</a></li>
 <li>3rd place in <a href="https://cvpr24-advml.github.io/">CVPR 2024 Competition on Black-box Adversarial Attacks against Vision-Language Models</a></li>
 <li>Top 1% in <a href="https://aisecure-workshop.github.io/amlcvpr2021/">CVPR 2021 Competition on Black-box Adversarial Attacks against ImageNet Classifiers</a></li>
