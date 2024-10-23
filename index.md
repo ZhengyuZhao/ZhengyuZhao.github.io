@@ -59,10 +59,12 @@ I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherl
 <li>Transferability of Targeted Attacks, AI TIME, 2022-02-17. <a href="https://www.bilibili.com/video/BV1X44y1H7S4?spm_id_from=333.999.0.0">[Video (in Chinese)]</a> <a href="./assets/img/AITIME_ZhengyuZhao.pdf">[Slides]</a> </li>
 </ul>
 
+<!--
 ## Teaching
 <ul style="margin:-5px 0 25px;width:950px">
 <li>Teaching Assistant, <a href="https://cms.cispa.saarland/amlm2023/">Advanced Lecture: Attacks Against Machine Learning Models</a> (2023 Summer), Saarland University</li>
 </ul>  
+-->
 
 ## Miscellaneous
 <ul style="margin:-5px 0 25px;width:950px">
