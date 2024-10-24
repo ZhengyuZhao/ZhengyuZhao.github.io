@@ -383,7 +383,7 @@ permalink: /publications/
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
       <div class="title"><a href="https://arxiv.org/abs/2205.15128">Level Up with ML Vulnerability Identification: Leveraging Domain Constraints in Feature Space for Robust Android Malware Detection</a></div>
       <div class="author">Hamid Bostani, <strong>Zhengyu Zhao</strong>, Zhuoran Liu, Veelasha Moonsamy</div>
-      <div class="periodical"><em>ACM Transactions on Privacy and Security (TOPS)</strong>, 2024.</em>
+      <div class="periodical"><em>ACM Transactions on Privacy and Security <strong>(TOPS)</strong>, 2024.</em>
       </div>
         <div class="links">
        <a href="https://anonymous.4open.science/r/robust-Android-malware-detector-C5D8/README.md" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
