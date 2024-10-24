@@ -375,6 +375,24 @@ permalink: /publications/
 </li> 
 
 <li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://zhengyuzhao.github.io/assets/img/mal.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">TOPS</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2205.15128">Level Up with ML Vulnerability Identification: Leveraging Domain Constraints in Feature Space for Robust Android Malware Detection</a></div>
+      <div class="author">Hamid Bostani, <strong>Zhengyu Zhao</strong>, Zhuoran Liu, Veelasha Moonsamy</div>
+      <div class="periodical"><em>ACM Transactions on Privacy and Security (TOPS)</strong>, 2024.</em>
+      </div>
+        <div class="links">
+       <a href="https://anonymous.4open.science/r/robust-Android-malware-detector-C5D8/README.md" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li> 
+
+<li>
 <div class="pub-row" style="margin: 0px 0px -5px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://zhengyuzhao.github.io/assets/img/transteal.png" class="teaser img-fluid z-depth-1">
