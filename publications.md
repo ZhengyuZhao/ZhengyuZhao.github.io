@@ -432,7 +432,7 @@ permalink: /publications/
 </div>
 
 
-<h2 id="publications" style="margin: 0px 0px -30px;">Machine Learning for Security </h2>
+<h2 id="publications" style="margin: 0px 0px -30px;">Misuse of Machine Learning</h2>
 
 <div class="publications">
 <ol class="bibliography">
