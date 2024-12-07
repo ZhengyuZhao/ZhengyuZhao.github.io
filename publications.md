@@ -32,12 +32,30 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://zhengyuzhao.github.io/assets/img/poigen.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">arXiv</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2412.03908">Can Targeted Clean-Label Poisoning Attacks Generalize?</a></div>
+      <div class="author">Zhizhen Chen, Subrat Kishore Dutta, <strong>Zhengyu Zhao</strong>, Chenhao Lin, Chao Shen, Xiao Zhang</div>
+<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
+      </div> -->
+        <div class="links">
+       <a href="https://github.com/jiaangk/generalizable_tcpa" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li> 
+
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://zhengyuzhao.github.io/assets/img/soup.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">arXiv</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2402.18370">Adversarial Example Soups: Improving Transferability and Stealthiness for Free
-</a></div>
+      <div class="title"><a href="https://arxiv.org/abs/2402.18370">Adversarial Example Soups: Improving Transferability and Stealthiness for Free</a></div>
       <div class="author">Bo Yang, Hengwei Zhang, Jindong Wang, Yulong Yang, Chenhao Lin, Chao Shen, <strong>Zhengyu Zhao</strong></div>
 <!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
       </div> -->
