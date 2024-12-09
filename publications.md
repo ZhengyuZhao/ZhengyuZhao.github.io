@@ -497,6 +497,9 @@ permalink: /publications/
       <div class="author">Chende Zheng, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Hang Wang, Xu Guo, Shuai Liu, Chao Shen</div>
       <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.</em>
       </div>
+        <div class="links">
+      <a href="https://github.com/Zig-HS/FakeImageDetection" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
   </div>
 </div>
 </li>
