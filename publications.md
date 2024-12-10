@@ -75,7 +75,7 @@ permalink: /publications/
       <div class="periodical"><em>Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2025.</em>
       </div>
     <div class="links">
-       <a href="https://zhengyuzhao.github.io/assets/img/mumoig.png" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+       <a href="https://zhengyuzhao.github.io/publications/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
