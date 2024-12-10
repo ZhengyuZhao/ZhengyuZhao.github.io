@@ -63,6 +63,23 @@ permalink: /publications/
 </div>
 </li> 
 
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://zhengyuzhao.github.io/assets/img/mumoig.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">AAAI</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://zhengyuzhao.github.io/publications/">Improving Integrated Gradient-based Transferable Adversarial Examples by Refining the Integration Path</a></div>
+      <div class="author">Yuchen Ren, <strong>Zhengyu Zhao</strong>, Chenhao Lin, Bo Yang, Lu Zhou, Zhe Liu, Chao Shen</div>
+      <div class="periodical"><em>Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2025.</em>
+      </div>
+    <div class="links">
+       <a href="https://zhengyuzhao.github.io/assets/img/mumoig.png" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
