@@ -124,7 +124,7 @@ permalink: /publications/
 <!--             <abbr class="badge">arXiv</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2308.01823">Hard Adversarial Example Mining for Improving Robust Fairness</a></div>
+      <div class="title"><a href="https://ieeexplore.ieee.org/document/10795188">Hard Adversarial Example Mining for Improving Robust Fairness</a></div>
       <div class="author">Chenhao Lin, Xiang Ji, Yulong Yang, Qian Li, <strong>Zhengyu Zhao</strong>, Zhe Peng, Run Wang, Liming Fang, Chao Shen</div>
       <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2024.</em>
       </div>
