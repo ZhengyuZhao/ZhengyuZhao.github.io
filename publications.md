@@ -70,12 +70,12 @@ permalink: /publications/
 <!--             <abbr class="badge">AAAI</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://zhengyuzhao.github.io/publications/">Improving Integrated Gradient-based Transferable Adversarial Examples by Refining the Integration Path</a></div>
+      <div class="title"><a href="https://arxiv.org/abs/2412.18844">Improving Integrated Gradient-based Transferable Adversarial Examples by Refining the Integration Path</a></div>
       <div class="author">Yuchen Ren, <strong>Zhengyu Zhao</strong>, Chenhao Lin, Bo Yang, Lu Zhou, Zhe Liu, Chao Shen</div>
       <div class="periodical"><em>Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2025.</em>
       </div>
     <div class="links">
-       <a href="https://zhengyuzhao.github.io/publications/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+       <a href="https://github.com/RYC-98/MuMoDIG" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
