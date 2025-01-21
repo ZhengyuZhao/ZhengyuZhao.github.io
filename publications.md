@@ -57,7 +57,7 @@ permalink: /publications/
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
       <div class="title"><a href="https://arxiv.org/abs/2402.18370">Adversarial Example Soups: Improving Transferability and Stealthiness for Free</a></div>
       <div class="author">Bo Yang, Hengwei Zhang, Jindong Wang, Yulong Yang, Chenhao Lin, Chao Shen, <strong>Zhengyu Zhao</strong></div>
-<!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
+      <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2025.</em>
       </div> -->
   </div>
 </div>
