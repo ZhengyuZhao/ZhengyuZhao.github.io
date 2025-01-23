@@ -50,6 +50,24 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://zhengyuzhao.github.io/assets/img/mismatch.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">AAAI</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://zhengyuzhao.github.io/publications/">Revisiting Training-Inference Trigger Intensity in Backdoor Attacks</a></div>
+      <div class="author">Chenhao Lin, Chenyang Zhao, Shiwei Wang, Longtian Wang, Chao Shen, <strong>Zhengyu Zhao</strong></div>
+      <div class="periodical"><em>USENIX Security Symposium <strong>(USENIX Security)</strong>, 2025.</em>
+      </div>
+<!--     <div class="links">
+       <a href="https://github.com/RYC-98/MuMoDIG" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div> -->
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://zhengyuzhao.github.io/assets/img/mumoig.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">AAAI</abbr> -->
   </div>
@@ -358,6 +376,20 @@ permalink: /publications/
 </div>
 </li>  
 
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://zhengyuzhao.github.io/assets/img/typo.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">arXiv</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://zhengyuzhao.github.io/publications/">Typographic Attacks in a Multi-Image Setting</a></div>
+      <div class="author">Xiaomeng Wang, <strong>Zhengyu Zhao</strong>, Martha Larson</div>
+      <div class="periodical"><em>North American Chapter of the Association for Computational Linguistics <strong>(NAACL)</strong>, 2025.</em>
+      </div>
+  </div>
+</div>
+</li> 
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
