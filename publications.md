@@ -19,7 +19,7 @@ permalink: /publications/
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
       <div class="title"><a href="https://arxiv.org/abs/2310.11850">Revisiting Transferable Adversarial Image Examples: Attack Categorization, Evaluation Guidelines, and New Insights</a></div>
-      <div class="author"><strong>Zhengyu Zhao*</strong>, Hanwei Zhang*, Renjue Li*, Ronan Sicre, Laurent Amsaleg, Michael Backes, Qi Li, Chao Shen</div>
+      <div class="author"><strong>Zhengyu Zhao</strong>, Hanwei Zhang, Renjue Li, Ronan Sicre, Laurent Amsaleg, Michael Backes, Qi Li, Chao Shen</div>
 <!--       <div class="periodical"><em><strong>arXiv</strong>.</em>
       </div> -->
     <div class="links">
