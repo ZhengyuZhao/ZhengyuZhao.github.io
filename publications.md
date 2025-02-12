@@ -254,7 +254,7 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/ACE.png" class="teaser img-fluid z-depth-1">
+    <img src="https://zhengyuzhao.github.io/assets/img/ACE_2.PNG" class="teaser img-fluid z-depth-1">
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
       <div class="title"><a href="https://www.bmvc2020-conference.com/assets/papers/0099.pdf">Adversarial Color Enhancement: Generating Unrestricted Adversarial Images by Optimizing a Color Filter</a></div>
