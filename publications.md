@@ -162,7 +162,7 @@ permalink: /publications/
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
       <div class="title"><a href="https://openreview.net/forum?id=zKvm1ETDOq">Is Adversarial Training Really a Silver Bullet for Mitigating Data Poisoning?</a></div>
       <div class="author">Rui Wen, <strong>Zhengyu Zhao</strong>, Zhuoran Liu, Michael Backes, Tianhao Wang, Yang Zhang</div>
-      <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2023. <strong>(<span style="color:#ff0000;">Spotlight</span>)</strong></em>
+      <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2023.</em> <strong><span style="color:#ff0000;">Spotlight</span></strong>
       </div>
     <div class="links">
       <a href="https://github.com/WenRuiUSTC/EntF" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
