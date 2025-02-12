@@ -183,9 +183,7 @@ permalink: /publications/
       <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2023.</em>
       </div>
     <div class="links">
-      <a href="https://github.com/ZhengyuZhao/ACE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://www.bmvc2020-conference.com/conference/papers/paper_0099.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
-      <a href="https://www.bmvc2020-conference.com/assets/papers/0099.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BMVC 2020 version</a>
+      <a href="https://github.com/ZhengyuZhao/AdvColorFilter/tree/master/Journal_version" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
@@ -251,6 +249,25 @@ permalink: /publications/
   </div>
 </div>
 </li>
+
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://zhengyuzhao.github.io/assets/img/ACE.png" class="teaser img-fluid z-depth-1">
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://www.bmvc2020-conference.com/assets/papers/0099.pdf">Adversarial Color Enhancement: Generating Unrestricted Adversarial Images by Optimizing a Color Filter</a></div>
+      <div class="author"><strong>Zhengyu Zhao</strong>, Zhuoran Liu, Martha Larson</div>
+      <div class="periodical"><em>British Machine Vision Conference <strong>(BMVC)</strong>, 2023.</em>
+      </div>
+    <div class="links">
+      <a href="https://github.com/ZhengyuZhao/AdvColorFilter/tree/master/BMVC_version" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://www.bmvc2020-conference.com/conference/papers/paper_0099.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
+    </div>
+  </div>
+</div>
+</li> 
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -5px;width:950px">
@@ -402,7 +419,7 @@ permalink: /publications/
 </div>
 
 
-<h2 id="publications" style="margin: 0px 0px -30px;">Misuse of Machine Learning</h2>
+<h2 id="publications" style="margin: 0px 0px -30px;">Machine Learning for Security</h2>
 
 <div class="publications">
 <ol class="bibliography">
