@@ -259,7 +259,7 @@ permalink: /publications/
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
       <div class="title"><a href="https://www.bmvc2020-conference.com/assets/papers/0099.pdf">Adversarial Color Enhancement: Generating Unrestricted Adversarial Images by Optimizing a Color Filter</a></div>
       <div class="author"><strong>Zhengyu Zhao</strong>, Zhuoran Liu, Martha Larson</div>
-      <div class="periodical"><em>British Machine Vision Conference <strong>(BMVC)</strong>, 2023.</em>
+      <div class="periodical"><em>British Machine Vision Conference <strong>(BMVC)</strong>, 2020.</em>
       </div>
     <div class="links">
       <a href="https://github.com/ZhengyuZhao/AdvColorFilter/tree/master/BMVC_version" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
