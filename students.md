@@ -18,11 +18,11 @@ permalink: /students/
 
 <h4 style="margin:0 10px 0;">Visiting PhD Students</h4>
 <ul style="margin:0 0 5px;">
-  <li><a href="https://github.com/yangbo93">Bo Yang</a>, 2024.03-,  Information Engineering University, China<br>
+  <li><a href="https://github.com/yangbo93">Bo Yang</a>, 2024.03-, Information Engineering University, China<br>
   (First-author publications: <a href="https://ieeexplore.ieee.org/document/10858076">TIFS 2025</a>)</li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Intern Students</h4>
+<h4 style="margin:0 10px 0;">Undergraduate Interns</h4>
 <ul style="margin:0 0 5px;">
   <li><a href="https://zhizhen-chen.top/">Zhizhen Chen</a>, 2023.11-, Xi'an Jiaotong University, China<br>
   (First-author publications: <a href="https://arxiv.org/abs/2412.03908">arXiv 2024</a>)</li>
