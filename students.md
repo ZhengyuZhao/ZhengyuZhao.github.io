@@ -19,7 +19,7 @@ permalink: /students/
   <li><a href="https://github.com/yangbo93">Bo Yang</a>, 2024.03-,  Information Engineering University, China</li>
 </ul>
 
-<h4 style="margin:60px 10px 0;">Intern Students/h4>
+<h4 style="margin:60px 10px 0;">Intern Students</h4>
 <ul style="margin:0 0 5px;">
   <li><a href="https://zhizhen-chen.top/">Zhizhen Chen</a>, 2023.11-2024.11, Xi'an Jiaotong University, China</li>
 </ul>
