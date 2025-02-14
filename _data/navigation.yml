@@ -1,18 +1,25 @@
 main:
 
+
+
+
+
+  - title: "Teaching"
+   url: ./teaching.html
+   right: true 
+   
+  - title: "Talks"
+    url: /talks/
+    
+  - title: "Students"
+    url: /publications/
+    
   - title: "Services"
     url: /services/
-    right: true 
-
-  # - title: "Talks"
-  #   url: /talks/
-
-  #- title: "Teaching"
-  #  url: ./teaching.html
-
+    
   - title: "Publications"
     url: /publications/
-    right: true
+    # right: true
   
   - title: "Home"
     url: /
