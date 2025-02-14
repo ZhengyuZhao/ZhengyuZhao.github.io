@@ -39,6 +39,6 @@ permalink: /services/
 
 
 <h4 style="margin:0 10px 0;">Journal Reviewer</h4>
-<ul style="margin:-5px 0 25px;width:950px">
+<ul style="margin:0 0 5px;">
   <li>TPAMI, TIFS, TKDE, TDSC, TCSS, IJCV, PR</li>
 </ul>
