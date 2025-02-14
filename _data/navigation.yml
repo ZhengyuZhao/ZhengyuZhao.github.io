@@ -1,8 +1,8 @@
 main:
 
-  # - title: "Services"
-  #   url: /services/
-  #   right: true 
+  - title: "Services"
+    url: /services/
+    right: true 
 
   # - title: "Talks"
   #   url: /talks/
