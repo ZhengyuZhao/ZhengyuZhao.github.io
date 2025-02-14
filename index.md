@@ -27,16 +27,6 @@ I received my PhD from [Radboud University](https://www.ru.nl/english/), Netherl
   <li><a href="https://github.com/ZhengyuZhao/TransferAttackEval">A curated list for transferable adversarial example papers</a>  <img alt="Stars" src="https://img.shields.io/github/stars/ZhengyuZhao/TransferAttackEval"></li>
 </ul>
 
-
-## Services
-<ul style="margin:-5px 0 25px;width:950px">
-  <li><strong>Poster Session Co-Chair</strong> of MM 2019</li>
-  <li><strong>Area Chair/Senior Program Committee</strong> of NeurIPS, ICML, AAAI</li>
-  <li><strong>Program Committee</strong> of ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, ACL, AAAI, IJCAI, AISTATS, BMVC, FAccT</li>
-  <li><strong>Journal Reviewer</strong> of TPAMI, TIFS, TKDE, TDSC, TCSS, IJCV, PR</li>
-  <li><strong>Task Co-Organizer</strong> of <a href="https://multimediaeval.github.io/editions/2020/tasks/pixelprivacy/">Pixel Privacy</a> and <a href="http://www.multimediaeval.org/mediaeval2019/multimediasatellite/">Multimedia Satellite</a> at MediaEval Workshop 2018-2020</li>
-</ul>
-
 ## Honors & Awards 
 <ul style="margin:-5px 0 25px;width:950px">
 <li>Doctoral Consortium Award of CVPR 2021</li>
