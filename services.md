@@ -8,7 +8,7 @@ permalink: /services/
 
 <!--   <h2 style="margin: 60px 0px 10px;">Services</h2> -->
 
-<h4 style="margin:60 10px 0;">Organization Committee</h4>
+<h4 style="margin:60px 10px 0;">Organization Committee</h4>
 <ul style="margin:0 0 5px;">
   <li><strong>Poster Session Co-Chair</strong> of MM 2019</li>
   <li><strong>Task Co-Organizer</strong> of <a href="https://multimediaeval.github.io/editions/2020/tasks/pixelprivacy/">Pixel Privacy</a> and <a href="http://www.multimediaeval.org/mediaeval2019/multimediasatellite/">Multimedia Satellite</a> at MediaEval Workshop 2018-2020</li>
