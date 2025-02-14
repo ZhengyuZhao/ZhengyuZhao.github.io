@@ -29,7 +29,10 @@ permalink: /services/
   <li>2024: NeurIPS (🏆Outstanding), AAAI</li>
   <li>2023: AAAI</li>
 <!--   <li>ICLR, ICML, NeurIPS, CVPR, ICCV, ECCV, ACL, AAAI, IJCAI, AISTATS, BMVC, FAccT</li> -->
+</ul>
+
 
 <h4 style="margin:0 10px 0;">Journal Reviewer</h4>
 <ul style="margin:-5px 0 25px;width:950px">
   <li>TPAMI, TIFS, TKDE, TDSC, TCSS, IJCV, PR</li>
+</ul>
