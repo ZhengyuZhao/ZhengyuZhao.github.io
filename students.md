@@ -6,9 +6,9 @@ permalink: /students/
 
 <h1 id="services"></h1>
 
-<!--   <h2 style="margin: 60px 0px 10px;">Services</h2> -->
+<h2 style="margin: 60px 0px 10px;">Services</h2>
 
-<h4 style="margin:60px 10px 0;">PhD Students</h4>
+<h4 style="margin: 0px 10px 0;">PhD Students</h4>
 <ul style="margin:0 0 5px;">
   <li><a href="https://github.com/RYC-98">Yuchen Ren</a>, 2024.09-, Xi'an Jiaotong University, China<br>
   (First-author publications: <a href="https://arxiv.org/abs/2412.18844">AAAI 2025</a>)</li>
