@@ -1,14 +1,14 @@
 main:
 
   - title: "Teaching"
-    url: ./teaching.html
+    url: /teaching/
     right: true 
-   
-  - title: "Talks"
-    url: /talks/
     
   - title: "Students"
-    url: /publications/
+    url: /students/
+    
+  - title: "Talks"
+    url: /talks/
     
   - title: "Services"
     url: /services/
