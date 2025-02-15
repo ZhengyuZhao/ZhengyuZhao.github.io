@@ -4,7 +4,7 @@ layout: homepage
 
 <h1 id="about-me"></h1>
 
-<h2 style="margin: 80px 0px 10px;"></h2>
+<h2 style="margin: 80px 0px 10px;width:950px""></h2>
 
 ## About Me
 I am a faculty member at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/XJTU_Introduction/Introduction.htm), China. In 2022-2023, I was a postdoc at [CISPA Helmholtz Center for Information Security](https://cispa.de/en/about), Germany, hosted by [Prof. Michael Backes](https://michaelbackes.eu/aboutme.html).
