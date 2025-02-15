@@ -24,8 +24,9 @@ permalink: /students/
   <strong>Research topic:</strong> Transferability of adversarial examples<br>
   <strong>First-author publications:</strong> <a href="https://ieeexplore.ieee.org/document/10858076">TIFS 2025</a></li>
   <li><a href="https://openreview.net/profile?id=~Songlong_Xing1">Songlong Xing</a> (2024.03-, remote), University of Trento, Italy<br>
-  <strong>Research topic:</strong> Robustness of vision-language models<br>
-<!--   <strong>First-author publications:</strong> <a href="https://ieeexplore.ieee.org/document/10858076">TIFS 2025</a></li> -->
+  <strong>Research topic:</strong> Robustness of vision-language models
+<!--   <strong>First-author publications:</strong> <a href="https://ieeexplore.ieee.org/document/10858076">TIFS 2025</a> -->
+  </li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Undergraduate Interns</h4>
