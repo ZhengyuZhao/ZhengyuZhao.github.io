@@ -32,6 +32,7 @@ permalink: /services/
   <li>ACL ARR: 2025, 2024, 2023</li>
   <li>AAAI: 2022</li>
   <li>IJCAI: 2025, 2024</li>
+  <li>MM: 2025</li>
   <li>AISTATS: 2023 (🏆Outstanding)</li>
   <li>BMVC: 2023, 2022 (🏆Outstanding), 2021, 2020 (🏆Outstanding)</li>
   <li>FAccT: 2022</li>
