@@ -1,12 +1,12 @@
 main:
 
-  - title: "Teaching"
-    url: /teaching/
-    right: true 
+  # - title: "Teaching"
+  #   url: /teaching/
     
   - title: "Students"
     url: /students/
-    
+    right: true 
+
   - title: "Talks"
     url: /talks/
     
