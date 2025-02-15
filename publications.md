@@ -493,11 +493,11 @@ permalink: /publications/
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
       <div class="title"><a href="https://arxiv.org/abs/1807.08624">From Volcano to Toyshop: Adaptive Discriminative Region Discovery for Scene Recognition</a></div>
       <div class="author"><strong>Zhengyu Zhao</strong>, Martha Larson</div>
-      <div class="periodical"><em>ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2018.</em>
+      <div class="periodical"><em>ACM International Conference on Multimedia <strong>(MM)</strong>, 2018.</em>
       </div>
     <div class="links">
       <a href="https://github.com/ZhengyuZhao/Adi-Red-Scene" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://dl.acm.org/citation.cfm?id=3351169" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Reproducibility companion paper at <strong>ACM MM</strong> 2019</a>
+      <a href="https://dl.acm.org/citation.cfm?id=3351169" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Reproducibility companion paper at <strong>MM</strong> 2019</a>
     </div>
   </div>
 </div>
