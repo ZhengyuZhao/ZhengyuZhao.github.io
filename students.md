@@ -12,7 +12,7 @@ permalink: /students/
 <ul style="margin:0 0 5px;">
   <li><a href="https://github.com/RYC-98">Yuchen Ren</a> (2024.09- ), Xi'an Jiaotong University, China<br>
   <strong>Research topic:</strong> Transferability of adversarial examples<br>
-  <strong>First-author publications:</strong> <a href="https://arxiv.org/abs/2412.18844">AAAI 2025</a></li>
+  <strong>First-author publications:</strong> <a href="https://zhengyuzhao.github.io/students/">CVPR 2025</a>, <a href="https://arxiv.org/abs/2412.18844">AAAI 2025</a></li>
   <li><a href="https://scholar.google.com/citations?user=dV15IwIAAAAJ">Xiaomeng Wang</a> (2023.09- ), Radboud University, Netherlands (with <a href="https://www.ru.nl/en/people/larson-m">Prof. Martha Larson</a>)<br>
   <strong>Research topic:</strong> Vulnerability of vision-language models<br>
   <strong>First-author publications:</strong> <a href="https://arxiv.org/abs/2502.08193">NAACL 2025</a></li>
@@ -24,8 +24,8 @@ permalink: /students/
   <strong>Research topic:</strong> Transferability of adversarial examples<br>
   <strong>First-author publications:</strong> <a href="https://ieeexplore.ieee.org/document/10858076">TIFS 2025</a></li>
   <li><a href="https://openreview.net/profile?id=~Songlong_Xing1">Songlong Xing</a> (2024.03-, remote), University of Trento, Italy<br>
-  <strong>Research topic:</strong> Robustness of vision-language models
-<!--   <strong>First-author publications:</strong> <a href="https://ieeexplore.ieee.org/document/10858076">TIFS 2025</a> -->
+  <strong>Research topic:</strong> Robustness of vision-language models<br>
+  <strong>First-author publications:</strong> <a href="https://zhengyuzhao.github.io/students/">CVPR 2025</a></li>
   </li>
 </ul>
 
