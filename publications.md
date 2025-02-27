@@ -339,12 +339,12 @@ permalink: /publications/
 <!--             <abbr class="badge">CVPR</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://zhengyuzhao.github.io/publications/">Nullu: Mitigating Object Hallucinations in Large Vision-Language Models via HalluSpace Projection</a></div>
+      <div class="title"><a href="https://arxiv.org/abs/2412.13817">Nullu: Mitigating Object Hallucinations in Large Vision-Language Models via HalluSpace Projection</a></div>
       <div class="author">Le Yang, Ziwei Zheng, Boxun Chen, <strong>Zhengyu Zhao</strong>, Chenhao Lin, Chao Shen</div>
       <div class="periodical"><em>IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.</em>
       </div>
     <div class="links">
-       <a href="https://zhengyuzhao.github.io/publications/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+       <a href="https://github.com/Ziwei-Zheng/Nullu" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
