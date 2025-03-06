@@ -25,7 +25,7 @@ permalink: /students/
   <strong>First-author publications:</strong> <a href="https://ieeexplore.ieee.org/document/10858076">TIFS 2025</a></li>
   <li><a href="https://openreview.net/profile?id=~Songlong_Xing1">Songlong Xing</a> (2024.03-, remote), University of Trento, Italy<br>
   <strong>Research topic:</strong> Security of vision-language models<br>
-  <strong>First-author publications:</strong> <a href="https://zhengyuzhao.github.io/students/">CVPR 2025</a></li>
+  <strong>First-author publications:</strong> <a href="https://arxiv.org/abs/2503.03613">CVPR 2025</a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Undergraduate Interns</h4>
