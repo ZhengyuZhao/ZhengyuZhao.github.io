@@ -36,7 +36,7 @@ permalink: /publications/
 <!--             <abbr class="badge">AAAI</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://zhengyuzhao.github.io/publications/">Revisiting Training-Inference Trigger Intensity in Backdoor Attacks</a></div>
+      <div class="title"><a href="https://arxiv.org/abs/2503.12058">Revisiting Training-Inference Trigger Intensity in Backdoor Attacks</a></div>
       <div class="author">Chenhao Lin, Chenyang Zhao, Shiwei Wang, Longtian Wang, Chao Shen, <strong>Zhengyu Zhao</strong></div>
       <div class="periodical"><em>USENIX Security Symposium <strong>(USENIX Security)</strong>, 2025.</em>
       </div>
