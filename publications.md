@@ -59,7 +59,7 @@ permalink: /publications/
       <div class="periodical"><em>IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.</em>
       </div>
     <div class="links">
-       <a href="https://zhengyuzhao.github.io/publications/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+       <a href="https://github.com/RYC-98/FPR" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
@@ -110,7 +110,7 @@ permalink: /publications/
       <div class="periodical"><em>International Conference on Machine Learning <strong>(ICML)</strong>, 2024.</em>
       </div>
     <div class="links">
-       <a href="https://arxiv.org/abs/2312.07364" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+       <a href="https://github.com/michaeltian108/CA-TRIDE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
@@ -221,7 +221,7 @@ permalink: /publications/
       </div>
     <div class="links">
       <a href="https://github.com/DennisLiu2022/Membership-Inference-Attacks-by-Exploiting-Loss-Trajectory" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://zhengyuzhao.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
+<!--       <a href="https://zhengyuzhao.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a> -->
     </div>
   </div>
 </div>
