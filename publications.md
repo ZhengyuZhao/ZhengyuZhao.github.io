@@ -54,7 +54,7 @@ permalink: /publications/
 <!--             <abbr class="badge">CVPR</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://zhengyuzhao.github.io/publications/">Improving Adversarial Transferability on Vision Transformers via Forward Propagation Refinement</a></div>
+      <div class="title"><a href="https://arxiv.org/abs/2503.15404">Improving Adversarial Transferability on Vision Transformers via Forward Propagation Refinement</a></div>
       <div class="author">Yuchen Ren, <strong>Zhengyu Zhao</strong>, Chenhao Lin, Bo Yang, Lu Zhou, Zhe Liu, Chao Shen</div>
       <div class="periodical"><em>IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.</em>
       </div>
