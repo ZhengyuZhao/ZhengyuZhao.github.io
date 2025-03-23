@@ -374,24 +374,6 @@ permalink: /publications/
 </div>
 </li> 
 
-<li>
-<div class="pub-row" style="margin: 0px 0px -5px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/transteal.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">arXiv</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://ieeexplore.ieee.org/document/10531252">Towards Transferable and Stealthy Attacks against Object Detection in Autonomous Driving Systems</a> (in Chinese)</div>
-      <div class="author">Junhao Zheng, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Ziyi Jia, Libing Wu, Chao Shen</div>
-      <div class="periodical"><em>Journal of Computer Research and Development <strong>(CRaD)</strong>, 2024.</em>
-      </div>
-    <div class="links">
-      <a href="https://github.com/yyl-github-1896/CodeTAE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-</li>
-
 </ol>
 </div>
 
