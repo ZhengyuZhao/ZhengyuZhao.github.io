@@ -4,8 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-<h2 id="publications" style="margin: 60px 0px -30px;">A list of papers to which I am a major contributor.<br>See <a href="https://scholar.google.com/citations?user=pC8KpPMAAAAJ&hl=en">My Google Scholar</a> for a complete list.
-</h2>
 
 <h1 id="publications"></h1>
 
