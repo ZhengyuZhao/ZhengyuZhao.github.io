@@ -97,9 +97,13 @@ permalink: /publications/
       <div class="author">Bo Yang, Hengwei Zhang, Jindong Wang, Yulong Yang, Chenhao Lin, Chao Shen, <strong>Zhengyu Zhao</strong></div>
       <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2025.</em>
       </div>
+        <div class="links">
+       <a href="https://github.com/yangbo93/Adversarial-Example-Soups" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
   </div>
 </div>
 </li> 
+
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
