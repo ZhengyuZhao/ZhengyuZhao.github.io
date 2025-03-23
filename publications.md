@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-<h2 id="publications" style="margin: 60px 0px -30px;">A list of papers to which I am a major contributor. See <a href="https://scholar.google.com/citations?user=pC8KpPMAAAAJ&hl=en">My Google Scholar</a> for a complete list.
+<h2 id="publications" style="margin: 60px 0px -30px;">A list of papers to which I am a major contributor.<br>See <a href="https://scholar.google.com/citations?user=pC8KpPMAAAAJ&hl=en">My Google Scholar</a> for a complete list.
 </h2>
 
 <h1 id="publications"></h1>
@@ -114,24 +114,6 @@ permalink: /publications/
       </div>
     <div class="links">
        <a href="https://github.com/michaeltian108/CA-TRIDE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-</li>
-
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/QAA.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">arXiv</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2305.05875">Quantization Aware Attack: Enhancing Transferable Adversarial Attacks by Model Quantization</a></div>
-      <div class="author">Yulong Yang, Chenhao Lin, Qian Li, <strong>Zhengyu Zhao</strong>, Haoran Fan, Dawei Zhou, Nannan Wang, Tongliang Liu, Chao Shen</div>
-      <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2024.</em>
-      </div>
-    <div class="links">
-      <a href="https://github.com/yyl-github-1896/QAA/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
