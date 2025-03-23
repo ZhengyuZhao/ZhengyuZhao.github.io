@@ -136,22 +136,6 @@ Only papers to which I am a major contributor are listed. See <a href="https://s
 </div>
 </li>
 
-<!--<li>
- <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/advfair.png" class="teaser img-fluid z-depth-1">
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://ieeexplore.ieee.org/document/10795188">Hard Adversarial Example Mining for Improving Robust Fairness</a></div>
-      <div class="author">Chenhao Lin, Xiang Ji, Yulong Yang, Qian Li, <strong>Zhengyu Zhao</strong>, Zhe Peng, Run Wang, Liming Fang, Chao Shen</div>
-      <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2024.</em>
-      </div>
-    <div class="links">
-      <a href="https://github.com/yyl-github-1896/QAA/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-</li> -->
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
@@ -332,21 +316,6 @@ Only papers to which I am a major contributor are listed. See <a href="https://s
 </div>
 </li>
 
-<!-- <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/Nullu.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">CVPR</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2412.13817">Nullu: Mitigating Object Hallucinations in Large Vision-Language Models via HalluSpace Projection</a></div>
-      <div class="author">Le Yang, Ziwei Zheng, Boxun Chen, <strong>Zhengyu Zhao</strong>, Chenhao Lin, Chao Shen</div>
-      <div class="periodical"><em>IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.</em>
-      </div>
-    <div class="links">
-       <a href="https://github.com/Ziwei-Zheng/Nullu" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div> -->
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
@@ -366,20 +335,6 @@ Only papers to which I am a major contributor are listed. See <a href="https://s
 </div>
 </li> 
 
-<!-- <li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/jailbreak.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">arXiv</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2408.11313">Unlocking Adversarial Suffix Optimization Without Affirmative Phrases: Efficient Black-box Jailbreaking via LLM as Optimizer</a></div>
-      <div class="author">Weipeng Jiang, Zhenting Wang, Juan Zhai, Shiqing Ma, <strong>Zhengyu Zhao</strong>, Chao Shen</div>
-      <div class="periodical"><em>North American Chapter of the Association for Computational Linguistics <strong>(NAACL) Findings</strong>, 2025.</em>
-      </div>
-  </div>
-</div>
-</li> --> 
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
@@ -399,23 +354,6 @@ Only papers to which I am a major contributor are listed. See <a href="https://s
 </div>
 </li>
 
-<!-- <li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/code.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">arXiv</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://ieeexplore.ieee.org/document/10531252">Exploiting the Adversarial Example Vulnerability of Transfer Learning of Source Code</a></div>
-      <div class="author">Yulong Yang, Haoran Fan, Chenhao Lin, Qian Li, <strong>Zhengyu Zhao</strong>, Chao Shen</div>
-      <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2024.</em>
-      </div>
-    <div class="links">
-      <a href="https://github.com/yyl-github-1896/CodeTAE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-</li> -->
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
@@ -500,23 +438,6 @@ Only papers to which I am a major contributor are listed. See <a href="https://s
 </li>
 
 
-<!-- <li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/mf.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">arXiv</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://ieeexplore.ieee.org/document/10689267">Exploiting Facial Relationships and Feature Aggregation for Multi-Face Forgery Detection</a></div>
-      <div class="author">Chenhao Lin, Fangbin Yi, Hang Wang, Jingyi Deng, <strong>Zhengyu Zhao</strong>, Qian Li, Chao Shen</div>
-      <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2024.</em>
-      </div>
-    <div class="links">
-      <a href="https://github.com/yyl-github-1896/QAA/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-</li> -->
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
