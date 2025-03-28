@@ -7,7 +7,7 @@ permalink: /publications/
 
 <h1 id="publications"></h1>
 
-<h2 id="publications" style="margin: 60px 0px -30px;">Security of Machine Learning: Foundations</h2>
+<h2 id="publications" style="margin: 60px 0px -30px;">Selected Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -69,6 +69,24 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://zhengyuzhao.github.io/assets/img/CLIProbust.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">CVPR</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2503.03613">CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP</a></div>
+      <div class="author">Songlong Xing, <strong>Zhengyu Zhao</strong>, Nicu Sebe</div>
+      <div class="periodical"><em>IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.</em>
+      </div>
+    <div class="links">
+       <a href="https://github.com/Sxing2/CLIP-Test-time-Counterattacks" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://zhengyuzhao.github.io/assets/img/mumoig.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">AAAI</abbr> -->
   </div>
@@ -102,6 +120,23 @@ permalink: /publications/
 </div>
 </li> 
 
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://zhengyuzhao.github.io/assets/img/typo.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">arXiv</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2502.08193">Typographic Attacks in a Multi-Image Setting</a></div>
+      <div class="author">Xiaomeng Wang, <strong>Zhengyu Zhao</strong>, Martha Larson</div>
+      <div class="periodical"><em>North American Chapter of the Association for Computational Linguistics <strong>(NAACL)</strong>, 2025.</em>
+      </div>
+        <div class="links">
+       <a href="https://github.com/XiaomengWang-AI/Typographic-Attacks-in-a-Multi-Image-Setting" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li> 
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
@@ -121,6 +156,77 @@ permalink: /publications/
 </div>
 </li>
 
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://zhengyuzhao.github.io/assets/img/patch.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">NeurIPS</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://openreview.net/forum?id=NtNTfRTjE8">Breaking Semantic Artifacts for Generalized AI-generated Image Detection</a></div>
+      <div class="author">Chende Zheng, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Hang Wang, Xu Guo, Shuai Liu, Chao Shen</div>
+      <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.</em>
+      </div>
+        <div class="links">
+      <a href="https://github.com/Zig-HS/FakeImageDetection" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://zhengyuzhao.github.io/assets/img/3d.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">CVPR</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org//abs/2403.17301">Physical 3D Adversarial Attacks against Monocular Depth Estimation in Autonomous Driving</a></div>
+      <div class="author">Junhao Zheng, Chenhao Lin, Jiahao Sun, <strong>Zhengyu Zhao</strong>, Qian Li, Chao Shen</div>
+      <div class="periodical"><em>IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em>
+      </div>
+    <div class="links">
+       <a href="https://github.com/Gandolfczjh/3D2Fool" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://zhengyuzhao.github.io/assets/img/cba.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">NAACL</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2310.07676">Composite Backdoor Attacks Against Large Language Models</a></div>
+      <div class="author">Hai Huang, <strong>Zhengyu Zhao</strong>, Yun Shen, Michael Backes, Yang Zhang</div>
+      <div class="periodical"><em>North American Chapter of the Association for Computational Linguistics <strong>(NAACL) Findings</strong>, 2024.</em>
+      </div>
+        <div class="links">
+       <a href="https://github.com/MiracleHH/CBA" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li> 
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://zhengyuzhao.github.io/assets/img/mal.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">TOPS</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2205.15128">Level Up with ML Vulnerability Identification: Leveraging Domain Constraints in Feature Space for Robust Android Malware Detection</a></div>
+      <div class="author">Hamid Bostani, <strong>Zhengyu Zhao</strong>, Zhuoran Liu, Veelasha Moonsamy</div>
+      <div class="periodical"><em>ACM Transactions on Privacy and Security <strong>(TOPS)</strong>, 2024.</em>
+      </div>
+        <div class="links">
+       <a href="https://anonymous.4open.science/r/robust-Android-malware-detector-C5D8/README.md" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li> 
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
@@ -217,6 +323,24 @@ permalink: /publications/
 </div>
 </li>
 
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://zhengyuzhao.github.io/assets/img/screengleaning.PNG" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">NDSS</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2011.09877">Screen Gleaning: A Screen Reading TEMPEST Attack on Mobile Devices Exploiting an Electromagnetic Side Channel</a></div>
+      <div class="author">Zhuoran Liu, Niels Samwel, Léo Weissbart, <strong>Zhengyu Zhao</strong>, Dirk Lauret, Lejla Batina, Martha Larson</div>
+      <div class="periodical"><em>Network and Distributed System Security Symposium <strong>(NDSS)</strong>, 2021.</em>
+      </div>
+    <div class="links">
+      <a href="https://github.com/cescalab/screen_gleaning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://www.youtube.com/watch?v=qEXwe58IVFc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
+    </div>
+  </div>
+</div>
+</li>
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
@@ -257,7 +381,7 @@ permalink: /publications/
 </li> 
 
 <li>
-<div class="pub-row" style="margin: 0px 0px -5px;width:950px">
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://zhengyuzhao.github.io/assets/img/PIRE_2.PNG" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">ICMR</abbr> -->
@@ -274,159 +398,8 @@ permalink: /publications/
 </div>
 </li>  
 
-</ol>
-</div>
-
-<h2 id="publications" style="margin: 0px 0px -30px;">Security of Machine Learning: Applications</h2>
-
-<div class="publications">
-<ol class="bibliography">
-
-
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/CLIProbust.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">CVPR</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2503.03613">CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP</a></div>
-      <div class="author">Songlong Xing, <strong>Zhengyu Zhao</strong>, Nicu Sebe</div>
-      <div class="periodical"><em>IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.</em>
-      </div>
-    <div class="links">
-       <a href="https://github.com/Sxing2/CLIP-Test-time-Counterattacks" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-</li>
-
-
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/typo.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">arXiv</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2502.08193">Typographic Attacks in a Multi-Image Setting</a></div>
-      <div class="author">Xiaomeng Wang, <strong>Zhengyu Zhao</strong>, Martha Larson</div>
-      <div class="periodical"><em>North American Chapter of the Association for Computational Linguistics <strong>(NAACL)</strong>, 2025.</em>
-      </div>
-        <div class="links">
-       <a href="https://github.com/XiaomengWang-AI/Typographic-Attacks-in-a-Multi-Image-Setting" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-</li> 
-
-
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/3d.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">CVPR</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org//abs/2403.17301">Physical 3D Adversarial Attacks against Monocular Depth Estimation in Autonomous Driving</a></div>
-      <div class="author">Junhao Zheng, Chenhao Lin, Jiahao Sun, <strong>Zhengyu Zhao</strong>, Qian Li, Chao Shen</div>
-      <div class="periodical"><em>IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em>
-      </div>
-    <div class="links">
-       <a href="https://github.com/Gandolfczjh/3D2Fool" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-</li>
-
-
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/cba.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">NAACL</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2310.07676">Composite Backdoor Attacks Against Large Language Models</a></div>
-      <div class="author">Hai Huang, <strong>Zhengyu Zhao</strong>, Yun Shen, Michael Backes, Yang Zhang</div>
-      <div class="periodical"><em>North American Chapter of the Association for Computational Linguistics <strong>(NAACL) Findings</strong>, 2024.</em>
-      </div>
-        <div class="links">
-       <a href="https://github.com/MiracleHH/CBA" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-</li> 
-
-<li>
-<div class="pub-row" style="margin: 0px 0px -5px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/mal.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">TOPS</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2205.15128">Level Up with ML Vulnerability Identification: Leveraging Domain Constraints in Feature Space for Robust Android Malware Detection</a></div>
-      <div class="author">Hamid Bostani, <strong>Zhengyu Zhao</strong>, Zhuoran Liu, Veelasha Moonsamy</div>
-      <div class="periodical"><em>ACM Transactions on Privacy and Security <strong>(TOPS)</strong>, 2024.</em>
-      </div>
-        <div class="links">
-       <a href="https://anonymous.4open.science/r/robust-Android-malware-detector-C5D8/README.md" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-</li> 
-
-</ol>
-</div>
-
-
-<h2 id="publications" style="margin: 0px 0px -30px;">Machine Learning for Security</h2>
-
-<div class="publications">
-<ol class="bibliography">
-
-
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/patch.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">NeurIPS</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://openreview.net/forum?id=NtNTfRTjE8">Breaking Semantic Artifacts for Generalized AI-generated Image Detection</a></div>
-      <div class="author">Chende Zheng, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Hang Wang, Xu Guo, Shuai Liu, Chao Shen</div>
-      <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.</em>
-      </div>
-        <div class="links">
-      <a href="https://github.com/Zig-HS/FakeImageDetection" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-</li>
-
-
-
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/screengleaning.PNG" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">NDSS</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2011.09877">Screen Gleaning: A Screen Reading TEMPEST Attack on Mobile Devices Exploiting an Electromagnetic Side Channel</a></div>
-      <div class="author">Zhuoran Liu, Niels Samwel, Léo Weissbart, <strong>Zhengyu Zhao</strong>, Dirk Lauret, Lejla Batina, Martha Larson</div>
-      <div class="periodical"><em>Network and Distributed System Security Symposium <strong>(NDSS)</strong>, 2021.</em>
-      </div>
-    <div class="links">
-      <a href="https://github.com/cescalab/screen_gleaning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://www.youtube.com/watch?v=qEXwe58IVFc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
-    </div>
-  </div>
-</div>
-</li>
-  
-<li>
-<div class="pub-row" style="margin: 0px 0px -5px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://zhengyuzhao.github.io/assets/img/adired.PNG" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">ACM MM</abbr> -->
@@ -443,7 +416,8 @@ permalink: /publications/
   </div>
 </div>
 </li>
-   
+
 </ol>
 </div>
+
 
