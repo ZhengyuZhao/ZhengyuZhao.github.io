@@ -7,7 +7,7 @@ permalink: /publications/
 
 <h1 id="publications"></h1>
 
-<h2 id="publications" style="margin: 60px 0px -30px;">Selected Publications</h2>
+<h2 id="publications" style="margin: 60px 0px -30px;">Mainly Contributed Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
