@@ -4,9 +4,7 @@ title: Students
 permalink: /students/
 ---
 
-<h1 id="services"></h1>
-
-<h2 style="margin: 60px 0px 10px;">Students</h2>
+<h1 id="students"></h1>
 
 <h4 style="margin: 0px 10px 0;">PhD Students</h4>
 <ul style="margin:0 0 5px;">
@@ -30,8 +28,9 @@ permalink: /students/
 
 <h4 style="margin:0 10px 0;">Undergraduate Interns</h4>
 <ul style="margin:0 0 5px;">
-  <li><a href="https://zhizhen-chen.top/">Zhizhen Chen</a> (2023.11- ), Xi'an Jiaotong University, China<br>
+  <li><a href="https://zhizhen-chen.top/">Zhizhen Chen</a> (2023.11-2025.03), Xi'an Jiaotong University, China<br>
   Incoming PhD student at University of Virginia, USA<br>
   <strong>Research topic:</strong> Data poisoning <br>
   <strong>First-author publications:</strong> <a href="https://arxiv.org/abs/2412.03908">arXiv 2024</a></li>
 </ul>
+
