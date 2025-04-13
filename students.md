@@ -6,6 +6,8 @@ permalink: /students/
 
 <h1 id="students"></h1>
 
+<h2 style="margin: 60px 0px 10px;">Current Students</h2>
+
 <h4 style="margin: 0px 10px 0;">PhD Students</h4>
 <ul style="margin:0 0 5px;">
   <li><a href="https://github.com/RYC-98">Yuchen Ren</a> (2024.09- ), Xi'an Jiaotong University, China<br>
