@@ -6,7 +6,7 @@ permalink: /students/
 
 <h1 id="students"></h1>
 
-<h2 style="margin: 60px 0px 10px;">Current Students</h2>
+<h2 style="margin: 60px 0px 10px;">Current</h2>
 
 <h4 style="margin: 0px 10px 0;">PhD Students</h4>
 <ul style="margin:0 0 5px;">
@@ -19,13 +19,18 @@ permalink: /students/
 </ul>
 
 <h4 style="margin:0 10px 0;">Visiting PhD Students</h4>
-<ul style="margin:0 0 5px;">
-  <li><a href="https://github.com/yangbo93">Bo Yang</a> (2024.03- ), Information Engineering University, China<br>
-  <strong>Research topic:</strong> Transferability of adversarial examples<br>
-  <strong>First-author publications:</strong> <a href="https://ieeexplore.ieee.org/document/10858076">TIFS 2025</a></li>
-  <li><a href="https://openreview.net/profile?id=~Songlong_Xing1">Songlong Xing</a> (2024.03-, remote), University of Trento, Italy<br>
+  <li><a href="https://openreview.net/profile?id=~Songlong_Xing1">Songlong Xing</a> (2024.03- , remote), University of Trento, Italy<br>
   <strong>Research topic:</strong> Security of vision-language models<br>
   <strong>First-author publications:</strong> <a href="https://arxiv.org/abs/2503.03613">CVPR 2025</a></li>
+</ul>
+
+<h2 style="margin: 60px 0px 10px;">Alumni</h2>
+
+<h4 style="margin:0 10px 0;">Visiting PhD Students</h4>
+<ul style="margin:0 0 5px;">
+  <li><a href="https://github.com/yangbo93">Bo Yang</a> (2024.03-2025.04), Information Engineering University, China<br>
+  <strong>Research topic:</strong> Transferability of adversarial examples<br>
+  <strong>First-author publications:</strong> <a href="https://ieeexplore.ieee.org/document/10858076">TIFS 2025</a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Undergraduate Interns</h4>
@@ -35,4 +40,3 @@ permalink: /students/
   <strong>Research topic:</strong> Data poisoning <br>
   <strong>First-author publications:</strong> <a href="https://arxiv.org/abs/2412.03908">arXiv 2024</a></li>
 </ul>
-
