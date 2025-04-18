@@ -25,7 +25,7 @@ permalink: /students/
   <strong>First-author publications:</strong> <a href="https://arxiv.org/abs/2503.03613">CVPR 2025</a></li>
 </ul>
 
-<h2 style="margin: 60px 0px 10px;">Alumni</h2>
+<h2 style="margin: 30px 0px 10px;">Alumni</h2>
 
 <h4 style="margin:0 10px 0;">Visiting PhD Students</h4>
 <ul style="margin:0 0 5px;">
