@@ -198,6 +198,24 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://zhengyuzhao.github.io/assets/img/dr.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">arXiv</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://zhengyuzhao.github.io/publications/">Evading Deepfake Detectors via Adversarially Degrading and Restoring Forged Images</a></div>
+      <div class="author">Zhengli Shi, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Peter Peer, Chao Shen</div>
+      <div class="periodical"><em>IEEE International Conference on Multimedia and Expo <strong>(ICME)</strong>, 2025.</em>
+      </div>
+        <div class="links">
+       <a href="https://zhengyuzhao.github.io/publications/g" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li> 
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://zhengyuzhao.github.io/assets/img/tride.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">ICML</abbr> -->
   </div>
