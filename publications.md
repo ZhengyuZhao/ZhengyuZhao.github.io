@@ -204,7 +204,7 @@ permalink: /publications/
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
       <div class="title"><a href="https://zhengyuzhao.github.io/publications/">Evading Deepfake Detectors via Adversarially Degrading and Restoring Forged Images</a></div>
       <div class="author">Zhengli Shi, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Peter Peer, Chao Shen</div>
-      <div class="periodical"><em>IEEE International Conference on Multimedia and Expo <strong>(ICME)</strong>, 2025.</em>
+      <div class="periodical"><em>IEEE International Conference on Multimedia and Expo <strong>(ICME)</strong>, 2025.</em> <strong><span style="color:#ff0000;">Oral</span></strong>
       </div>
         <div class="links">
        <a href="https://zhengyuzhao.github.io/publications/g" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
