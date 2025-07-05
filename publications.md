@@ -178,7 +178,7 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/U3.PNG" class="teaser img-fluid z-depth-1">
+    <img src="https://zhengyuzhao.github.io/assets/img/U3.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">ACM MM</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
