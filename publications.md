@@ -7,7 +7,7 @@ permalink: /publications/
 
 <h1 id="publications"></h1>
 
-<h2 id="publications" style="margin: 60px 0px -30px;">Mainly Contributed Publications</h2>
+<h2 id="publications" style="margin: 60px 0px -30px;">Preprints (Mainly Contributed)</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -48,41 +48,15 @@ permalink: /publications/
 </div>
 </li> 
 
-
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/patch_defense.png" class="teaser img-fluid z-depth-1">
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://zhengyuzhao.github.io/publications/">Revisiting Adversarial Patch Defenses on Object Detectors: Unified Evaluation, Large-Scale Dataset, and New Insights</a></div>
-      <div class="author">Junhao Zheng, Jiahao Sun, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Chen Ma, Chong Zhang, Cong Wang, Qian Wang, Chao Shen</div>
-      <div class="periodical"><em>International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.</em>
-      </div>
-    <div class="links">
-       <a href="https://zhengyuzhao.github.io/publications/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
+</ol>
 </div>
-</li>
 
 
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/video_detect.png" class="teaser img-fluid z-depth-1">
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://zhengyuzhao.github.io/publications/">D3: Training-Free AI-Generated Video Detection Using Second-Order Features</a></div>
-      <div class="author">Chende Zheng, Ruiqi Suo, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Le Yang, Shuai Liu, Minghui Yang, Cong Wang, Chao Shen</div>
-      <div class="periodical"><em>International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.</em>
-      </div>
-    <div class="links">
-       <a href="https://zhengyuzhao.github.io/publications/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-</li>
+<h2 id="publications" style="margin: 60px 0px -30px;">Conferences (Mainly Contributed)</h2>
+
+<div class="publications">
+<ol class="bibliography">
+
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
@@ -119,6 +93,42 @@ permalink: /publications/
   </div>
 </div>
 </li>
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://zhengyuzhao.github.io/assets/img/patch_defense.png" class="teaser img-fluid z-depth-1">
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://zhengyuzhao.github.io/publications/">Revisiting Adversarial Patch Defenses on Object Detectors: Unified Evaluation, Large-Scale Dataset, and New Insights</a></div>
+      <div class="author">Junhao Zheng, Jiahao Sun, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Chen Ma, Chong Zhang, Cong Wang, Qian Wang, Chao Shen</div>
+      <div class="periodical"><em>International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.</em>
+      </div>
+    <div class="links">
+       <a href="https://zhengyuzhao.github.io/publications/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://zhengyuzhao.github.io/assets/img/video_detect.png" class="teaser img-fluid z-depth-1">
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://zhengyuzhao.github.io/publications/">D3: Training-Free AI-Generated Video Detection Using Second-Order Features</a></div>
+      <div class="author">Chende Zheng, Ruiqi Suo, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Le Yang, Shuai Liu, Minghui Yang, Cong Wang, Chao Shen</div>
+      <div class="periodical"><em>International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.</em>
+      </div>
+    <div class="links">
+       <a href="https://zhengyuzhao.github.io/publications/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
@@ -192,45 +202,6 @@ permalink: /publications/
   </div>
 </div>
 </li>
-
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/pivot.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">arXiv</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://zhengyuzhao.github.io/publications/">Resisting Bag-based Attribute Profiling by Adding Adversarial Items to Existing Media Profiles</a></div>
-      <div class="author">Zhuoran Liu, <strong>Zhengyu Zhao</strong>, Martha Larson</div>
-      <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2025.</em>
-      </div>
-        <div class="links">
-       <a href="https://github.com/liuzrcc/Resisting-Bag-based-Profiling" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-       <a href="https://dl.acm.org/doi/10.1145/3450613.3456832" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Preliminary version@UMAP 2021</a>
-    </div>
-  </div>
-</div>
-</li> 
-
-
-
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/soup.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">arXiv</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2402.18370">Adversarial Example Soups: Improving Transferability and Stealthiness for Free</a></div>
-      <div class="author">Bo Yang, Hengwei Zhang, Jindong Wang, Yulong Yang, Chenhao Lin, Chao Shen, <strong>Zhengyu Zhao</strong></div>
-      <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2025.</em>
-      </div>
-        <div class="links">
-       <a href="https://github.com/yangbo93/Adversarial-Example-Soups" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-</li> 
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
@@ -343,24 +314,6 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/mal.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">TOPS</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2205.15128">Level Up with ML Vulnerability Identification: Leveraging Domain Constraints in Feature Space for Robust Android Malware Detection</a></div>
-      <div class="author">Hamid Bostani, <strong>Zhengyu Zhao</strong>, Zhuoran Liu, Veelasha Moonsamy</div>
-      <div class="periodical"><em>ACM Transactions on Privacy and Security <strong>(TOPS)</strong>, 2024.</em>
-      </div>
-        <div class="links">
-       <a href="https://anonymous.4open.science/r/robust-Android-malware-detector-C5D8/README.md" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-</li> 
-
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://zhengyuzhao.github.io/assets/img/ISS.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">ICML</abbr> -->
   </div>
@@ -394,25 +347,6 @@ permalink: /publications/
 </div>
 </li>  
 
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/illustration.PNG" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">TIFS</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2011.06690">Adversarial Image Color Transformations in Explicit Color Filter Space</a></div>
-      <div class="author"><strong>Zhengyu Zhao</strong>, Zhuoran Liu, Martha Larson</div>
-      <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2023.</em>
-      </div>
-    <div class="links">
-      <a href="https://github.com/ZhengyuZhao/AdvColorFilter/tree/master/Journal_version" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://www.bmvc2020-conference.com/assets/papers/0099.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Preliminary version@BMVC 2020</a>
-    </div>
-  </div>
-</div>
-</li> 
-  
   
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
@@ -533,3 +467,88 @@ permalink: /publications/
 </div>
 
 
+<h2 id="publications" style="margin: 60px 0px -30px;">Mainly Contributed Publications</h2>
+
+<div class="publications">
+<ol class="bibliography">
+
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://zhengyuzhao.github.io/assets/img/pivot.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">arXiv</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://zhengyuzhao.github.io/publications/">Resisting Bag-based Attribute Profiling by Adding Adversarial Items to Existing Media Profiles</a></div>
+      <div class="author">Zhuoran Liu, <strong>Zhengyu Zhao</strong>, Martha Larson</div>
+      <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2025.</em>
+      </div>
+        <div class="links">
+       <a href="https://github.com/liuzrcc/Resisting-Bag-based-Profiling" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+       <a href="https://dl.acm.org/doi/10.1145/3450613.3456832" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Preliminary version@UMAP 2021</a>
+    </div>
+  </div>
+</div>
+</li> 
+
+
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://zhengyuzhao.github.io/assets/img/soup.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">arXiv</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2402.18370">Adversarial Example Soups: Improving Transferability and Stealthiness for Free</a></div>
+      <div class="author">Bo Yang, Hengwei Zhang, Jindong Wang, Yulong Yang, Chenhao Lin, Chao Shen, <strong>Zhengyu Zhao</strong></div>
+      <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2025.</em>
+      </div>
+        <div class="links">
+       <a href="https://github.com/yangbo93/Adversarial-Example-Soups" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li> 
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://zhengyuzhao.github.io/assets/img/mal.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">TOPS</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2205.15128">Level Up with ML Vulnerability Identification: Leveraging Domain Constraints in Feature Space for Robust Android Malware Detection</a></div>
+      <div class="author">Hamid Bostani, <strong>Zhengyu Zhao</strong>, Zhuoran Liu, Veelasha Moonsamy</div>
+      <div class="periodical"><em>ACM Transactions on Privacy and Security <strong>(TOPS)</strong>, 2024.</em>
+      </div>
+        <div class="links">
+       <a href="https://anonymous.4open.science/r/robust-Android-malware-detector-C5D8/README.md" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li> 
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://zhengyuzhao.github.io/assets/img/illustration.PNG" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">TIFS</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2011.06690">Adversarial Image Color Transformations in Explicit Color Filter Space</a></div>
+      <div class="author"><strong>Zhengyu Zhao</strong>, Zhuoran Liu, Martha Larson</div>
+      <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2023.</em>
+      </div>
+    <div class="links">
+      <a href="https://github.com/ZhengyuZhao/AdvColorFilter/tree/master/Journal_version" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://www.bmvc2020-conference.com/assets/papers/0099.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Preliminary version@BMVC 2020</a>
+    </div>
+  </div>
+</div>
+</li> 
+  
+ 
+</ol>
+</div>
