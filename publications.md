@@ -492,7 +492,7 @@ permalink: /publications/
 <!--             <abbr class="badge">arXiv</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2305.05875">Enhancing Transferable Adversarial Attacks by Model Quantization</a></div>
+      <div class="title"><a href="https://arxiv.org/abs/2305.05875">Quantization Aware Attack: Enhancing Transferable Adversarial Attacks by Model Quantization</a></div>
       <div class="author">Yulong Yang, Chenhao Lin, Qian Li, <strong>Zhengyu Zhao</strong>, Haoran Fan, Dawei Zhou, Nannan Wang, Tongliang Liu, Chao Shen</div>
       <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2024.</em>
       </div>
