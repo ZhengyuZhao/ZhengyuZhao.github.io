@@ -7,7 +7,7 @@ permalink: /publications/
 
 <h1 id="publications"></h1>
 
-<h2 style="margin: 60px 0px -30px;">Publications where I am the main student author or (co-)supervisor:</h2>
+<h2 style="margin: 0px 0px 0px;">Publications where I am the main student author or (co-)supervisor:</h2>
 
 <h2 id="publications" style="margin: 60px 0px -30px;">Conferences</h2>
 
