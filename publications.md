@@ -7,7 +7,9 @@ permalink: /publications/
 
 <h1 id="publications"></h1>
 
-<h2 id="publications" style="margin: 60px 0px -30px;">Conferences (Mainly Contributed)</h2>
+<h2 style="margin: 60px 0px -30px;">A List of publications where I am the main student author or (co-)supervisor:</h2>
+
+<h2 id="publications" style="margin: 60px 0px -30px;">Conferences</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -422,7 +424,7 @@ permalink: /publications/
 </div>
 
 
-<h2 id="publications" style="margin: 60px 0px -30px;">Journals (Mainly Contributed)</h2>
+<h2 id="publications" style="margin: 60px 0px -30px;">Journals</h2>
 
 <div class="publications">
 <ol class="bibliography">
