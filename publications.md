@@ -58,12 +58,12 @@ permalink: /publications/
     <img src="https://zhengyuzhao.github.io/assets/img/patch_defense.png" class="teaser img-fluid z-depth-1">
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://zhengyuzhao.github.io/publications/">Revisiting Adversarial Patch Defenses on Object Detectors: Unified Evaluation, Large-Scale Dataset, and New Insights</a></div>
+      <div class="title"><a href="https://arxiv.org/abs/2508.00649">Revisiting Adversarial Patch Defenses on Object Detectors: Unified Evaluation, Large-Scale Dataset, and New Insights</a></div>
       <div class="author">Junhao Zheng, Jiahao Sun, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Chen Ma, Chong Zhang, Cong Wang, Qian Wang, Chao Shen</div>
       <div class="periodical"><em>International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.</em>
       </div>
     <div class="links">
-       <a href="https://zhengyuzhao.github.io/publications/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+       <a href="https://github.com/Gandolfczjh/APDE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
