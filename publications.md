@@ -76,12 +76,12 @@ permalink: /publications/
     <img src="https://zhengyuzhao.github.io/assets/img/video_detect.png" class="teaser img-fluid z-depth-1">
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://zhengyuzhao.github.io/publications/">D3: Training-Free AI-Generated Video Detection Using Second-Order Features</a></div>
+      <div class="title"><a href="https://arxiv.org/abs/2508.00701">D3: Training-Free AI-Generated Video Detection Using Second-Order Features</a></div>
       <div class="author">Chende Zheng, Ruiqi Suo, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Le Yang, Shuai Liu, Minghui Yang, Cong Wang, Chao Shen</div>
       <div class="periodical"><em>International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.</em>
       </div>
     <div class="links">
-       <a href="https://zhengyuzhao.github.io/publications/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+       <a href="https://github.com/Zig-HS/D3" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
