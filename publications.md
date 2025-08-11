@@ -150,7 +150,7 @@ permalink: /publications/
 <!--             <abbr class="badge">ACM MM</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://zhengyuzhao.github.io/publications/">Universally Unfiltered and Unseen: Input-Agnostic Multimodal Jailbreaks against Text-to-Image Model Safeguards</a></div>
+      <div class="title"><a href="https://arxiv.org/abs/2508.05658">Universally Unfiltered and Unseen: Input-Agnostic Multimodal Jailbreaks against Text-to-Image Model Safeguards</a></div>
       <div class="author">Song Yan, Hui Wei, Jinlong Fei, Guoliang Yang, <strong>Zhengyu Zhao</strong>, Zheng Wang</div>
       <div class="periodical"><em>ACM International Conference on Multimedia <strong>(MM)</strong>, 2025.</em>
       </div>
