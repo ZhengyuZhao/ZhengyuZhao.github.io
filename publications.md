@@ -8,7 +8,7 @@ permalink: /publications/
 
 <br/><br/>
 
-### **Publications where I am the leading author or (co-)supervisor:**
+## **Publications where I am the leading author or (co-)supervisor:**
 
 <h2 id="publications" style="margin: 60px 0px -30px;">Conferences</h2>
 
