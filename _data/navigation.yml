@@ -4,7 +4,7 @@ main:
   #   url: /teaching/
     
   - title: "Group"
-    url: /students/
+    url: /group/
     right: true 
 
   # - title: "Talks"
