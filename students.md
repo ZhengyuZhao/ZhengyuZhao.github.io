@@ -49,7 +49,7 @@ permalink: /students/
 
 <h4 style="margin:0 10px 0;">Undergraduate Interns</h4>
 <ul style="margin:0 0 5px;">
-  <li><a href="https://zhizhen-chen.top/">Zhizhen Chen</a> (2023.11-2025.03), Xi'an Jiaotong University, China<br>
+  <li><a href="https://zhizhen-chen.top/">Zhizhen Chen</a> (2023.11-2025.03)<br>
   Incoming PhD student at University of Virginia, USA<br>
   <strong>Research topic:</strong> Data poisoning <br>
   <strong>First-author publications:</strong> <a href="https://arxiv.org/abs/2412.03908">arXiv 2024</a></li>
