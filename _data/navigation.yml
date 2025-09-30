@@ -3,7 +3,7 @@ main:
   # - title: "Teaching"
   #   url: /teaching/
     
-  - title: "Students"
+  - title: "Group"
     url: /students/
     right: true 
 
