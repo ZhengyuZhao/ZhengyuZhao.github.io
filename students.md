@@ -10,11 +10,11 @@ permalink: /students/
 
 <h4 style="margin: 0px 10px 0;">PhD Students</h4>
 <ul style="margin:0 0 5px;">
-  <li><a href="https://openreview.net/profile?id=%7ESong_Yan4">Song Yan</a> (2025.09- ), Xi'an Jiaotong University, China<br>
+  <li><a href="https://openreview.net/profile?id=%7ESong_Yan4">Song Yan</a> (2025.09- )<br>
   <strong>Research topic:</strong> Security and safety of vision-language models<br>
   <strong>First-author publications:</strong> <a href="https://arxiv.org/abs/2508.05658">MM 2025</a></li>
   
-  <li><a href="https://github.com/RYC-98">Yuchen Ren</a> (2024.09- ), Xi'an Jiaotong University, China<br>
+  <li><a href="https://github.com/RYC-98">Yuchen Ren</a> (2024.09- )<br>
   <strong>Research topic:</strong> Adversarial examples, Security and safety of vision-language models<br>
   <strong>First-author publications:</strong> <a href="https://arxiv.org/abs/2503.15404">CVPR 2025</a>, <a href="https://arxiv.org/abs/2412.18844">AAAI 2025</a></li>
   
@@ -23,6 +23,16 @@ permalink: /students/
   <strong>First-author publications:</strong> <a href="https://arxiv.org/abs/2502.08193">NAACL 2025</a></li>
 </ul>
 
+
+<h4 style="margin: 0px 10px 0;">Master Students</h4>
+<ul style="margin:0 0 5px;">
+  <li>Jing Li (2025.09- )<br>
+
+  <li>Shuaidong Li (2025.09- )<br>
+
+  <li>Ziyi Jia (2024.09- )<br>
+
+</ul>
 
 <h2 style="margin: 30px 0px 10px;">Alumni</h2>
 
