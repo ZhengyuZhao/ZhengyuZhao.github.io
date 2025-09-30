@@ -7,8 +7,8 @@ main:
     url: /students/
     right: true 
 
-  - title: "Talks"
-    url: /talks/
+  # - title: "Talks"
+  #   url: /talks/
     
   - title: "Services"
     url: /services/
