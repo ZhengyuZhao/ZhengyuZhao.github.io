@@ -26,11 +26,11 @@ permalink: /students/
 
 <h4 style="margin: 0px 10px 0;">Master Students</h4>
 <ul style="margin:0 0 5px;">
-  <li>Jing Li (2025.09- )<br>
+  <li>Jing Li (2025.09- )<br></li>
 
-  <li>Shuaidong Li (2025.09- )<br>
+  <li>Shuaidong Li (2025.09- )<br></li>
 
-  <li>Ziyi Jia (2024.09- )<br>
+  <li>Ziyi Jia (2024.09- )<br></li>
 
 </ul>
 
