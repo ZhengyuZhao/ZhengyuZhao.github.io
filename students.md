@@ -54,11 +54,11 @@ permalink: /students/
 <h2 style="margin: 30px 0px 10px;">Support</h2>
 
 <ul style="margin:0 0 5px;">
-  <li>Info (Birthday: 2017.06.01, Birth Place: Germany)
-          <br><img src="img/info1.jpg" height="150"><img src="img/info2.jpg" height="150"><img src="img/info3.jpg" height="150">
+  <li>Info (Birth Day: 2017.06.01, Birth Place: Germany)
+          <br><img src="https://zhengyuzhao.github.io/assets/img/info1.jpg" height="150"><img src="https://zhengyuzhao.github.io/assets/img/info2.jpg" height="150"><img src="https://zhengyuzhao.github.io/assets/img/info3.jpg" height="150">
         </li>
   
-  <li>Hola (Birthday: 2016.03.12, Birth Place: Netherlands)
-          <br><img src="img/hola1.jpg" height="150"><img src="img/hola2.jpg" height="150"><img src="img/hola3.jpg" height="150">
+  <li>Hola (Birth Day: 2016.03.12, Birth Place: Netherlands)
+          <br><img src="https://zhengyuzhao.github.io/assets/img/hola1.jpg" height="150"><img src="https://zhengyuzhao.github.io/assets/img/hola2.jpg" height="150"><img src="https://zhengyuzhao.github.io/assets/img/hola3.jpg" height="150">
         </li>
 </ul>
