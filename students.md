@@ -26,6 +26,8 @@ permalink: /students/
 
 <h4 style="margin: 0px 10px 0;">Master Students</h4>
 <ul style="margin:0 0 5px;">
+  <li>Zhen Wang (2026.09- )<br></li>
+
   <li>Jing Li (2025.09- )<br></li>
 
   <li>Shuaidong Li (2025.09- )<br></li>
