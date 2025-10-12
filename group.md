@@ -14,7 +14,7 @@ permalink: /group/
   <strong>First-author publications:</strong> <a href="https://arxiv.org/abs/2508.05658">MM 2025</a></li>
   
   <li><a href="https://github.com/RYC-98">Yuchen Ren</a> (2024.09- )<br>
-  <strong>First-author publications:</strong> <a href="https://arxiv.org/abs/2503.15404">CVPR 2025</a>, <a href="https://arxiv.org/abs/2412.18844">AAAI 2025</a></li>
+  <strong>First-author publications:</strong> <a href="https://arxiv.org/abs/2412.18844">AAAI 2025</a>, <a href="https://arxiv.org/abs/2503.15404">CVPR 2025</a></li>
   
   <li><a href="https://scholar.google.com/citations?user=dV15IwIAAAAJ">Xiaomeng Wang</a> (2023.09- ), Radboud University, Netherlands (with <a href="https://www.ru.nl/en/people/larson-m">Prof. Martha Larson</a>)<br>
   <strong>First-author publications:</strong> <a href="https://arxiv.org/abs/2502.08193">NAACL 2025</a></li>
