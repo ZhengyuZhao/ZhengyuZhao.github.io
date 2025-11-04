@@ -30,6 +30,8 @@ permalink: /group/
   <li>Shuaidong Li (2025.09- )<br></li>
 
   <li>Shunyuan Bai (2025.09-, with <a href="https://gr.xjtu.edu.cn/en/web/cshen">Prof. Chao Shen</a>)<br></li>
+  
+  <li>Xinshan Yang (2024.09-, with <a href="https://gr.xjtu.edu.cn/en/web/cshen">Prof. Chao Shen</a>)<br></li>
 
   <li>Ziyi Jia (2024.09- )<br></li>
 
