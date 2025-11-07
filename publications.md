@@ -8,7 +8,7 @@ permalink: /publications/
 
 <br/><br/>
 
-## **As main (junior or senior) contributor:**
+## **As main (junior or senior) author:**
 
 <h2 id="publications" style="margin: 60px 0px -30px;">Conferences</h2>
 
