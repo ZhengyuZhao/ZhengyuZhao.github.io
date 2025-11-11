@@ -259,7 +259,7 @@ permalink: /publications/
 <!--             <abbr class="badge">CVPR</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org//abs/2403.17301">Physical 3D Adversarial Attacks against Monocular Depth Estimation in Autonomous Driving</a></div>
+      <div class="title"><a href="https://arxiv.org/abs/2403.17301">Physical 3D Adversarial Attacks against Monocular Depth Estimation in Autonomous Driving</a></div>
       <div class="author">Junhao Zheng, Chenhao Lin, Jiahao Sun, <strong>Zhengyu Zhao</strong>, Qian Li, Chao Shen</div>
       <div class="periodical"><em>IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em>
       </div>
