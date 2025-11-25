@@ -17,23 +17,6 @@ permalink: /publications/
 
 
 
-<!-- <li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/PATN.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">CVPR</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://zhengyuzhao.github.io/publications/">Privacy on the Fly: A Predictive Adversarial Transformation Network for Mobile Sensor Data</a></div>
-      <div class="author">Tianle Song, Chenhao Lin, Yang Cao, <strong>Zhengyu Zhao</strong>, Jiahao Sun, Chong Zhang, Le Yang, Chao Shen</div>
-      <div class="periodical"><em>AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2026.</em> <strong><span style="color:#ff0000;">Oral</span></strong>
-      </div>
-    <div class="links">
-       <a href="https://zhengyuzhao.github.io/publications/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-</li> -->
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
@@ -88,25 +71,6 @@ permalink: /publications/
 </div>
 </li>
 
-
-<!-- <li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/video_detect.png" class="teaser img-fluid z-depth-1">
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2508.00701">D3: Training-Free AI-Generated Video Detection Using Second-Order Features</a></div>
-      <div class="author">Chende Zheng, Ruiqi Suo, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Le Yang, Shuai Liu, Minghui Yang, Cong Wang, Chao Shen</div>
-      <div class="periodical"><em>International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.</em>
-      </div>
-    <div class="links">
-       <a href="https://github.com/Zig-HS/D3" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-</li> -->
-
-
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -142,24 +106,6 @@ permalink: /publications/
   </div>
 </div>
 </li>
-
-<!-- <li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/MOT.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">AAAI</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2406.05810">ControlLoc: Physical-World Hijacking Attack on Camera-based Perception in Autonomous Driving</a></div>
-      <div class="author">Chen Ma*, Ningfei Wang*, <strong>Zhengyu Zhao</strong>, Qian Wang, Qi Alfred Chen, Chao Shen</div>
-      <div class="periodical"><em>ACM Conference on Computer and Communications Security <strong>(CCS)</strong>, 2025.</em>
-      </div>
-    <div class="links">
-       <a href="https://zhengyuzhao.github.io/publications/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-</li> -->
 
 
 <li>
@@ -198,24 +144,6 @@ permalink: /publications/
 </div>
 </li> 
 
-<!-- <li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/dr.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">arXiv</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://zhengyuzhao.github.io/publications/">Evading Deepfake Detectors via Adversarially Degrading and Restoring Forged Images</a></div>
-      <div class="author">Zhengli Shi, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Peter Peer, Chao Shen</div>
-      <div class="periodical"><em>IEEE International Conference on Multimedia and Expo <strong>(ICME)</strong>, 2025.</em> <strong><span style="color:#ff0000;">Oral</span></strong>
-      </div>
-        <div class="links">
-       <a href="https://zhengyuzhao.github.io/publications/g" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-</li>  -->
-
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -233,24 +161,6 @@ permalink: /publications/
   </div>
 </div>
 </li>
-
-<!-- <li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/patch.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">NeurIPS</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://openreview.net/forum?id=NtNTfRTjE8">Breaking Semantic Artifacts for Generalized AI-generated Image Detection</a></div>
-      <div class="author">Chende Zheng, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Hang Wang, Xu Guo, Shuai Liu, Chao Shen</div>
-      <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.</em>
-      </div>
-        <div class="links">
-      <a href="https://github.com/Zig-HS/FakeImageDetection" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-</li> -->
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
@@ -526,25 +436,6 @@ permalink: /publications/
   </div>
 </div>
 </li> 
-
-
-<!-- <li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/De2Trojan.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">arXiv</abbr> -->
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://zhengyuzhao.github.io/publications/">De2Trojan: Deployable Trojan Analysis Tool and Benchmark for the Machine Learning Lifecycle via Decoupling</a></div>
-      <div class="author">Shiwei Wang, Chenyang Zhao, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Zheng Yang, Qian Wang, Chao Shen, Xiaohong Guan</div>
-      <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2025.</em>
-      </div>
-    <div class="links">
-      <a href="https://zhengyuzhao.github.io/publications/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-</li> -->
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
