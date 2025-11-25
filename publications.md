@@ -17,7 +17,7 @@ permalink: /publications/
 
 
 
-<li>
+<!-- <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://zhengyuzhao.github.io/assets/img/PATN.png" class="teaser img-fluid z-depth-1">
@@ -33,7 +33,7 @@ permalink: /publications/
     </div>
   </div>
 </div>
-</li>
+</li> -->
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
@@ -89,7 +89,7 @@ permalink: /publications/
 </li>
 
 
-<li>
+<!-- <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://zhengyuzhao.github.io/assets/img/video_detect.png" class="teaser img-fluid z-depth-1">
@@ -104,7 +104,7 @@ permalink: /publications/
     </div>
   </div>
 </div>
-</li>
+</li> -->
 
 
 <li>
@@ -143,7 +143,7 @@ permalink: /publications/
 </div>
 </li>
 
-<li>
+<!-- <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://zhengyuzhao.github.io/assets/img/MOT.png" class="teaser img-fluid z-depth-1">
@@ -159,7 +159,7 @@ permalink: /publications/
     </div>
   </div>
 </div>
-</li>
+</li> -->
 
 
 <li>
@@ -198,7 +198,7 @@ permalink: /publications/
 </div>
 </li> 
 
-<li>
+<!-- <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://zhengyuzhao.github.io/assets/img/dr.png" class="teaser img-fluid z-depth-1">
@@ -214,7 +214,7 @@ permalink: /publications/
     </div>
   </div>
 </div>
-</li> 
+</li>  -->
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
@@ -234,7 +234,7 @@ permalink: /publications/
 </div>
 </li>
 
-<li>
+<!-- <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://zhengyuzhao.github.io/assets/img/patch.png" class="teaser img-fluid z-depth-1">
@@ -250,7 +250,7 @@ permalink: /publications/
     </div>
   </div>
 </div>
-</li>
+</li> -->
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
@@ -528,7 +528,7 @@ permalink: /publications/
 </li> 
 
 
-<li>
+<!-- <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://zhengyuzhao.github.io/assets/img/De2Trojan.png" class="teaser img-fluid z-depth-1">
@@ -544,7 +544,7 @@ permalink: /publications/
     </div>
   </div>
 </div>
-</li>
+</li> -->
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
