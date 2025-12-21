@@ -491,7 +491,7 @@ permalink: /publications/
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
       <div class="title"><a href="https://openreview.net/forum?id=NtNTfRTjE8">D3: Training-Free AI-Generated Video Detection Using Second-Order Features</a></div>
-      <div class="author">Chende Zheng, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Le Yang, Shuai Liu, Minghui Yang, Cong Wang, Chao Shen</div>
+      <div class="author">Chende Zheng, Ruiqi Suo, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Le Yang, Shuai Liu, Minghui Yang, Cong Wang, Chao Shen</div>
       <div class="periodical"><em>International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.</em>
       </div>
         <div class="links">
