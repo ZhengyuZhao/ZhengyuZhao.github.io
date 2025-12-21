@@ -29,7 +29,7 @@ permalink: /services/
   <li>CVPR: 2026, 2025, 2024, 2023, 2022</li>
   <li>ICCV: 2025, 2023</li>
   <li>ECCV: 2024, 2022</li>
-  <li>ACL ARR: 2025, 2024, 2023</li>
+  <li>ACL ARR: 2023-present</li>
   <li>AAAI: 2026, 2022</li>
   <li>IJCAI: 2025, 2024</li>
   <li>MM: 2025</li>
