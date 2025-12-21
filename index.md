@@ -14,10 +14,10 @@ In 2021, I received my PhD from <a href="https://www.ru.nl/english/">Radboud Uni
 
 ## Research Interests
 <ul style="margin:-5px 0 25px;width:950px">
-  <li><strong>60% Security of Machine Learning: Foundations</strong> of attacks/defenses<br>
+  <li><strong>60% Adversarial Machine Learning: Foundations</strong> of attacks/defenses<br>
 <!--     (<a href="https://zhengyuzhao.github.io/publications/">USENIX Security'25</a>, <a href="https://arxiv.org/abs/2412.18844">AAAI'25</a>, <a href="https://ieeexplore.ieee.org/document/10858076">TIFS'25</a>, <a href="https://arxiv.org/abs/2312.07364">ICML'24</a>, <a href="https://ieeexplore.ieee.org/document/10795188">TIFS'24</a>, <a href="https://arxiv.org/abs/2305.05875">TIFS'24</a>, <a href="https://arxiv.org/abs/2301.13838">ICML'23</a>, <a href="https://openreview.net/forum?id=zKvm1ETDOq">ICLR'23</a>, <a href="https://arxiv.org/abs/2011.06690">TIFS'23</a>, <a href="https://arxiv.org/abs/2208.14933">CCS'22</a>, <a href="https://arxiv.org/abs/2012.11207">NeurIPS'21</a>,<br><a href="https://arxiv.org/abs/1911.02466">CVPR'20</a>, <a href="https://arxiv.org/abs/2002.01008">BMVC'20</a>, <a href="https://arxiv.org/abs/1901.10332">ICMR'19</a>)-->
     </li> 
-  <li><strong>30% Security of Machine Learning: Applications</strong> of attacks/defenses for (multimodal) generative models, autonomous driving...<br>
+  <li><strong>30% Adversarial Machine Learning: Applications</strong> of attacks/defenses for (multimodal) generative models, autonomous driving...<br>
 <!--     (<a href="https://arxiv.org/abs/2502.08193">NAACL'25</a>,  <a href="https://arxiv.org/abs/2408.11313">NAACL Findings'25</a>, <a href="https://arxiv.org/abs/2403.17301">CVPR'24</a>, <a href="https://arxiv.org/abs/2305.05875">TIFS'24</a>, <a href="https://arxiv.org/abs/2205.15128">TOPS'24</a>, <a href="https://arxiv.org/abs/2301.13838">NAACL Findings'24</a>)-->
     </li> 
   <li><strong>10% Machine Learning for Security:</strong> Detecting AI-generated multimedia, blocking inference of sensitive information...<br>
