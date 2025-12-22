@@ -214,7 +214,6 @@ permalink: /publications/
       </div>
     <div class="links">
       <a href="https://github.com/DennisLiu2022/Membership-Inference-Attacks-by-Exploiting-Loss-Trajectory" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-<!--       <a href="https://zhengyuzhao.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a> -->
     </div>
   </div>
 </div>
@@ -233,9 +232,7 @@ permalink: /publications/
       </div>
     <div class="links">
       <a href="https://github.com/ZhengyuZhao/Targeted-Tansfer" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://nips.cc/virtual/2021/poster/26087" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
       <a href="https://zhuanlan.zhihu.com/p/512550358" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">中文解读</a>
-      <a href="https://ml.cs.tsinghua.edu.cn/ares-bench/#/leaderboard" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Rank Top-1 on ARES Leaderboard</a>
     </div>
   </div>
 </div>
@@ -254,7 +251,6 @@ permalink: /publications/
       </div>
     <div class="links">
       <a href="https://github.com/ZhengyuZhao/PerC-Adversarial" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://www.youtube.com/watch?v=2j74B_9VaJ8" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
     </div>
   </div>
 </div>
@@ -496,7 +492,6 @@ permalink: /publications/
       </div>
     <div class="links">
       <a href="https://github.com/cescalab/screen_gleaning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://www.youtube.com/watch?v=qEXwe58IVFc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
     </div>
   </div>
 </div>
