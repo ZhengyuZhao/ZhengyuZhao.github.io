@@ -28,7 +28,7 @@ permalink: /publications/
       </div>
     <div class="links">
       <a href="https://github.com/ZhengyuZhao/TransferAttackEval" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://mp.weixin.qq.com/s/H4T654l6OQvclvuYFPCiFg" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">机器之心</a>
+      <a href="https://mp.weixin.qq.com/s/H4T654l6OQvclvuYFPCiFg" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">中文解读</a>
 
     </div>
   </div>
