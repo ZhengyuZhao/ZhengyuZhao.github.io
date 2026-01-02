@@ -306,6 +306,24 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://zhengyuzhao.github.io/assets/img/MOT.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">AAAI</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2406.05810">ControlLoc: Physical-World Hijacking Attack on Camera-based Perception in Autonomous Driving</a></div>
+      <div class="author">Chen Ma*, Ningfei Wang*, <strong>Zhengyu Zhao</strong>, Qian Wang, Qi Alfred Chen, Chao Shen</div>
+      <div class="periodical"><em>ACM Conference on Computer and Communications Security <strong>(CCS)</strong>, 2025.</em>
+      </div>
+    <div class="links">
+       <a href="https://zhengyuzhao.github.io/publications/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://zhengyuzhao.github.io/assets/img/patch_defense.png" class="teaser img-fluid z-depth-1">
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
