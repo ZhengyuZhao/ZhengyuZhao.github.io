@@ -139,6 +139,9 @@ permalink: /publications/
       </div>
         <div class="links">
        <a href="https://github.com/yangbo93/Adversarial-Example-Soups" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+       <a href="https://mp.weixin.qq.com/s/ImGVCV5hX-READ0lU8Q4sw" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">中文解读</a>
+
+          
     </div>
   </div>
 </div>
