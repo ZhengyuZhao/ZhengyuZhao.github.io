@@ -289,6 +289,27 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://zhengyuzhao.github.io/assets/img/FUNC.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">CVPR</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://www.arxiv.org/abs/2512.07222">Pay Less Attention to Function Words for Free Robustness of Vision-Language Models</a></div>
+      <div class="author">Qiwei Tian, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Chao Shen</div>
+      <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.</em>
+      </div>
+    <div class="links">
+       <a href="https://github.com/michaeltian108/FDA" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+       <!-- <a href="https://mp.weixin.qq.com/s/2tuVSTC7_Ino63XqC6rLzA" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">中文解读</a> -->
+
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://zhengyuzhao.github.io/assets/img/PATN.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">CVPR</abbr> -->
   </div>
