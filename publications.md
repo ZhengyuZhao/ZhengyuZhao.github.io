@@ -9,7 +9,7 @@ permalink: /publications/
 <br/><br/>
 
 <details>
- <summary><h2 id="publications" style="margin: 0px 0px 0px;">Adversarial Machine Learning: Foundations</h2></summary>
+<summary><h2 id="publications" style="margin: 0px 0px -30px;padding: 0;">Adversarial Machine Learning: Foundations</h2></summary>
 
 <div class="publications">
 <ol class="bibliography">
