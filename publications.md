@@ -8,8 +8,8 @@ permalink: /publications/
 
 <br/><br/>
 
-
-<h2 id="publications" style="margin: 60px 0px -30px;">Adversarial Machine Learning: Foundations</h2>
+<details>
+ <summary><h2 id="publications" style="margin: 60px 0px -30px;">Adversarial Machine Learning: Foundations</h2></summary>
 
 <div class="publications">
 <ol class="bibliography">
@@ -299,7 +299,7 @@ permalink: /publications/
 
 </ol>
 </div>
-
+</details>
 
 <h2 id="publications" style="margin: 60px 0px -30px;">Adversarial Machine Learning: Applications</h2>
 
