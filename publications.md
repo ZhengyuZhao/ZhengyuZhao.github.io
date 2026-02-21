@@ -312,6 +312,25 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://zhengyuzhao.github.io/assets/img/PIV.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">CVPR</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://zhengyuzhao.github.io/publications/">PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems</a></div>
+      <div class="author">Weijie Wang, Songlong Xing, <strong>Zhengyu Zhao</strong>, Nicu Sebe, Bruno Lepri</div>
+      <div class="periodical"><em>IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.</em>
+      </div>
+    <div class="links">
+       <a href="https://zhengyuzhao.github.io/publications/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://zhengyuzhao.github.io/assets/img/PATN.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">CVPR</abbr> -->
   </div>
