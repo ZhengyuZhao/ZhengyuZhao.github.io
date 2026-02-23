@@ -10,8 +10,8 @@ permalink: /publications/
 
 
 <h2 id="publications" style="margin: 30px 0px 10px;">Selected</h2>
-  
-<div class="pub-row" style="margin: 0px 0px 0px;width:950px">As senior author</div>
+## As senior author
+<div class="pub-row" style="margin: 0px 0px 0px;width:950px;font-size:145px">As senior author</div>
 <li><div class="title" style="margin: 0px 0px -8px;width:950px;"><a href="https://zhengyuzhao.github.io/publications/">PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems (CVPR 2026)</a></div></li>
 <li><div class="title" style="margin: 0px 0px -8px;width:950px;"><a href="https://arxiv.org/abs/2310.11850">Revisiting Adversarial Patch Defenses on Object Detectors: Unified Evaluation, Large-Scale Dataset, and New Insights (ICCV 2025)</a></div></li>
 <li><div class="title" style="margin: 0px 0px -8px;width:950px;"><a href="https://arxiv.org/abs/2503.15404">Improving Adversarial Transferability on Vision Transformers via Forward Propagation Refinement (CVPR 2025)</a></div></li>
