@@ -10,11 +10,10 @@ permalink: /publications/
 
 
 <h2 id="publications" style="margin: 60px 0px 0px;">Selected</h2>
-
-<div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
   
 As senior author
-- [PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems (CVPR 2026)](https://zhengyuzhao.github.io/publications/)
+<li><div class="title"><a href="https://www.arxiv.org/abs/2512.07222">Pay Less Attention to Function Words for Free Robustness of Vision-Language Models (ICLR 2026)</a></div></li>
+<li><div class="title"><a href="https://zhengyuzhao.github.io/publications/">PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems (CVPR 2026)</a></div></li>
 - [Revisiting Adversarial Patch Defenses on Object Detectors: Unified Evaluation, Large-Scale Dataset, and New Insights (ICCV 2025)](https://arxiv.org/abs/2310.11850)
 - [Improving Adversarial Transferability on Vision Transformers via Forward Propagation Refinement (CVPR 2025)](https://arxiv.org/abs/2503.15404)
 - [CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP (CVPR 2025)](https://arxiv.org/abs/2503.03613)
@@ -27,8 +26,6 @@ As senior author
 - [Is Adversarial Training Really a Silver Bullet for Mitigating Data Poisoning? (ICLR 2023 Spotlight)](https://openreview.net/forum?id=zKvm1ETDOq)
 - [Membership Inference Attacks by Exploiting Loss Trajectory (CCS 2022)](https://arxiv.org/abs/2208.14933)
 
-</div>
-
 As junior author
 - [Revisiting Transferable Adversarial Image Examples: Attack Categorization, Evaluation Guidelines, and New Insights (TPAMI 2025)](https://arxiv.org/abs/2310.11850)
 - [Adversarial Image Color Transformations in Explicit Color Filter Space (TIFS 2023)](https://arxiv.org/abs/2011.06690)
@@ -38,7 +35,6 @@ As junior author
 - [Adversarial Color Enhancement: Generating Unrestricted Adversarial Images by Optimizing a Color Filter (BMVC 2020)](https://arxiv.org/abs/2002.01008)
 - [Who's Afraid of Adversarial Queries? The Impact of Image Modifications on Content-based Image Retrieval (ICMR 2019)](https://arxiv.org/abs/1901.10332)
 - [From Volcano to Toyshop: Adaptive Discriminative Region Discovery for Scene Recognition (MM 2018)](https://arxiv.org/abs/1807.08624)
-
 
 
 <details>
