@@ -8,12 +8,48 @@ permalink: /publications/
 
 <br/><br/>
 
+
+<h2 id="publications" style="margin: 60px 0px -30px;display: inline-block;">Selected</h2>
+
+As senior author
+
+- [PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems (CVPR 2026)](https://zhengyuzhao.github.io/publications/)
+- [Revisiting Adversarial Patch Defenses on Object Detectors: Unified Evaluation, Large-Scale Dataset, and New Insights (ICCV 2025)](https://arxiv.org/abs/2310.11850)
+- [Improving Adversarial Transferability on Vision Transformers via Forward Propagation Refinement (CVPR 2025)](https://arxiv.org/abs/2503.15404)
+- [CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP (CVPR 2025)](https://arxiv.org/abs/2503.03613)
+- [Improving Integrated Gradient-based Transferable Adversarial Examples by Refining the Integration Path (AAAI 2025)](https://arxiv.org/abs/2412.18844)
+- [Revisiting Training-Inference Trigger Intensity in Backdoor Attacks (USENIX Security 2025)](https://arxiv.org/abs/2503.12058)
+- [Universally Unfiltered and Unseen: Input-Agnostic Multimodal Jailbreaks against Text-to-Image Model Safeguards (MM 2025)](https://arxiv.org/abs/2508.05658)
+- [Typographic Attacks in a Multi-Image Setting (NAACL 2025)](https://arxiv.org/abs/2502.08193)
+- [Adversarial Example Soups: Improving Transferability and Stealthiness for Free (TIFS 2025)](https://arxiv.org/abs/2402.18370)
+- [Image Shortcut Squeezing: Countering Perturbative Availability Poisons with Compression (ICML 2023)](https://arxiv.org/abs/2301.13838)
+- [Is Adversarial Training Really a Silver Bullet for Mitigating Data Poisoning? (ICLR 2023 Spotlight)](https://openreview.net/forum?id=zKvm1ETDOq)
+- [Membership Inference Attacks by Exploiting Loss Trajectory (CCS 2022)](https://arxiv.org/abs/2208.14933)
+
+As junior author
+- [Revisiting Transferable Adversarial Image Examples: Attack Categorization, Evaluation Guidelines, and New Insights (TPAMI 2025)](https://arxiv.org/abs/2310.11850)
+- [Adversarial Image Color Transformations in Explicit Color Filter Space (TIFS 2023)](https://arxiv.org/abs/2011.06690)
+- [On Success and Simplicity: A Second Look at Transferable Targeted Attacks (NeurIPS 2021)](https://arxiv.org/abs/2012.11207)
+- [Screen Gleaning: A Screen Reading TEMPEST Attack on Mobile Devices Exploiting an Electromagnetic Side Channel (NDSS 2021)](https://arxiv.org/abs/2011.09877)
+- [Towards Large yet Imperceptible Adversarial Image Perturbations with Perceptual Color Distance (CVPR 2020)](https://arxiv.org/abs/1911.02466)
+- [Adversarial Color Enhancement: Generating Unrestricted Adversarial Images by Optimizing a Color Filter (BMVC 2020)](https://arxiv.org/abs/2002.01008)
+- [Who's Afraid of Adversarial Queries? The Impact of Image Modifications on Content-based Image Retrieval (ICMR 2019)](https://arxiv.org/abs/1901.10332)
+- [From Volcano to Toyshop: Adaptive Discriminative Region Discovery for Scene Recognition (MM 2018)](https://arxiv.org/abs/1807.08624)
+
+<div class="publications">
+<ol class="bibliography">
+
+
+
+</ol>
+</div>
+
+
 <details>
 <summary><h2 id="publications" style="margin: 60px 0px -30px;display: inline-block;">Adversarial Machine Learning: Foundations</h2></summary>
 
 <div class="publications">
 <ol class="bibliography">
-
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
