@@ -26,7 +26,7 @@ permalink: /publications/
 <li><div class="title" style="width:950px;"><a href="https://arxiv.org/abs/2208.14933">Membership Inference Attacks by Exploiting Loss Trajectory (CCS 2022)</a></div></li>
 
 
-<div class="pub-row" style="margin: 0px 0px -5px;width:950px">As junior author</div>
+<div class="pub-row" style="margin: 20px 0px -5px;width:950px">As junior author</div>
 <li><div class="title" style="width:950px;"><a href="https://arxiv.org/abs/2310.11850">Revisiting Transferable Adversarial Image Examples: Attack Categorization, Evaluation Guidelines, and New Insights (TPAMI 2025)</a></div></li>
 <li><div class="title" style="width:950px;"><a href="https://arxiv.org/abs/2011.06690">Adversarial Image Color Transformations in Explicit Color Filter Space (TIFS 2023)</a></div></li>
 <li><div class="title" style="width:950px;"><a href="https://arxiv.org/abs/2012.11207">On Success and Simplicity: A Second Look at Transferable Targeted Attacks (NeurIPS 2021)</a></div></li>
