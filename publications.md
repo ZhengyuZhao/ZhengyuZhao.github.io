@@ -9,10 +9,9 @@ permalink: /publications/
 <br/><br/>
 
 
-<h2 id="publications" style="margin: 60px 0px -30px;">Selected</h2>
+<h2 id="publications" style="margin: 60px 0px 0px;width:950px">Selected</h2>
 
 As senior author
-
 - [PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems (CVPR 2026)](https://zhengyuzhao.github.io/publications/)
 - [Revisiting Adversarial Patch Defenses on Object Detectors: Unified Evaluation, Large-Scale Dataset, and New Insights (ICCV 2025)](https://arxiv.org/abs/2310.11850)
 - [Improving Adversarial Transferability on Vision Transformers via Forward Propagation Refinement (CVPR 2025)](https://arxiv.org/abs/2503.15404)
