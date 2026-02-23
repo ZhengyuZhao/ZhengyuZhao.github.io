@@ -9,7 +9,7 @@ permalink: /publications/
 <br/><br/>
 
 
-<h2 id="publications" style="margin: 60px 0px -30px;display: inline-block;">Selected</h2>
+<h2 id="publications" style="margin: 60px 0px -30px;">Selected</h2>
 
 As senior author
 
