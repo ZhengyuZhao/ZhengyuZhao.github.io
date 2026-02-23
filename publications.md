@@ -13,7 +13,7 @@ permalink: /publications/
   
 As senior author
 <li><div class="title"><a href="https://www.arxiv.org/abs/2512.07222">Pay Less Attention to Function Words for Free Robustness of Vision-Language Models (ICLR 2026)</a></div></li>
-<li><div class="title"><a href="https://zhengyuzhao.github.io/publications/">PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems (CVPR 2026)</a></div></li>
+<li><div class="title" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;"><a href="https://zhengyuzhao.github.io/publications/">PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems (CVPR 2026)</a></div></li>
 - [Revisiting Adversarial Patch Defenses on Object Detectors: Unified Evaluation, Large-Scale Dataset, and New Insights (ICCV 2025)](https://arxiv.org/abs/2310.11850)
 - [Improving Adversarial Transferability on Vision Transformers via Forward Propagation Refinement (CVPR 2025)](https://arxiv.org/abs/2503.15404)
 - [CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP (CVPR 2025)](https://arxiv.org/abs/2503.03613)
