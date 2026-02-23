@@ -11,10 +11,9 @@ permalink: /publications/
 
 <h2 id="publications" style="margin: 60px 0px 0px;">Selected</h2>
 
-<div class="publications">
-<ol class="bibliography">
-As senior author
+<div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
   
+As senior author
 - [PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems (CVPR 2026)](https://zhengyuzhao.github.io/publications/)
 - [Revisiting Adversarial Patch Defenses on Object Detectors: Unified Evaluation, Large-Scale Dataset, and New Insights (ICCV 2025)](https://arxiv.org/abs/2310.11850)
 - [Improving Adversarial Transferability on Vision Transformers via Forward Propagation Refinement (CVPR 2025)](https://arxiv.org/abs/2503.15404)
@@ -28,13 +27,9 @@ As senior author
 - [Is Adversarial Training Really a Silver Bullet for Mitigating Data Poisoning? (ICLR 2023 Spotlight)](https://openreview.net/forum?id=zKvm1ETDOq)
 - [Membership Inference Attacks by Exploiting Loss Trajectory (CCS 2022)](https://arxiv.org/abs/2208.14933)
 
-</ol>
 </div>
 
-<div class="publications">
-<ol class="bibliography">
 As junior author
-
 - [Revisiting Transferable Adversarial Image Examples: Attack Categorization, Evaluation Guidelines, and New Insights (TPAMI 2025)](https://arxiv.org/abs/2310.11850)
 - [Adversarial Image Color Transformations in Explicit Color Filter Space (TIFS 2023)](https://arxiv.org/abs/2011.06690)
 - [On Success and Simplicity: A Second Look at Transferable Targeted Attacks (NeurIPS 2021)](https://arxiv.org/abs/2012.11207)
@@ -44,8 +39,6 @@ As junior author
 - [Who's Afraid of Adversarial Queries? The Impact of Image Modifications on Content-based Image Retrieval (ICMR 2019)](https://arxiv.org/abs/1901.10332)
 - [From Volcano to Toyshop: Adaptive Discriminative Region Discovery for Scene Recognition (MM 2018)](https://arxiv.org/abs/1807.08624)
 
-</ol>
-</div>
 
 
 <details>
