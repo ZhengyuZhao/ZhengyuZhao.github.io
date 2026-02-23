@@ -543,7 +543,7 @@ As junior author
       </div>
     <div class="links">
       <a href="https://github.com/ZhengyuZhao/AdvColorFilter/tree/master/Journal_version" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://www.bmvc2020-conference.com/assets/papers/0099.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Preliminary version@BMVC 2020</a>
+      <a href="https://arxiv.org/abs/2002.01008" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Preliminary version@BMVC 2020</a>
     </div>
   </div>
 </div>
