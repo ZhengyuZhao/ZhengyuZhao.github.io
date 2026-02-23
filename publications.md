@@ -13,7 +13,7 @@ permalink: /publications/
 
 ### As senior author
 <!-- <div class="pub-row" style="margin: 0px 0px 0px;width:950px;font-size:145px">As senior author</div> -->
-<li><div class="title" style="margin: -30px 0px -8px;width:950px;"><a href="https://zhengyuzhao.github.io/publications/">PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems (CVPR 2026)</a></div></li>
+<li><div class="title" style="margin: -25px 0px -8px;width:950px;"><a href="https://zhengyuzhao.github.io/publications/">PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems (CVPR 2026)</a></div></li>
 <li><div class="title" style="margin: 0px 0px -8px;width:950px;"><a href="https://arxiv.org/abs/2310.11850">Revisiting Adversarial Patch Defenses on Object Detectors: Unified Evaluation, Large-Scale Dataset, and New Insights (ICCV 2025)</a></div></li>
 <li><div class="title" style="margin: 0px 0px -8px;width:950px;"><a href="https://arxiv.org/abs/2503.15404">Improving Adversarial Transferability on Vision Transformers via Forward Propagation Refinement (CVPR 2025)</a></div></li>
 <li><div class="title" style="margin: 0px 0px -8px;width:950px;"><a href="https://arxiv.org/abs/2503.03613">CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP (CVPR 2025)</a></div></li>
@@ -28,7 +28,7 @@ permalink: /publications/
 
 ### As junior author
 <!-- <div class="pub-row" style="margin: 10px 0px -5px;width:950px">As junior author</div> -->
-<li><div class="title" style="margin: -30px 0px -8px;width:950px;"><a href="https://arxiv.org/abs/2310.11850">Revisiting Transferable Adversarial Image Examples: Attack Categorization, Evaluation Guidelines, and New Insights (TPAMI 2025)</a></div></li>
+<li><div class="title" style="margin: -25px 0px -8px;width:950px;"><a href="https://arxiv.org/abs/2310.11850">Revisiting Transferable Adversarial Image Examples: Attack Categorization, Evaluation Guidelines, and New Insights (TPAMI 2025)</a></div></li>
 <li><div class="title" style="margin: 0px 0px -8px;width:950px;"><a href="https://arxiv.org/abs/2011.06690">Adversarial Image Color Transformations in Explicit Color Filter Space (TIFS 2023)</a></div></li>
 <li><div class="title" style="margin: 0px 0px -8px;width:950px;"><a href="https://arxiv.org/abs/2012.11207">On Success and Simplicity: A Second Look at Transferable Targeted Attacks (NeurIPS 2021)</a></div></li>
 <li><div class="title" style="margin: 0px 0px -8px;width:950px;"><a href="https://arxiv.org/abs/2011.09877">Screen Gleaning: A Screen Reading TEMPEST Attack on Mobile Devices Exploiting an Electromagnetic Side Channel (NDSS 2021)</a></div></li>
