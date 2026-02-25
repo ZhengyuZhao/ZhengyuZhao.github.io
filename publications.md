@@ -15,26 +15,26 @@ permalink: /publications/
 <!-- <div class="pub-row" style="margin: 0px 0px 0px;width:950px;font-size:145px">As senior author</div> -->
 <li><div class="title" style="margin: -25px 0px -5px;width:950px;"><a href="https://zhengyuzhao.github.io/publications/">PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems (CVPR 2026)</a></div></li>
 <!-- <li><div class="title" style="margin: 0px 0px -8px;width:950px;"><a href="https://arxiv.org/abs/2310.11850">Revisiting Adversarial Patch Defenses on Object Detectors: Unified Evaluation, Large-Scale Dataset, and New Insights (ICCV 2025)</a></div></li> -->
-<li><div class="title" style="margin: 0px 0px -10px;width:950px;"><a href="https://arxiv.org/abs/2503.15404">Improving Adversarial Transferability on Vision Transformers via Forward Propagation Refinement (CVPR 2025)</a></div></li>
-<li><div class="title" style="margin: 0px 0px -10px;width:950px;"><a href="https://arxiv.org/abs/2503.03613">CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP (CVPR 2025)</a></div></li>
-<li><div class="title" style="margin: 0px 0px -10px;width:950px;"><a href="https://arxiv.org/abs/2412.18844">Improving Integrated Gradient-based Transferable Adversarial Examples by Refining the Integration Path (AAAI 2025)</a></div></li>
-<li><div class="title" style="margin: 0px 0px -10px;width:950px;"><a href="https://arxiv.org/abs/2503.12058">Revisiting Training-Inference Trigger Intensity in Backdoor Attacks (USENIX Security 2025)</a></div></li>
+<li><div class="title" style="margin: 0px 0px -6px;width:950px;"><a href="https://arxiv.org/abs/2503.15404">Improving Adversarial Transferability on Vision Transformers via Forward Propagation Refinement (CVPR 2025)</a></div></li>
+<li><div class="title" style="margin: 0px 0px -6px;width:950px;"><a href="https://arxiv.org/abs/2503.03613">CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP (CVPR 2025)</a></div></li>
+<li><div class="title" style="margin: 0px 0px -6px;width:950px;"><a href="https://arxiv.org/abs/2412.18844">Improving Integrated Gradient-based Transferable Adversarial Examples by Refining the Integration Path (AAAI 2025)</a></div></li>
+<li><div class="title" style="margin: 0px 0px -6px;width:950px;"><a href="https://arxiv.org/abs/2503.12058">Revisiting Training-Inference Trigger Intensity in Backdoor Attacks (USENIX Security 2025)</a></div></li>
 <!-- <li><div class="title" style="margin: 0px 0px -8px;width:950px;"><a href="https://arxiv.org/abs/2508.05658">Universally Unfiltered and Unseen: Input-Agnostic Multimodal Jailbreaks against Text-to-Image Model Safeguards (MM 2025)</a></div></li> -->
-<li><div class="title" style="margin: 0px 0px -10px;width:950px;"><a href="https://arxiv.org/abs/2502.08193">Typographic Attacks in a Multi-Image Setting (NAACL 2025)</a></div></li>
-<li><div class="title" style="margin: 0px 0px -10px;width:950px;"><a href="https://arxiv.org/abs/2402.18370">Adversarial Example Soups: Improving Transferability and Stealthiness for Free (TIFS 2025)</a></div></li>
-<li><div class="title" style="margin: 0px 0px -10px;width:950px;"><a href="https://arxiv.org/abs/2301.13838">Image Shortcut Squeezing: Countering Perturbative Availability Poisons with Compression (ICML 2023)</a></div></li>
-<li><div class="title" style="margin: 0px 0px -10px;width:950px;"><a href="https://openreview.net/forum?id=zKvm1ETDOq">Is Adversarial Training Really a Silver Bullet for Mitigating Data Poisoning? (ICLR 2023 Spotlight)</a></div></li>
+<li><div class="title" style="margin: 0px 0px -6px;width:950px;"><a href="https://arxiv.org/abs/2502.08193">Typographic Attacks in a Multi-Image Setting (NAACL 2025)</a></div></li>
+<li><div class="title" style="margin: 0px 0px -6px;width:950px;"><a href="https://arxiv.org/abs/2402.18370">Adversarial Example Soups: Improving Transferability and Stealthiness for Free (TIFS 2025)</a></div></li>
+<li><div class="title" style="margin: 0px 0px -6px;width:950px;"><a href="https://arxiv.org/abs/2301.13838">Image Shortcut Squeezing: Countering Perturbative Availability Poisons with Compression (ICML 2023)</a></div></li>
+<li><div class="title" style="margin: 0px 0px -6px;width:950px;"><a href="https://openreview.net/forum?id=zKvm1ETDOq">Is Adversarial Training Really a Silver Bullet for Mitigating Data Poisoning? (ICLR 2023 Spotlight)</a></div></li>
 <li><div class="title" style="margin: 0px 0px 10px;width:950px;"><a href="https://arxiv.org/abs/2208.14933">Membership Inference Attacks by Exploiting Loss Trajectory (CCS 2022)</a></div></li>
 
 ### As junior author
 <!-- <div class="pub-row" style="margin: 10px 0px -5px;width:950px">As junior author</div> -->
 <li><div class="title" style="margin: -25px 0px -5px;width:950px;"><a href="https://arxiv.org/abs/2310.11850">Revisiting Transferable Adversarial Image Examples: Attack Categorization, Evaluation Guidelines, and New Insights (TPAMI 2025)</a></div></li>
-<li><div class="title" style="margin: 0px 0px -10px;width:950px;"><a href="https://arxiv.org/abs/2011.06690">Adversarial Image Color Transformations in Explicit Color Filter Space (TIFS 2023)</a></div></li>
-<li><div class="title" style="margin: 0px 0px -10px;width:950px;"><a href="https://arxiv.org/abs/2012.11207">On Success and Simplicity: A Second Look at Transferable Targeted Attacks (NeurIPS 2021)</a></div></li>
-<li><div class="title" style="margin: 0px 0px -10px;width:950px;"><a href="https://arxiv.org/abs/2011.09877">Screen Gleaning: A Screen Reading TEMPEST Attack on Mobile Devices Exploiting an Electromagnetic Side Channel (NDSS 2021)</a></div></li>
-<li><div class="title" style="margin: 0px 0px -10px;width:950px;"><a href="https://arxiv.org/abs/1911.02466">Towards Large yet Imperceptible Adversarial Image Perturbations with Perceptual Color Distance (CVPR 2020)</a></div></li>
-<li><div class="title" style="margin: 0px 0px -10px;width:950px;"><a href="https://arxiv.org/abs/2002.01008">Adversarial Color Enhancement: Generating Unrestricted Adversarial Images by Optimizing a Color Filter (BMVC 2020)</a></div></li>
-<li><div class="title" style="margin: 0px 0px -10px;width:950px;"><a href="https://arxiv.org/abs/1901.10332">Who's Afraid of Adversarial Queries? The Impact of Image Modifications on Content-based Image Retrieval (ICMR 2019)</a></div></li>
+<li><div class="title" style="margin: 0px 0px -6px;width:950px;"><a href="https://arxiv.org/abs/2011.06690">Adversarial Image Color Transformations in Explicit Color Filter Space (TIFS 2023)</a></div></li>
+<li><div class="title" style="margin: 0px 0px -6px;width:950px;"><a href="https://arxiv.org/abs/2012.11207">On Success and Simplicity: A Second Look at Transferable Targeted Attacks (NeurIPS 2021)</a></div></li>
+<li><div class="title" style="margin: 0px 0px -6px;width:950px;"><a href="https://arxiv.org/abs/2011.09877">Screen Gleaning: A Screen Reading TEMPEST Attack on Mobile Devices Exploiting an Electromagnetic Side Channel (NDSS 2021)</a></div></li>
+<li><div class="title" style="margin: 0px 0px -6px;width:950px;"><a href="https://arxiv.org/abs/1911.02466">Towards Large yet Imperceptible Adversarial Image Perturbations with Perceptual Color Distance (CVPR 2020)</a></div></li>
+<li><div class="title" style="margin: 0px 0px -6px;width:950px;"><a href="https://arxiv.org/abs/2002.01008">Adversarial Color Enhancement: Generating Unrestricted Adversarial Images by Optimizing a Color Filter (BMVC 2020)</a></div></li>
+<li><div class="title" style="margin: 0px 0px -6px;width:950px;"><a href="https://arxiv.org/abs/1901.10332">Who's Afraid of Adversarial Queries? The Impact of Image Modifications on Content-based Image Retrieval (ICMR 2019)</a></div></li>
 <li><div class="title" style="margin: 0px 0px 0px;width:950px;"><a href="https://arxiv.org/abs/1807.08624">From Volcano to Toyshop: Adaptive Discriminative Region Discovery for Scene Recognition (MM 2018)</a></div></li>
 
 
