@@ -14,11 +14,11 @@ In 2017-2021, I did my PhD at <a href="https://www.ru.nl/english/">Radboud Unive
 
 ## Research Interests
 <ul style="margin:-5px 0 25px;width:950px">
-  <li><strong>60% Adversarial Machine Learning: Foundations</strong> of attacks/defenses<br>
+  <li><strong>50% Adversarial Machine Learning: Foundations</strong> of attacks/defenses<br>
     </li> 
   <li><strong>30% Adversarial Machine Learning: Applications</strong> of attacks/defenses for (multimodal) generative models, autonomous driving...<br>
     </li> 
-  <li><strong>10% Machine Learning for Security/Safety:</strong> AI-generated content detection and moderation...<br>
+  <li><strong>20% Machine Learning for Security/Safety:</strong> (AI-generated) multimedia content moderation...<br>
     </li> 
 </ul>
 
