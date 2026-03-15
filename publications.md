@@ -47,6 +47,24 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://zhengyuzhao.github.io/assets/img/CLIProbust_2026.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">CVPR</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://zhengyuzhao.github.io/publications/">Finetune Like You Pretrain: Boosting Zero-shot Adversarial Robustness in Vision-language Models</a></div>
+      <div class="author">Songlong Xing, Weijie Wang, <strong>Zhengyu Zhao</strong>, Jindong Gu, Philip Torr, Nicu Sebe </div>
+      <div class="periodical"><em>IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong> Findings, 2026.</em>
+      </div>
+    <div class="links">
+       <a href="https://zhengyuzhao.github.io/publications/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://zhengyuzhao.github.io/assets/img/FUNC.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">CVPR</abbr> -->
   </div>
