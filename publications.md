@@ -28,7 +28,7 @@ permalink: /publications/
 
 ### As junior author
 <!-- <div class="pub-row" style="margin: 10px 0px -5px;width:950px">As junior author</div> -->
-<li><div class="title" style="margin: -25px 0px -5px;width:950px;"><a href="https://arxiv.org/abs/2310.11850">Revisiting Transferable Adversarial Image Examples: Attack Categorization, Evaluation Guidelines, and New Insights (TPAMI 2025)</a></div></li>
+<li><div class="title" style="margin: -25px 0px -5px;width:950px;"><a href="https://arxiv.org/abs/2310.11850">Revisiting Transferable Adversarial Images: Systemization, Evaluation, and New Insights (TPAMI 2025)</a></div></li>
 <li><div class="title" style="margin: 0px 0px -6px;width:950px;"><a href="https://arxiv.org/abs/2011.06690">Adversarial Image Color Transformations in Explicit Color Filter Space (TIFS 2023)</a></div></li>
 <li><div class="title" style="margin: 0px 0px -6px;width:950px;"><a href="https://arxiv.org/abs/2012.11207">On Success and Simplicity: A Second Look at Transferable Targeted Attacks (NeurIPS 2021)</a></div></li>
 <!-- <li><div class="title" style="margin: 0px 0px -6px;width:950px;"><a href="https://arxiv.org/abs/2011.09877">Screen Gleaning: A Screen Reading TEMPEST Attack on Mobile Devices Exploiting an Electromagnetic Side Channel (NDSS 2021)</a></div></li> -->
@@ -89,7 +89,7 @@ permalink: /publications/
 <!--             <abbr class="badge">arXiv</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2310.11850">Revisiting Transferable Adversarial Image Examples: Attack Categorization, Evaluation Guidelines, and New Insights</a></div>
+      <div class="title"><a href="https://arxiv.org/abs/2310.11850">Revisiting Transferable Adversarial Images: Systemization, Evaluation, and New Insights</a></div>
       <div class="author"><strong>Zhengyu Zhao</strong>, Hanwei Zhang, Renjue Li, Ronan Sicre, Laurent Amsaleg, Michael Backes, Qi Li, Qian Wang, Chao Shen</div>
       <div class="periodical"><em>IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, 2025.</em>
       </div>
