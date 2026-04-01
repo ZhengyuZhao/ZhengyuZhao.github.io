@@ -27,7 +27,7 @@ permalink: /group/
 
   <li>Fatong Zhang (2026.09- )<br></li>
 
-  <li>Donglin Dong (2026.09-, with <a href="https://gr.xjtu.edu.cn/en/web/cshen">Prof. Chao Shen</a>)<br></li>
+  <li>Honglin Dong (2026.09-, with <a href="https://gr.xjtu.edu.cn/en/web/cshen">Prof. Chao Shen</a>)<br></li>
   
   <li>Zikang Fang (2026.09-, with <a href="https://gr.xjtu.edu.cn/en/web/cshen">Prof. Chao Shen</a>)<br></li>
 
