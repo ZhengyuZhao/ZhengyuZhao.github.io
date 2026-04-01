@@ -25,6 +25,12 @@ permalink: /group/
 <ul style="margin:0 0 5px;">
   <li>Zhen Wang (2026.09- )<br></li>
 
+  <li>Fatong Zhang (2026.09- )<br></li>
+
+  <li>Donglin Dong (2026.09-, with <a href="https://gr.xjtu.edu.cn/en/web/cshen">Prof. Chao Shen</a>)<br></li>
+  
+  <li>Zikang Fang (2026.09-, with <a href="https://gr.xjtu.edu.cn/en/web/cshen">Prof. Chao Shen</a>)<br></li>
+
   <li>Jing Li (2025.09- )<br></li>
 
   <li>Shuaidong Li (2025.09- )<br></li>
@@ -41,11 +47,15 @@ permalink: /group/
 
 <h4 style="margin:0 10px 0;">Visiting PhD Students</h4>
 <ul style="margin:0 0 5px;">
+  
   <li><a href="https://github.com/yangbo93">Bo Yang</a> (2024.03-2025.04), Information Engineering University, China<br>
   <strong>First-author publications:</strong> <a href="https://ieeexplore.ieee.org/document/10858076">TIFS 2025</a>, <a href="https://arxiv.org/abs/2505.12644">arXiv 2025</a></li>
 
+  <li><a href="https://scholar.google.com/citations?user=AtB0KFsAAAAJ&hl">Weijie Wang</a> (2023.02-2025.07, remote), University of Trento, Italy<br>
+  <strong>First-author publications:</strong> <a href="https://arxiv.org/abs/2309.01104">arXiv 2023</a>, CVPR 2026</li>
+
   <li><a href="https://openreview.net/profile?id=~Songlong_Xing1">Songlong Xing</a> (2024.03-2025.03, remote), University of Trento, Italy<br>
-  <strong>First-author publications:</strong> <a href="https://arxiv.org/abs/2503.03613">CVPR 2025</a></li>
+  <strong>First-author publications:</strong> <a href="https://arxiv.org/abs/2503.03613">CVPR 2025</a>, CVPR Findings 2026</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Undergraduate Interns</h4>
