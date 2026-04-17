@@ -51,12 +51,12 @@ permalink: /publications/
 <!--             <abbr class="badge">CVPR</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://zhengyuzhao.github.io/publications/">Finetune Like You Pretrain: Boosting Zero-shot Adversarial Robustness in Vision-language Models</a></div>
+      <div class="title"><a href="https://arxiv.org/abs/2604.11576">Finetune Like You Pretrain: Boosting Zero-shot Adversarial Robustness in Vision-language Models</a></div>
       <div class="author">Songlong Xing, Weijie Wang, <strong>Zhengyu Zhao</strong>, Jindong Gu, Philip Torr, Nicu Sebe </div>
       <div class="periodical"><em>IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong> Findings, 2026.</em>
       </div>
     <div class="links">
-       <a href="https://zhengyuzhao.github.io/publications/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+       <a href="https://github.com/Sxing2/AdvFLYP" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
