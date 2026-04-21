@@ -13,7 +13,7 @@ permalink: /publications/
 
 ### As senior author
 <!-- <div class="pub-row" style="margin: 0px 0px 0px;width:950px;font-size:145px">As senior author</div> -->
-<li><div class="title" style="margin: -25px 0px -5px;width:950px;"><a href="https://zhengyuzhao.github.io/publications/">PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems (CVPR 2026)</a></div></li>
+<li><div class="title" style="margin: -25px 0px -5px;width:950px;"><a href="https://arxiv.org/abs/2604.16540">PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems (CVPR 2026)</a></div></li>
 <!-- <li><div class="title" style="margin: 0px 0px -8px;width:950px;"><a href="https://arxiv.org/abs/2310.11850">Revisiting Adversarial Patch Defenses on Object Detectors: Unified Evaluation, Large-Scale Dataset, and New Insights (ICCV 2025)</a></div></li> -->
 <li><div class="title" style="margin: 0px 0px -6px;width:950px;"><a href="https://arxiv.org/abs/2503.15404">Improving Adversarial Transferability on Vision Transformers via Forward Propagation Refinement (CVPR 2025)</a></div></li>
 <li><div class="title" style="margin: 0px 0px -6px;width:950px;"><a href="https://arxiv.org/abs/2503.03613">CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP (CVPR 2025)</a></div></li>
@@ -363,7 +363,7 @@ permalink: /publications/
 <!--             <abbr class="badge">CVPR</abbr> -->
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://zhengyuzhao.github.io/publications/">PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems</a></div>
+      <div class="title"><a href="https://arxiv.org/abs/2604.16540">PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems</a></div>
       <div class="author">Weijie Wang, Songlong Xing, <strong>Zhengyu Zhao</strong>, Nicu Sebe, Bruno Lepri</div>
       <div class="periodical"><em>IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.</em>
       </div>
