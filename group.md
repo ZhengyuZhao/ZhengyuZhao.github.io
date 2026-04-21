@@ -16,7 +16,7 @@ permalink: /group/
   <li><a href="https://github.com/RYC-98">Yuchen Ren</a> (2024.09- )<br>
   <strong>First-author publications:</strong> <a href="https://arxiv.org/abs/2412.18844">AAAI 2025</a>, <a href="https://arxiv.org/abs/2503.15404">CVPR 2025</a></li>
   
-  <li><a href="https://scholar.google.com/citations?user=dV15IwIAAAAJ">Xiaomeng Wang</a> (2023.09- ), Radboud University, Netherlands (with <a href="https://www.ru.nl/en/people/larson-m">Prof. Martha Larson</a>)<br>
+  <li><a href="https://scholar.google.com/citations?user=dV15IwIAAAAJ">Xiaomeng Wang</a> (2023.09- ), Radboud University, Netherlands (co-supervised with <a href="https://www.ru.nl/en/people/larson-m">Prof. Martha Larson</a>)<br>
   <strong>First-author publications:</strong> <a href="https://arxiv.org/abs/2502.08193">NAACL 2025</a>, <a href="https://zhengyuzhao.github.io/group/">ICMR 2026</a></li>
 </ul>
 
@@ -27,17 +27,17 @@ permalink: /group/
 
   <li>Fatong Zhang (2026.09- )<br></li>
 
-  <li>Honglin Dong (2026.09-, with <a href="https://gr.xjtu.edu.cn/en/web/cshen">Prof. Chao Shen</a>)<br></li>
+  <li>Honglin Dong (2026.09- )<br></li>
   
-  <li>Zikang Fang (2026.09-, with <a href="https://gr.xjtu.edu.cn/en/web/cshen">Prof. Chao Shen</a>)<br></li>
+  <li>Zikang Fang (2026.09- )<br></li>
 
   <li>Jing Li (2025.09- )<br></li>
 
   <li>Shuaidong Li (2025.09- )<br></li>
 
-  <li>Shunyuan Bai (2025.09-, with <a href="https://gr.xjtu.edu.cn/en/web/cshen">Prof. Chao Shen</a>)<br></li>
+  <li>Shunyuan Bai (2025.09- )<br></li>
   
-  <li>Xinshan Yang (2024.09-, with <a href="https://gr.xjtu.edu.cn/en/web/cshen">Prof. Chao Shen</a>)<br></li>
+  <li>Xinshan Yang (2024.09- )<br></li>
 
   <li>Ziyi Jia (2024.09- )<br></li>
 
