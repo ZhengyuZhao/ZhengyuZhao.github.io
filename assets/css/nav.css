@@ -15,20 +15,26 @@
     width: 100%;
     
     /* 以下是新增的修复代码 */
-    /* display: flex;          /* 启用弹性布局 */ */
-    /* flex-wrap: nowrap;      /* 强制所有项目在一行内显示，禁止换行 */ */
-    /* overflow-x: auto;       /* 如果内容超出宽度，显示横向滚动条（可选，但推荐） */ */
-    /* align-items: center;    /* 垂直居中对齐（可选，美化效果） */ */
+    display: flex;          /* 启用弹性布局 */
+    flex-wrap: nowrap;      /* 强制所有项目在一行内显示，禁止换行 */
+    overflow-x: auto;       /* 如果内容超出宽度，显示横向滚动条（可选，但推荐） */
+    align-items: center;    /* 垂直居中对齐（可选，美化效果） */
+	-webkit-overflow-scrolling: touch; /* 移动端平滑滚动 */
+
 }
 
+.topnav > a {
+    flex-shrink: 0;         /* 禁止子元素被压缩 */
+    white-space: nowrap;    /* 禁止子元素内部文字换行 */
+
+}
   .topnav #myLinks {
     display: inline;
   }
 
 .topnav a.icon {
-    display: inline-block;    /* 确保它们是行内块级元素 */
-    white-space: nowrap;      /* 文字不换行 */
-    /* display: none; */
+
+    display: none;
 }
 
   .topnav img {
@@ -39,8 +45,6 @@
   
   /* Style the links inside the navigation bar */
   .topnav a.normal {
-    display: inline-block;    /* 确保它们是行内块级元素 */
-    white-space: nowrap;      /* 文字不换行 */
     float: right;
     color: #043361;
     text-align: center;
