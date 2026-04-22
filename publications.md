@@ -8,8 +8,7 @@ permalink: /publications/
 
 <br/><br/>
 
-
-<h2 id="publications" style="margin: 30px 0px 10px;">⭐Selected</h2>
+<h2 style="margin: 60px 0px 10px;">⭐Selected</h2>
 
 ### As senior author
 <!-- <div class="pub-row" style="margin: 0px 0px 0px;width:950px;font-size:145px">As senior author</div> -->
