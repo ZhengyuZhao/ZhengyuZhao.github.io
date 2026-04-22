@@ -26,9 +26,9 @@
   }
 
 .topnav a.icon {
-	 flex-shrink: 0;      /* 新增：防止链接被压缩 */
-  white-space: nowrap; /* 新增：文字不换行 */
-    display: none;
+    display: inline-block;    /* 确保它们是行内块级元素 */
+    white-space: nowrap;      /* 文字不换行 */
+    /* display: none; */
 }
 
   .topnav img {
@@ -39,8 +39,8 @@
   
   /* Style the links inside the navigation bar */
   .topnav a.normal {
-	 flex-shrink: 0;      /* 新增：防止链接被压缩 */
-  	white-space: nowrap; /* 新增：文字不换行 */
+    display: inline-block;    /* 确保它们是行内块级元素 */
+    white-space: nowrap;      /* 文字不换行 */
     float: right;
     color: #043361;
     text-align: center;
