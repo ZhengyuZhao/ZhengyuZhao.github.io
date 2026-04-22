@@ -15,32 +15,45 @@
     width: 100%;
     
     /* 以下是新增的修复代码 */
-    /* display: flex;          /* 启用弹性布局 */ */
-    /* flex-wrap: nowrap;      /* 强制所有项目在一行内显示，禁止换行 */ */
+    display: flex;          /* 启用弹性布局 */ */
+    flex-wrap: nowrap;      /* 强制所有项目在一行内显示，禁止换行 */
     /* overflow-x: auto;       /* 如果内容超出宽度，显示横向滚动条（可选，但推荐） */ */
-    /* align-items: center;    /* 垂直居中对齐（可选，美化效果） */ */
-	/* -webkit-overflow-scrolling: touch; /* 移动端平滑滚动 */ */
+    align-items: center;    /* 垂直居中对齐（可选，美化效果） */
+	/* -webkit-overflow-scrolling: touch; /* 移动端平滑滚动 */
+	white-space: nowrap; /* 确保父容器不换行 */
+
 
 }
 
-/* .topnav > a { */
-    /* flex-shrink: 0;         /* 禁止子元素被压缩 */ */
-    /* white-space: nowrap;    /* 禁止子元素内部文字换行 */ */
-
-}
   .topnav #myLinks {
-    display: inline;
+    /* display: inline; */
+	    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    flex: 1;                    /* 让它占据剩余空间，把图标推到右边 */
+    overflow-x: auto;           /* 如果链接太多，内部出现横向滚动条 */
   }
+
+.topnav a,
+#myLinks a {
+    /* 新增以下两行 */
+    flex-shrink: 0;
+    white-space: nowrap;
+}
 
 .topnav a.icon {
 
     display: none;
+	 /* 新增 */
+    flex-shrink: 0;
 }
 
   .topnav img {
     margin-bottom:0pt;
     margin-top:10pt;
     margin-left:70%;
+	   /* 新增 */
+    flex-shrink: 0;
   }
   
   /* Style the links inside the navigation bar */
@@ -50,8 +63,8 @@
     text-align: center;
     padding: 10px 9px;
     text-decoration: none;
-    /* font-size: 24px; */
-    font-size: 1vw;
+    font-size: 24px;
+    /* font-size: 1vw; */
 
 
   }
