@@ -32,6 +32,8 @@
     align-items: center;
     flex: 1;                    /* 让它占据剩余空间，把图标推到右边 */
     overflow-x: auto;           /* 如果链接太多，内部出现横向滚动条 */
+	  	/* 新增：让内部元素从右向左排列 */
+    flex-direction: row-reverse;
   }
 
 .topnav a,
@@ -39,8 +41,7 @@
     /* 新增以下两行 */
     flex-shrink: 0;
     white-space: nowrap;
-	/* 新增：让内部元素从右向左排列 */
-    flex-direction: row-reverse;
+
 }
 
 .topnav a.icon {
