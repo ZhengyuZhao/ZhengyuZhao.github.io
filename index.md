@@ -4,7 +4,7 @@ layout: homepage
 
 <h1 id="about-me"></h1>
 
-<h2 style="margin: 20px 0px 10px;"></h2>
+<h2 style="margin: 30px 0px 10px;"></h2>
 
 ## About Me
 <ul style="margin:-5px 0 25px;width:750px">
