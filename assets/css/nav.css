@@ -39,6 +39,8 @@
     /* 新增以下两行 */
     flex-shrink: 0;
     white-space: nowrap;
+	/* 新增：让内部元素从右向左排列 */
+    flex-direction: row-reverse;
 }
 
 .topnav a.icon {
