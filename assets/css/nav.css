@@ -15,10 +15,10 @@
     width: 100%;
     
     /* 以下是新增的修复代码 */
-    /* display: flex;          /* 启用弹性布局 */
-    flex-wrap: nowrap;      /* 强制所有项目在一行内显示，禁止换行 */
-    overflow-x: auto;       /* 如果内容超出宽度，显示横向滚动条（可选，但推荐） */
-    align-items: center;    /* 垂直居中对齐（可选，美化效果） */ */
+    /* display: flex;          /* 启用弹性布局 */ */
+    /* flex-wrap: nowrap;      /* 强制所有项目在一行内显示，禁止换行 */ */
+    /* overflow-x: auto;       /* 如果内容超出宽度，显示横向滚动条（可选，但推荐） */ */
+    /* align-items: center;    /* 垂直居中对齐（可选，美化效果） */ */
 }
 
   .topnav #myLinks {
