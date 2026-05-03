@@ -397,6 +397,24 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://zhengyuzhao.github.io/assets/img/VLMstyle.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">arXiv</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2604.27553v1">Revealing the Impact of Visual Text Style on Attribute-based Descriptions Produced by Large Visual Language Models</a></div>
+      <div class="author">Xiaomeng Wang, Martha Larson, <strong>Zhengyu Zhao</strong></div>
+      <div class="periodical"><em>ACM International Conference on Multimedia Retrieval <strong>(ICMR)</strong>, 2026</em>
+      </div>
+        <div class="links">
+       <a href="https://github.com/XiaomengWang-AI/The-Impact-of-Visual-Text-style-on-Attribute-based-Descriptions-Produced-by-LVLMs" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li> 
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://zhengyuzhao.github.io/assets/img/MOT.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">AAAI</abbr> -->
   </div>
