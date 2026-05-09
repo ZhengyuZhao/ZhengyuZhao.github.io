@@ -173,24 +173,22 @@ permalink: /publications/
 </div>
 </li>
 
-
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/typo.png" class="teaser img-fluid z-depth-1">
-<!--             <abbr class="badge">arXiv</abbr> -->
+    <img src="https://zhengyuzhao.github.io/assets/img/patch_defense.png" class="teaser img-fluid z-depth-1">
   </div>
   <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2502.08193">Typographic Attacks in a Multi-Image Setting</a></div>
-      <div class="author">Xiaomeng Wang, <strong>Zhengyu Zhao</strong>, Martha Larson</div>
-      <div class="periodical"><em>North American Chapter of the Association for Computational Linguistics <strong>(NAACL)</strong>, 2025.</em>
+      <div class="title"><a href="https://arxiv.org/abs/2508.00649">Revisiting Adversarial Patch Defenses on Object Detectors: Unified Evaluation, Large-Scale Dataset, and New Insights</a></div>
+      <div class="author">Junhao Zheng, Jiahao Sun, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Chen Ma, Chong Zhang, Cong Wang, Qian Wang, Chao Shen</div>
+      <div class="periodical"><em>International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.</em>
       </div>
-        <div class="links">
-       <a href="https://github.com/XiaomengWang-AI/Typographic-Attacks-in-a-Multi-Image-Setting" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    <div class="links">
+       <a href="https://github.com/Gandolfczjh/APDE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
-</li> 
+</li>
 
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
@@ -433,23 +431,6 @@ permalink: /publications/
 <li>
 <div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://zhengyuzhao.github.io/assets/img/patch_defense.png" class="teaser img-fluid z-depth-1">
-  </div>
-  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="https://arxiv.org/abs/2508.00649">Revisiting Adversarial Patch Defenses on Object Detectors: Unified Evaluation, Large-Scale Dataset, and New Insights</a></div>
-      <div class="author">Junhao Zheng, Jiahao Sun, Chenhao Lin, <strong>Zhengyu Zhao</strong>, Chen Ma, Chong Zhang, Cong Wang, Qian Wang, Chao Shen</div>
-      <div class="periodical"><em>International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.</em>
-      </div>
-    <div class="links">
-       <a href="https://github.com/Gandolfczjh/APDE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-</li>
-
-<li>
-<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://zhengyuzhao.github.io/assets/img/U3.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">ACM MM</abbr> -->
   </div>
@@ -480,6 +461,25 @@ permalink: /publications/
         <div class="links">
        <a href="https://github.com/liuzrcc/Resisting-Bag-based-Profiling" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
        <a href="https://dl.acm.org/doi/10.1145/3450613.3456832" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Preliminary version@UMAP 2021</a>
+    </div>
+  </div>
+</div>
+</li> 
+
+
+<li>
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://zhengyuzhao.github.io/assets/img/typo.png" class="teaser img-fluid z-depth-1">
+<!--             <abbr class="badge">arXiv</abbr> -->
+  </div>
+  <div id="zhao" class="col-sm-9" style="position: relative;width: 100%;padding-right: 0px;padding-left: 0px;">
+      <div class="title"><a href="https://arxiv.org/abs/2502.08193">Typographic Attacks in a Multi-Image Setting</a></div>
+      <div class="author">Xiaomeng Wang, <strong>Zhengyu Zhao</strong>, Martha Larson</div>
+      <div class="periodical"><em>North American Chapter of the Association for Computational Linguistics <strong>(NAACL)</strong>, 2025.</em>
+      </div>
+        <div class="links">
+       <a href="https://github.com/XiaomengWang-AI/Typographic-Attacks-in-a-Multi-Image-Setting" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
