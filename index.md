@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;"></h2>
 
-## About Me <a href="https://gr.xjtu.edu.cn/zh/web/zhengyu.zhao" style="font-size: 24px;">[中文主页]</a>
+## About Me <a href="https://gr.xjtu.edu.cn/zh/web/zhengyu.zhao" style="font-size: 19px;">[中文主页]</a>
 
 <ul style="margin:-5px 0 25px;width:750px">
 I am a Professor at <a href="http://en.xjtu.edu.cn/XJTU_Introduction/Introduction.htm">Xi'an Jiaotong University</a>, China. In 2022-2023, I was a postdoc at <a href="https://cispa.de/en/about">CISPA Helmholtz Center for Information Security</a>, Germany, hosted by <a href="https://michaelbackes.eu/aboutme.html">Prof. Michael Backes</a> and <a href="https://yangzhangalmo.github.io/">Dr. Yang Zhang</a>.
