@@ -601,7 +601,7 @@ permalink: /publications/
 </details>
 
 <details>
-<summary><h2 id="publications" style="margin: 30px 0px -30px;display: inline-block;">Machine Learning for Security</h2></summary>
+<summary><h2 id="publications" style="margin: 30px 0px -30px;display: inline-block;">Multimedia Security</h2></summary>
 
 <div class="publications">
 <ol class="bibliography">
