@@ -440,7 +440,7 @@ permalink: /publications/
       <div class="periodical"><em>ACM Conference on Computer and Communications Security <strong>(CCS)</strong>, 2025.</em>
       </div>
     <div class="links">
-       <a href="https://zhengyuzhao.github.io/publications/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+       <a href="https://sites.google.com/view/secure-safe-ai/controlloc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
