@@ -19,7 +19,7 @@ In 2017-2021, I did my PhD at <a href="https://www.ru.nl/english/">Radboud Unive
     </li> 
   <li><strong>30% Adversarial Machine Learning: Applications</strong> of attacks/defenses for (multimodal) generative models, autonomous driving...<br>
     </li> 
-  <li><strong>20% Multimedia Security:</strong> multimedia deepfake detection, multimedia content moderation...<br>
+  <li><strong>20% Multimedia Security:</strong> deepfake detection, content moderation...<br>
     </li> 
 </ul>
 
