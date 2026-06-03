@@ -10,6 +10,10 @@ permalink: /group/
 
 <h4 style="margin: 0px 10px 0;">PhD Students</h4>
 <ul style="margin:0 0 5px;">
+
+  <li><a href="https://scholar.google.com/citations?user=fBfRKcsAAAAJ">Yuhang Wang</a> (2026.09- )<br>
+  <!-- <strong>First-author publications:</strong> <a href="https://arxiv.org/abs/2508.05658">MM 2025</a></li> -->
+  
   <li><a href="https://openreview.net/profile?id=%7ESong_Yan4">Song Yan</a> (2025.09- )<br>
   <strong>First-author publications:</strong> <a href="https://arxiv.org/abs/2508.05658">MM 2025</a></li>
   
