@@ -30,17 +30,17 @@ permalink: /group/
 
   <li>Fatong Zhang (2026.09- )<br></li>
 
-  <li>Honglin Dong (2026.09- )<br></li>
+  <li>Honglin Dong (2026.09-, co-supervised)<br></li>
   
-  <li>Zikang Fang (2026.09- )<br></li>
+  <li>Zikang Fang (2026.09-, co-supervised)<br></li>
 
   <li>Jing Li (2025.09- )<br></li>
 
   <li>Shuaidong Li (2025.09- )<br></li>
 
-  <li>Shunyuan Bai (2025.09- )<br></li>
+  <li>Shunyuan Bai (2025.09-, co-supervised)<br></li>
   
-  <li>Xinshan Yang (2024.09- )<br></li>
+  <li>Xinshan Yang (2024.09-, co-supervised)<br></li>
 
   <li>Ziyi Jia (2024.09- )<br></li>
 
