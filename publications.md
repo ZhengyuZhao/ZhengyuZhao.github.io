@@ -65,7 +65,7 @@ permalink: /publications/
 </li>
 
 <li>
-<div class="pub-row" style="margin: -30px 0px -30px;width:950px">
+<div class="pub-row" style="margin: 0px 0px -30px;width:950px">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://zhengyuzhao.github.io/assets/img/CLIProbust_2026.png" class="teaser img-fluid z-depth-1">
 <!--             <abbr class="badge">CVPR</abbr> -->
