@@ -18,7 +18,7 @@ permalink: /services/
 <ul style="margin:0 0 5px;">
   <li>ICML: 2026, 2025</li>
   <li>NeurIPS: 2026, 2025, 2024</li>
-  <li>AAAI: 2024, 2023</li>
+  <li>AAAI: 2027, 2024, 2023</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Conference Program Committee</h4>
