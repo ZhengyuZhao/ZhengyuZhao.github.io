@@ -16,6 +16,7 @@ permalink: /services/
 
 <h4 style="margin:0 10px 0;">Conference Area Chair/Senior Program Committee</h4>
 <ul style="margin:0 0 5px;">
+  <li>ICLR: 2027</li>
   <li>ICML: 2026, 2025</li>
   <li>NeurIPS: 2026, 2025, 2024</li>
   <li>AAAI: 2027, 2024, 2023</li>
