@@ -37,10 +37,10 @@ In 2017-2021, I did my PhD at <a href="https://www.ru.nl/english/">Radboud Unive
 <!-- <li>Notable Area Chair Award of NeurIPS 2024</li> -->
 <li>Outstanding Reviewer of NeurIPS 2023, AISTATS 2023, BMVC 2022, BMVC 2020</li>
 <li>Best Paper Award of <a href="https://picasso-2025.github.io/2025.html">PICASSO@UbiComp 2025</li>
-<li>1st place in <a href="https://ai-safety-workshop-ijcai2026.github.io/leaderboard.html">IJCAI 2026 Competition on Black-box Adversarial Attacks against OpenClaw Agents</a></li>
-<li>2nd place in <a href="https://icml-tifa.github.io/challenges/track1/">ICML 2024 Competition on Black-box Adversarial Attacks against Multimodal Large Language Models</a></li>
-<li>3rd place in <a href="https://cvpr24-advml.github.io/">CVPR 2024 Competition on Black-box Adversarial Attacks against Vision-Language Models</a></li>
-<li>Top 1% in <a href="https://aisecure-workshop.github.io/amlcvpr2021/">CVPR 2021 Competition on Black-box Adversarial Attacks against ImageNet Classifiers</a></li>
+<li>1st place in <a href="https://ai-safety-workshop-ijcai2026.github.io/leaderboard.html">IJCAI 2026 Competition on Black-box Prompt Injection against OpenClaw Agents</a></li>
+<li>2nd place in <a href="https://icml-tifa.github.io/challenges/track1/">ICML 2024 Competition on Black-box Adversarial Examples against Multimodal Large Language Models</a></li>
+<li>3rd place in <a href="https://cvpr24-advml.github.io/">CVPR 2024 Competition on Black-box Adversarial Examples against Vision-Language Models</a></li>
+<li>Top 1% in <a href="https://aisecure-workshop.github.io/amlcvpr2021/">CVPR 2021 Competition on Black-box Adversarial Examples against ImageNet Classifiers</a></li>
 <li>Student Travel Grant of MM 2018 & 2019</li>  
 </ul>  
 
