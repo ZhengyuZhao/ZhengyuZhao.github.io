@@ -50,7 +50,7 @@ In 2017-2021, I did my PhD at <a href="https://www.ru.nl/english/">Radboud Unive
 <li>I love music, particularly Chinese music.</li>
 <li>I respect <a href="https://nicholas.carlini.com/">Dr. Nicholas Carlini</a> for his long-term dedication to rightful evaluations.</li>
 
-<h2 style="margin: 30px 0px 10px;">Support</h2>
+## Support
 
 <ul style="margin:0 0 5px;">
   <li>Info (Birth Day: 2017.06.01, Birth Place: Germany)
