@@ -49,10 +49,10 @@ In 2017-2021, I did my PhD at <a href="https://www.ru.nl/english/">Radboud Unive
 <li>I like simple yet effective (research) ideas.</li>
 <li>I love music, particularly Chinese music.</li>
 <li>I respect <a href="https://nicholas.carlini.com/">Dr. Nicholas Carlini</a> for his long-term dedication to rightful evaluations.</li>
+</ul> 
 
 ## Support
-
-<ul style="margin:0 0 5px;">
+<ul style="margin:-5px 0 25px;width:950px">
   <li>Info (Birth Day: 2017.06.01, Birth Place: Germany)
           <br><img src="https://zhengyuzhao.github.io/assets/img/info1.jpg" height="150"><img src="https://zhengyuzhao.github.io/assets/img/info2.jpg" height="150"><img src="https://zhengyuzhao.github.io/assets/img/info3.jpg" height="150">
         </li>
