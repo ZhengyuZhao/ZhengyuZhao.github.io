@@ -49,7 +49,18 @@ In 2017-2021, I did my PhD at <a href="https://www.ru.nl/english/">Radboud Unive
 <li>I like simple yet effective (research) ideas.</li>
 <li>I love music, particularly Chinese music.</li>
 <li>I respect <a href="https://nicholas.carlini.com/">Dr. Nicholas Carlini</a> for his long-term dedication to rightful evaluations.</li>
+
+<h2 style="margin: 30px 0px 10px;">Support</h2>
+
+<ul style="margin:0 0 5px;">
+  <li>Info (Birth Day: 2017.06.01, Birth Place: Germany)
+          <br><img src="https://zhengyuzhao.github.io/assets/img/info1.jpg" height="150"><img src="https://zhengyuzhao.github.io/assets/img/info2.jpg" height="150"><img src="https://zhengyuzhao.github.io/assets/img/info3.jpg" height="150">
+        </li>
   
+  <li>Hola (Birth Day: 2016.03.12, Birth Place: Netherlands)
+          <br><img src="https://zhengyuzhao.github.io/assets/img/hola1.jpg" height="150"><img src="https://zhengyuzhao.github.io/assets/img/hola2.jpg" height="150"><img src="https://zhengyuzhao.github.io/assets/img/hola3.jpg" height="150">
+        </li>
+</ul> 
 <!--
 ## Contact
 **Address:** [Xi'an Jiaotong University](http://en.xjtu.edu.cn/)
