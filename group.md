@@ -13,10 +13,10 @@ permalink: /group/
 
   <li><a href="https://scholar.google.com/citations?user=fBfRKcsAAAAJ">Yuhang Wang</a> (2026.09- )</li>
   
-  <li><a href="https://openreview.net/profile?id=%7ESong_Yan4">Song Yan</a> (2025.09- )<br>
+  <li><a href="https://scholar.google.com/citations?user=CgO8P1IAAAAJ">Song Yan</a> (2025.09- )<br>
   <strong>First-author publications:</strong> <a href="https://arxiv.org/abs/2508.05658">MM 2025</a></li>
   
-  <li><a href="https://scholar.google.com/citations?hl=zh-CN&user=9H4s8Z0AAAAJ">Yuchen Ren</a> (2024.09- )<br>
+  <li><a href="https://scholar.google.com/citations?user=9H4s8Z0AAAAJ">Yuchen Ren</a> (2024.09- )<br>
   <strong>First-author publications:</strong> <a href="https://arxiv.org/abs/2607.14974">TIFS 2026</a>, <a href="https://arxiv.org/abs/2503.15404">CVPR 2025</a>, <a href="https://arxiv.org/abs/2412.18844">AAAI 2025</a></li>
   
   <li><a href="https://scholar.google.com/citations?user=dV15IwIAAAAJ">Xiaomeng Wang</a> (2023.09-, co-supervised), Radboud University, Netherlands<br>
