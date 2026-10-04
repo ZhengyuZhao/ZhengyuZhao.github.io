@@ -3,9 +3,8 @@ layout: default
 title: People
 permalink: /people/
 ---
-## Adversarial Learning and Analysis of Risky Multimedia (ALARM) Lab @ <a href="https://github.com/aisec-xjtu-group">XJTU-AISEC Group</a></h1>
 
-<h2 style="color:darkred;">Adversarial Learning and Analysis of Risky Multimedia (ALARM) Lab @ <a href="https://github.com/aisec-xjtu-group">XJTU-AISEC Group</a></h1>
+<h2 style="color:darkred;">Adversarially Learning and Analyzing Risky Multimedia (ALARM) Lab @ <a href="https://github.com/aisec-xjtu-group">XJTU-AISEC Group</a></h2>
 
 <h2 style="margin: 60px 0px 10px;">Current</h2>
 
