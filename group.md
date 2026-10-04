@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Group
-permalink: /group/
+title: People
+permalink: /people/
 ---
 
 <h1 id="students"></h1>
