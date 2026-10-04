@@ -3,8 +3,8 @@ main:
   # - title: "Teaching"
   #   url: /teaching/
     
-  - title: "Group"
-    url: /group/
+  - title: "People"
+    url: /people/
     right: true 
 
   # - title: "Talks"
