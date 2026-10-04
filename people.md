@@ -4,9 +4,9 @@ title: People
 permalink: /people/
 ---
 
-<div style="display:flex; align-items:center; gap:20px;margin: 0px 0px 10px;">
+<div style="display:flex; align-items:center; gap:20px;margin: 60px 0px 10px;">
   <img src="https://zhengyuzhao.github.io/assets/img/lab_logo.jpeg" style="width:100px; height:auto;">
-  <div style="flex: 1; display: flex; flex-direction: column; justify-content: center; align-self: stretch;"><h2 style="margin: 0px 0px 10px;color:darkred;"> Adversarially Learning and Analyzing Risky Multimedia (ALARM) Lab @ <a href="https://github.com/aisec-xjtu-group">XJTU-AISEC Group</a></h2></div>
+  <div style="flex: 1; display: flex; flex-direction: column; justify-content: center; align-self: stretch;"><h2 style="margin: 0px 0px 10px;color:darkred;">Adversarially Learning and Analyzing Risky Multimedia (ALARM) Lab @ <a href="https://github.com/aisec-xjtu-group">XJTU-AISEC Group</a></h2></div>
 </div>
 
 <!-- <h2 style="margin: 0px 0px 10px;color:darkred;"><img src="https://zhengyuzhao.github.io/assets/img/lab_logo.jpeg" width="100"> Adversarially Learning and Analyzing Risky Multimedia (ALARM) Lab @ <a href="https://github.com/aisec-xjtu-group">XJTU-AISEC Group</a></h2> -->
