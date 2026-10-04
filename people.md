@@ -3,8 +3,9 @@ layout: default
 title: People
 permalink: /people/
 ---
+## Adversarial Learning and Analysis of Risky Multimedia (ALARM) Lab @ <a href="https://github.com/aisec-xjtu-group">XJTU-AISEC Group</a></h1>
 
-<h1 id="students"></h1>
+<h2 style="color:darkred;">Adversarial Learning and Analysis of Risky Multimedia (ALARM) Lab @ <a href="https://github.com/aisec-xjtu-group">XJTU-AISEC Group</a></h1>
 
 <h2 style="margin: 60px 0px 10px;">Current</h2>
 
@@ -19,7 +20,7 @@ permalink: /people/
   <li><a href="https://scholar.google.com/citations?user=9H4s8Z0AAAAJ">Yuchen Ren</a> (2024.09- )<br>
   <strong>First-author publications:</strong> <a href="https://arxiv.org/abs/2607.14974">TIFS 2026</a>, <a href="https://arxiv.org/abs/2503.15404">CVPR 2025</a>, <a href="https://arxiv.org/abs/2412.18844">AAAI 2025</a></li>
   
-  <li><a href="https://scholar.google.com/citations?user=dV15IwIAAAAJ">Xiaomeng Wang</a> (2023.09-, co-supervised), Radboud University, Netherlands<br>
+  <li><a href="https://scholar.google.com/citations?user=dV15IwIAAAAJ">Xiaomeng Wang</a> (2023.09-, co-supervised with <a href="https://scholar.google.com/citations?user=eIiM958AAAAJ&hl=en">Prof. Martha Larson</a>), Radboud University, Netherlands<br>
   <strong>First-author publications:</strong> <a href="https://arxiv.org/abs/2604.27553v1">ICMR 2026</a>, <a href="https://arxiv.org/abs/2502.08193">NAACL 2025</a></li>
 </ul>
 
@@ -32,17 +33,17 @@ permalink: /people/
 
   <li>Fatong Zhang (2026.09- )<br></li>
 
-  <li>Honglin Dong (2026.09-, co-supervised)<br></li>
+  <li>Honglin Dong (2026.09-, co-supervised with <a href="https://scholar.google.com/citations?user=m6QY7-wAAAAJ&hl=en">Prof. Chao Shen</a>)<br></li>
   
-  <li>Zikang Fang (2026.09-, co-supervised)<br></li>
+  <li>Zikang Fang (2026.09-, co-supervised with <a href="https://scholar.google.com/citations?user=m6QY7-wAAAAJ&hl=en">Prof. Chao Shen</a>)<br></li>
 
   <li>Jing Li (2025.09- )<br></li>
 
   <li>Shuaidong Li (2025.09- )<br></li>
 
-  <li>Shunyuan Bai (2025.09-, co-supervised)<br></li>
+  <li>Shunyuan Bai (2025.09-, co-supervised with <a href="https://scholar.google.com/citations?user=m6QY7-wAAAAJ&hl=en">Prof. Chao Shen</a>)<br></li>
   
-  <li>Xinshan Yang (2024.09-, co-supervised)<br></li>
+  <li>Xinshan Yang (2024.09-, co-supervised with <a href="https://scholar.google.com/citations?user=m6QY7-wAAAAJ&hl=en">Prof. Chao Shen</a>)<br></li>
 
   <li>Ziyi Jia (2024.09- )<br></li>
 
