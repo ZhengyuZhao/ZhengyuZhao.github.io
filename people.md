@@ -26,6 +26,8 @@ permalink: /people/
 
 <h4 style="margin: 0px 10px 0;">Master Students</h4>
 <ul style="margin:0 0 5px;">
+  <li>Boyang Xu (2027.09- )<br></li>
+  
   <li>Zhen Wang (2026.09- )<br></li>
 
   <li>Fatong Zhang (2026.09- )<br></li>
