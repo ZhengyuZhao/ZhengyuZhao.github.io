@@ -44,9 +44,10 @@ permalink: /people/
 
   <li>Shunyuan Bai (2025.09-, co-supervised with <a href="https://scholar.google.com/citations?user=m6QY7-wAAAAJ&hl=en">Prof. Chao Shen</a>)<br></li>
   
+  <li>Ziyi Jia (2024.09- )<br></li>
+
   <li>Xinshan Yang (2024.09-, co-supervised with <a href="https://scholar.google.com/citations?user=m6QY7-wAAAAJ&hl=en">Prof. Chao Shen</a>)<br></li>
 
-  <li>Ziyi Jia (2024.09- )<br></li>
 
 </ul>
 
