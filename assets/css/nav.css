@@ -64,9 +64,12 @@
     float: right;
     color: #043361;
     text-align: center;
-    padding: 10px 20px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 9px;
     text-decoration: none;
-    font-size: 24px;
+    font-size: 30px;
     /* font-size: 1vw; */
 
 
