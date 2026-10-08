@@ -1,6 +1,6 @@
 ---
 layout: default
-title: People
+title: ALARM Lab
 permalink: /people/
 ---
 
