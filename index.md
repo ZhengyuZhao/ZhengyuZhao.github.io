@@ -51,16 +51,7 @@ In 2017-2021, I did my PhD at <a href="https://www.ru.nl/english/">Radboud Unive
 <li>I respect <a href="https://nicholas.carlini.com/">Dr. Nicholas Carlini</a> for his long-term dedication to rightful evaluations.</li>
 </ul> 
 
-## Support
-<ul style="margin:-5px 0 25px;width:950px">
-  <li>Info (Birth Day: 2017.06.01, Birth Place: Germany)
-          <br><img src="https://zhengyuzhao.github.io/assets/img/info1.jpg" height="150"><img src="https://zhengyuzhao.github.io/assets/img/info2.jpg" height="150"><img src="https://zhengyuzhao.github.io/assets/img/info3.jpg" height="150">
-        </li>
-  
-  <li>Hola (Birth Day: 2016.03.12, Birth Place: Netherlands)
-          <br><img src="https://zhengyuzhao.github.io/assets/img/hola1.jpg" height="150"><img src="https://zhengyuzhao.github.io/assets/img/hola2.jpg" height="150"><img src="https://zhengyuzhao.github.io/assets/img/hola3.jpg" height="150">
-        </li>
-</ul> 
+
 <!--
 ## Contact
 **Address:** [Xi'an Jiaotong University](http://en.xjtu.edu.cn/)
