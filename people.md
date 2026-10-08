@@ -71,3 +71,15 @@ permalink: /people/
   <li><a href="https://zhizhen-chen.com/">Zhizhen Chen</a> (2023.11-2025.03) Now PhD student at University of Virginia, USA<br>
   <strong>First-author publications:</strong> <a href="https://arxiv.org/abs/2412.03908">arXiv 2024</a></li>
 </ul>
+
+
+<h2 style="margin: 30px 0px 10px;">Alumni</h2>
+<ul style="style="margin:0 0 5px;">
+  <li>Info (Birth Day: 2017.06.01, Birth Place: Germany)
+          <br><img src="https://zhengyuzhao.github.io/assets/img/info1.jpg" height="150"><img src="https://zhengyuzhao.github.io/assets/img/info2.jpg" height="150"><img src="https://zhengyuzhao.github.io/assets/img/info3.jpg" height="150">
+        </li>
+  
+  <li>Hola (Birth Day: 2016.03.12, Birth Place: Netherlands)
+          <br><img src="https://zhengyuzhao.github.io/assets/img/hola1.jpg" height="150"><img src="https://zhengyuzhao.github.io/assets/img/hola2.jpg" height="150"><img src="https://zhengyuzhao.github.io/assets/img/hola3.jpg" height="150">
+        </li>
+</ul> 
